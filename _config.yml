@@ -13,7 +13,7 @@ author_description: Blog um den eigenen Garten
 email: me@sebastianblei.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog rund um den Garten von Sebastian Blei. 
-baseurl: "/bot/" # the subpath of your site, e.g. /blog
+baseurl: "/bot" # the subpath of your site, e.g. /blog
 url: "http://bot.sebastian.science" # the base hostname & protocol for your site
 
 # Picturefill
