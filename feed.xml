@@ -4,10 +4,10 @@
     <title>Gartenblog</title>
     <description>Blog rund um den Garten von Sebastian Blei. 
 </description>
-    <link>http://bot.sebastian.science/bot//</link>
-    <atom:link href="http://bot.sebastian.science/bot//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 May 2016 15:26:37 +0200</pubDate>
-    <lastBuildDate>Mon, 09 May 2016 15:26:37 +0200</lastBuildDate>
+    <link>http://bot.sebastian.science/bot/</link>
+    <atom:link href="http://bot.sebastian.science/bot/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 09 May 2016 15:31:18 +0200</pubDate>
+    <lastBuildDate>Mon, 09 May 2016 15:31:18 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -27,8 +27,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 09 May 2016 11:15:14 +0200</pubDate>
-        <link>http://bot.sebastian.science/bot//jekyll/theme/2016/05/09/ein-pfad-fur-die-rhetorik/</link>
-        <guid isPermaLink="true">http://bot.sebastian.science/bot//jekyll/theme/2016/05/09/ein-pfad-fur-die-rhetorik/</guid>
+        <link>http://bot.sebastian.science/bot/jekyll/theme/2016/05/09/ein-pfad-fur-die-rhetorik/</link>
+        <guid isPermaLink="true">http://bot.sebastian.science/bot/jekyll/theme/2016/05/09/ein-pfad-fur-die-rhetorik/</guid>
         
         
         <category>jekyll</category>
