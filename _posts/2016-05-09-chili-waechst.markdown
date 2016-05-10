@@ -11,6 +11,6 @@ Leider habe ich nicht notiert, welche Chili das ist. Entweder eine Weiße, mit e
 Fest steht nur, dass sie momentan unglaublich gut wächst. Mindestens zwanzig Blütenknospen kann ich entdecken. Noch vor etwa sechs Wochen, hatte die Pflanze lediglich vier bis fünf Blattpaar. Nun kann man die Blätter kaum noch zählen. Ich schätze sie auf 30 Paar.
 
 <div class="post-image">
-    <img src="img/chili_2016-05-10.jpg" alt="The first in an example of split-imagery" />
-    <p class="post-image-caption">Die Chili. Sorte ist mir unbekannt.</p>
+    <img src="img/chili_01.jpeg" alt="The first in an example of split-imagery" />
+    <p class="post-image-caption">Die Chili. Sorte ist mir nicht g&auml;nzlich unbekannt, ich kann sie auf Grund bestellter Samen eingrenzen. Leider ist die Beschriftung der Sorte aber vom Pflanzbeh&auml;lter abgefallen.</p>
 </div>
