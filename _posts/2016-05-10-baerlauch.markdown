@@ -9,10 +9,10 @@ about: Bärlauch
 Die letzten Bärlauch-Blätter und -blüten wurden geerntet und direkt zur Kräutermargarine verarbeitet.
 
 <div class="post-image">
-    <img src="img/baerlauch_01.jpeg" alt="Bärlauch" />
+    <img src="/img/baerlauch_01.jpeg" alt="Bärlauch" />
     <p class="post-image-caption">Bärlauch in voller Blüte</p>
 </div>
 <div class="post-image">
-    <img src="img/baerlauch_02.jpeg" alt="Bärlauch Margarine" />
+    <img src="/img/baerlauch_02.jpeg" alt="Bärlauch Margarine" />
     <p class="post-image-caption">Bärlauch Margarine</p>
 </div>
