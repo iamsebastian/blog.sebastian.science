@@ -93,18 +93,40 @@ section[role="main"] {
   max-width: 750px;
   width: 100%;
 
-  > g:hover {
-    opacity: 0.5;
+  &:hover {
+    > g {
+      opacity: 0.5;
+    }
+  }
+
+  > g {
+    &:hover {
+      opacity: 1;
+    }
   }
 
   .info_hover {
+    /*display: none;*/
+  }
+
+  .sibling_hover {
+    opacity: 0.5;
     display: none;
   }
 
   g:hover {
-    g.info_hover {
-      display: inherit;
-      z-index: 100;
+    /*opacity: 1;*/
+
+    & + .sibling_hover {
+      opacity: 1;
+      display: block;
     }
+
+    & ~ g {
+      /*opacity: 0.2;*/
+    }
+    /*g.info_hover {*/
+      /*display: inherit;*/
+    /*}*/
   }
 }

@@ -91,8 +91,12 @@ Hier folgt die Auflistung der einzelnen Beete.
     <g transform="translate({{p.x}},{% if p.y %}{{ p.y }}{% else %}0{% endif %})" {% if type.opacity %}opacity="{{ type.opacity }}"{% endif %} height="10">
       <title>{{ type.name }}</title>
       <rect opacity="0.9" x="0" fill="url(#{{ p.type | slugify }}Pattern)" y="0" height="{% if p.h %}{{ p.h }}{% else %}100%{% endif %}" width="{{ ar }}"></rect>
-        <text x="4" y="-4" transform="rotate(90)">{{ type.name }} {% if p.sub %}({{ p.sub }}){% endif %} </text>
-      <g transform="translate(0,0)" class="info_hover">
+    </g>
+    <g class="sibling_hover">
+      <rect x="0" y="0" width="100%" height="40" opacity="0.9" fill="white"/>
+      <text x="4" y="12" fill="grey">{{ type.name }} {% if p.sub %}({{ p.sub }}){% endif %} </text>
+
+      <g transform="translate(0,20)" class="info_hover">
         <rect opacity="0.8" x="0" fill="white" y="0" height="{% if p.h %}{{ p.h }}{% else %}100%{% endif %}" width="25"></rect>
 
         {% if type.eq_dislikes %}
@@ -101,12 +105,13 @@ Hier folgt die Auflistung der einzelnen Beete.
           {% assign dislikes = type.dislikes %}
         {% endif %}
         {% if dislikes %}
-          <g transform="translate(0,0)" stroke-width="2" stroke="red" fill="orange">
+          <g transform="translate(4,0)" stroke-width="2" stroke="red" fill="orange">
             <circle cx="7" cy="7" r="6" fill="none"/>
             <line x1="2" x2="12" y1="2" y2="12" />
             <line x1="2" x2="12" y1="12" y2="2" />
           </g>
-          <text transform="translate(5,18),rotate(90)">
+          {% comment %}<text transform="translate(5,18),rotate(90)">{% endcomment %}
+          <text transform="translate(22,10)">
             {{ dislikes | array_to_sentence_string }}
           </text>
         {% else %}
