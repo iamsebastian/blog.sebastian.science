@@ -202,7 +202,7 @@
         display: none;
 
         @include min-breakpoint($desktop-breakpoint) {
-            @include retina-background-image($img-location);
+            @include retina-background-image($img-berry);
             display: block;
             background-repeat: no-repeat;
             background-position: right center;

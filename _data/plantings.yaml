@@ -1,0 +1,155 @@
+0:
+  - type: pastinake
+    x: 0
+  - type: weg
+    x: 35
+  - type: karotte
+    x: 60
+  - type: radies
+    sub: Ostereier Mix
+    x: 90
+  - type: radies
+    sub: Jap. Melonenoptik
+    x: 110
+  - type: rauke
+    x: 140
+  - type: karotte
+    sub: "Saatband: Weiß u. Gelb"
+    x: 240
+  - type: kapuziner_kresse
+    sub: k. Kriechende
+    x: 300
+    y: 0
+    h: 150
+  - type: borretsch
+    x: 320
+    y: 150
+    h: 150
+  - type: palmkohl
+    x: 350
+  - type: kartoffeln
+    sub: Hela
+    x: 390
+  - type: kartoffeln
+    sub: Alica
+    x: 460
+  - type: kartoffeln
+    sub: Red Duke of York
+    x: 530
+
+1:
+  - type: mais
+    x: 20
+  - type: feuerbohne
+    x: 40
+  - type: mais
+    x: 55
+  - type: kuerbis
+    x: 55
+    y: 150
+    h: 100
+  - type: feuerbohne
+    x: 70
+  - type: mais
+    x: 85
+  - type: kartoffeln
+    sub: X
+    x: 180
+    y: 0
+    h: 125
+  - type: kartoffeln
+    sub: X
+    x: 180
+    y: 0
+    h: 125
+  - type: kartoffeln
+    sub: X
+    x: 260
+    y: 0
+    h: 125
+  - type: kartoffeln
+    sub: X
+    x: 260
+    y: 125
+    h: 125
+  - type: kartoffeln
+    sub: X
+    x: 340
+    y: 0
+    h: 125
+  - type: kartoffeln
+    sub: X
+    x: 340
+    y: 125
+    h: 125
+  - type: kartoffeln
+    sub: X
+    x: 420
+    y: 0
+    h: 125
+  - type: kartoffeln
+    sub: X
+    x: 420
+    y: 125
+    h: 125
+  - type: kartoffeln
+    sub: X
+    x: 500
+    y: 0
+    h: 125
+  - type: kartoffeln
+    sub: X
+    x: 500
+    y: 125
+    h: 125
+2:
+  #row3
+  - type: tomaten
+    sub: Besser
+    x: 0
+    y: 150
+    h: 75
+    w: 100
+  - type: tomaten
+    sub: Schwarze Mohren
+    x: 100
+    y: 150
+    h: 75
+    w: 350
+  - type: tomaten
+    sub: Gelbe Johannisb.
+    x: 450
+    y: 150
+    h: 75
+  #row4
+  - type: tomaten
+    sub: Besser
+    x: 0
+    y: 225
+    h: 75
+    w: 150
+  - type: tomaten
+    sub: Idyl
+    x: 150
+    y: 225
+    h: 75
+    w: 150
+  - type: chili
+    sub: Baum-Chili
+    x: 300
+    y: 225
+    h: 75
+  - type: chili
+    sub: Drachenfeuer?
+    x: 350
+    y: 225
+    h: 75
+  - type: paprika
+    sub: Grüne
+    x: 400
+    y: 225
+    h: 75
+  - type: skartoffeln
+    x: 450
+    y: 225
+    h: 75

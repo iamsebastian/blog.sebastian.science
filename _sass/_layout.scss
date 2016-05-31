@@ -85,3 +85,26 @@ section[role="main"] {
         width: $layout-width;
     }
 }
+
+.svg-beds {
+  box-shadow: 0 0 0px 8px #fff, 0 0 4px 8px #ddd;
+  height: auto;
+  margin: 24px 8px;
+  max-width: 750px;
+  width: 100%;
+
+  > g:hover {
+    opacity: 0.5;
+  }
+
+  .info_hover {
+    display: none;
+  }
+
+  g:hover {
+    g.info_hover {
+      display: inherit;
+      z-index: 100;
+    }
+  }
+}

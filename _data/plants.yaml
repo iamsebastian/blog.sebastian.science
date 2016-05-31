@@ -1,0 +1,103 @@
+pastinake:
+  ar: 35
+  ai: 10
+  name: Pastinake
+weg:
+  ar: 20
+  name: Weg
+  opacity: 0.4
+karotte:
+  ar: 15
+  name: Karotte
+radies:
+  ar: 15
+  name: Radies
+kartoffeln:
+  ar: 60
+  ai: 25
+  name: Kartoffel
+  dislikes:
+    - sellerie
+    - rote_beete
+    - salat
+    - paprika
+    - erbsen
+    - auberginen
+rauke:
+  ar: 15
+  name: Rauke
+  eq_dislikes: salat
+salat:
+  dislikes:
+    - kartoffeln
+sellerie:
+  ar: 50
+  name: Sellerie
+kapuziner_kresse:
+  ar: 20
+  name: Kapuziner Kresse
+borretsch:
+  ar: 20
+  name: Borretsch
+palmkohl:
+  eq_dislikes: kohl
+mais:
+  ar: 45
+  ai: 45
+  name: Mais
+  dislikes:
+    - sellerie
+    - rote_beete
+bohne:
+  dislikes:
+    - zwiebel
+    - lauch
+    - porree
+    - knoblauch
+    - fenchel
+    - erbsen
+feuerbohne:
+  eq_dislikes: bohne
+  ar: 60
+  ai: 12
+  name: Feuerbohne
+buschbohne:
+  eq_dislikes: bohne
+  ar: 20
+  ai: 5
+  name: Buschbohne
+stangenbohne:
+  eq_dislikes: bohne
+  ar: 60
+  ai: 12
+  name: Stangenbohne
+kuerbis:
+  ar: 100
+  ai: 100
+  name: Kürbis
+  dislikes:
+    - gurken
+tomaten:
+  ar: 50
+  ai: 50
+  name: Tomaten
+  dislikes:
+    - gurken
+    - kartoffeln
+chili:
+  ar: 50
+  ai: 50
+  name: Chili
+  dislikes:
+    - kartoffeln
+    - auberginen
+paprika:
+  ar: 50
+  ai: 50
+  name: Paprika
+  eq_dislikes: chili
+skartoffeln:
+  ar: 50
+  ai: 50
+  name: Süßkartoffeln
+  eq_dislikes: chili
