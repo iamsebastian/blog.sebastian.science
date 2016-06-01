@@ -1,9 +1,5 @@
 @import "modules/post/variables";
 @mixin galileo-post {
-  ul {
-    list-style: inside none lower-roman
-  }
-
   .post::after {
     @include retina-background-image($img-separator);
     background-repeat: no-repeat;
@@ -76,6 +72,11 @@
       margin-bottom: 25px;
       letter-spacing: $base-letter-spacing;
     }
+
+    ul {
+      list-style: inside none lower-roman
+    }
+
   }
 
   .post-body-location,
