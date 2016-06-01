@@ -153,3 +153,44 @@
     x: 450
     y: 225
     h: 75
+3:
+  - type: weg
+    sub: Kompost
+    x: 0
+    y: 0
+    w: 90
+  - type: kohlrabi
+    sub: Kohlrabi v. Markt
+    x: 100
+    y: 20
+  - type: salat
+    sub: Kopf- u. Kraus v. Markt
+    x: 140
+    y: 20
+  - type: salat
+    sub: Kopf- u. Kraus v. Markt
+    x: 180
+    y: 20
+  - type: himbeeren
+    sub: Zweijährige v. Nachbarn
+    x: 220
+    y: 20
+  - type: knoblauch
+    x: 275
+    y: 20
+  - type: erdbeeren
+    sub: Ableger u. Neue
+    x: 300
+    y: 20
+    w: 160
+  - type: erdbeeren
+    sub: Klettererdbeere
+    x: 475
+    y: 220
+    h: 20
+    w: 34
+  - type: weg
+    x: 475
+    h: 200
+  - type: weg
+    x: 260

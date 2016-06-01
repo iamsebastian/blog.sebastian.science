@@ -91,7 +91,7 @@ section[role="main"] {
   height: auto;
   margin: 24px 8px;
   max-width: 750px;
-  width: 100%;
+  /*width: 100%;*/
 
   &:hover {
     > g {
@@ -102,11 +102,16 @@ section[role="main"] {
   > g {
     &:hover {
       opacity: 1;
+      stroke: lightgrey;
+      rect,circle,line,path {
+        /*stroke: black;*/
+      }
     }
   }
 
   .info_hover {
     /*display: none;*/
+    fill: darkgrey;
   }
 
   .sibling_hover {
@@ -120,6 +125,7 @@ section[role="main"] {
     & + .sibling_hover {
       opacity: 1;
       display: block;
+      fill: grey;
     }
 
     & ~ g {

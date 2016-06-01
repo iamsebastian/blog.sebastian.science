@@ -28,8 +28,11 @@ rauke:
   name: Rauke
   eq_dislikes: salat
 salat:
+  ar: 20
+  ai: 20
   dislikes:
     - kartoffeln
+  name: Kopfsalat
 sellerie:
   ar: 50
   name: Sellerie
@@ -39,7 +42,20 @@ kapuziner_kresse:
 borretsch:
   ar: 20
   name: Borretsch
+kohl:
+  name: Kohl
+  dislikes:
+    - zwiebel
+    - knoblauch
+    - blumenkohl
+kohlrabi:
+  ar: 25
+  ai: 25
+  dislikes:
+    - fenchel
+  name: Kohlrabi
 palmkohl:
+  name: Palmkohl
   eq_dislikes: kohl
 mais:
   ar: 45
@@ -49,6 +65,7 @@ mais:
     - sellerie
     - rote_beete
 bohne:
+  name: Bohne
   dislikes:
     - zwiebel
     - lauch
@@ -101,3 +118,23 @@ skartoffeln:
   ai: 50
   name: Süßkartoffeln
   eq_dislikes: chili
+erdbeeren:
+  ar: 45
+  ai: 30
+  name: Erdbeeren
+  dislikes:
+    - kohl
+himbeeren:
+  ar: 40
+  ai: 40
+  name: Himbeeren
+  dislikes:
+    - kohl
+knoblauch:
+  ar: 30
+  ai: 12
+  name: Knoblauch
+  dislikes:
+    - kohl
+    - erbsen
+    - bohnen

@@ -12,6 +12,12 @@ Hier folgt die Auflistung der einzelnen Beete.
   width="{{ bed.x }}" height="{{ bed.y }}" viewBox="0 0 {{ bed.x }} {{ bed.y }}"
   preserveAspectRatio="xMidYMid meet">
     <defs>
+      <clipPath id="only-left-side-of-circle-25">
+        <rect x="0" y="0" width="12.5" height="25" />
+      </clipPath>
+      <clipPath id="only-right-side-of-circle-25">
+        <rect x="12.5" y="0" width="12.5" height="25" />
+      </clipPath>
       {% comment %}<pattern id="wegPattern" width="25" height="16" patternUnits="userSpaceOnUse">{% endcomment %}
       <pattern id="wegPattern" width="12" height="8" patternUnits="userSpaceOnUse">
         <path d="M0,0 L 2,2 L 4,0 L 5,8 L 6,0 L 8,2 L 10,0" stroke-width="0.5" stroke="#503000" fill="none"/>
@@ -75,6 +81,22 @@ Hier folgt die Auflistung der einzelnen Beete.
         <polygon points="5,5 10,1 15,5 13,10 7,10" fill="none" stroke="darkorange"/>
         <polygon points="9,8 9,18 11,18 11,8" fill="none" stroke="forestgreen"/>
       </pattern>
+      <pattern id="erdbeerenPattern" width="45" height="30" patternUnits="userSpaceOnUse">
+        <polygon transform="scale(2,2)" points="1,5 6,10 11,5 9,1 3,1" fill="transparent" stroke="orangered"/>
+      </pattern>
+      <pattern id="knoblauchPattern" width="30" height="12" patternUnits="userSpaceOnUse">
+        <circle cx="15" cy="6" r="3" fill="transparent" stroke="green"/>
+      </pattern>
+      <pattern id="salatPattern" width="20" height="20" patternUnits="userSpaceOnUse">
+        <circle cx="10" cy="10" r="7" fill="transparent" stroke="green"/>
+      </pattern>
+      <pattern id="kohlrabiPattern" width="25" height="25" patternUnits="userSpaceOnUse">
+        <circle cx="12.5" cy="12.5" r="8" fill="white" stroke="lightgreen" clip-path="url(#only-left-side-of-circle-25)"/>
+        <circle cx="12.5" cy="12.5" r="8" fill="white" stroke="thistle" clip-path="url(#only-right-side-of-circle-25)"/>
+      </pattern>
+      <pattern id="himbeerenPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+        <polygon transform="scale(1.7,1.7)" points="1,7 5,1 12,1 16,7 12,13 5,13" fill="transparent" stroke="palevioletred"/>
+      </pattern>
       <pattern id="kapuziner-kressePattern" width="20" height="10" patternUnits="userSpaceOnUse">
         <line x1="0" x2="20" y1="2" y2="8" stroke="lightgreen"/>
         <circle cx="10" cy="5" r="2" stroke="lightgreen" fill="white"/>
@@ -97,7 +119,7 @@ Hier folgt die Auflistung der einzelnen Beete.
       <text x="4" y="12" fill="grey">{{ type.name }} {% if p.sub %}({{ p.sub }}){% endif %} </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="{% if p.h %}{{ p.h }}{% else %}100%{% endif %}" width="25"></rect>
+        {% comment %}<rect opacity="0.8" x="0" fill="white" y="0" height="{% if p.h %}{{ p.h }}{% else %}100%{% endif %}" width="25"></rect>{% endcomment %}
 
         {% if type.eq_dislikes %}
           {% assign dislikes = site.data.plants[type.eq_dislikes].dislikes %}
