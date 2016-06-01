@@ -46,6 +46,12 @@
 
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="svg-beds" width="600" height="300" viewbox="0 0 600 300" preserveaspectratio="xMidYMid meet">
     <defs>
+      <clippath id="only-left-side-of-circle-25">
+        <rect x="0" y="0" width="12.5" height="25" />
+      </clippath>
+      <clippath id="only-right-side-of-circle-25">
+        <rect x="12.5" y="0" width="12.5" height="25" />
+      </clippath>
       
       <pattern id="wegPattern" width="12" height="8" patternunits="userSpaceOnUse">
         <path d="M0,0 L 2,2 L 4,0 L 5,8 L 6,0 L 8,2 L 10,0" stroke-width="0.5" stroke="#503000" fill="none" />
@@ -109,6 +115,22 @@
         <polygon points="5,5 10,1 15,5 13,10 7,10" fill="none" stroke="darkorange" />
         <polygon points="9,8 9,18 11,18 11,8" fill="none" stroke="forestgreen" />
       </pattern>
+      <pattern id="erdbeerenPattern" width="45" height="30" patternunits="userSpaceOnUse">
+        <polygon transform="scale(2,2)" points="1,5 6,10 11,5 9,1 3,1" fill="transparent" stroke="orangered" />
+      </pattern>
+      <pattern id="knoblauchPattern" width="30" height="12" patternunits="userSpaceOnUse">
+        <circle cx="15" cy="6" r="3" fill="transparent" stroke="green" />
+      </pattern>
+      <pattern id="salatPattern" width="20" height="20" patternunits="userSpaceOnUse">
+        <circle cx="10" cy="10" r="7" fill="transparent" stroke="green" />
+      </pattern>
+      <pattern id="kohlrabiPattern" width="25" height="25" patternunits="userSpaceOnUse">
+        <circle cx="12.5" cy="12.5" r="8" fill="white" stroke="lightgreen" clip-path="url(#only-left-side-of-circle-25)" />
+        <circle cx="12.5" cy="12.5" r="8" fill="white" stroke="thistle" clip-path="url(#only-right-side-of-circle-25)" />
+      </pattern>
+      <pattern id="himbeerenPattern" width="40" height="40" patternunits="userSpaceOnUse">
+        <polygon transform="scale(1.7,1.7)" points="1,7 5,1 12,1 16,7 12,13 5,13" fill="transparent" stroke="palevioletred" />
+      </pattern>
       <pattern id="kapuziner-kressePattern" width="20" height="10" patternunits="userSpaceOnUse">
         <line x1="0" x2="20" y1="2" y2="8" stroke="lightgreen" />
         <circle cx="10" cy="5" r="2" stroke="lightgreen" fill="white" />
@@ -131,7 +153,7 @@
       <text x="4" y="12" fill="grey">Pastinake  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -154,7 +176,7 @@
       <text x="4" y="12" fill="grey">Weg  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -177,7 +199,7 @@
       <text x="4" y="12" fill="grey">Karotte  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -200,7 +222,7 @@
       <text x="4" y="12" fill="grey">Radies (Ostereier Mix) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -223,7 +245,7 @@
       <text x="4" y="12" fill="grey">Radies (Jap. Melonenoptik) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -246,7 +268,7 @@
       <text x="4" y="12" fill="grey">Rauke  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -275,7 +297,7 @@
       <text x="4" y="12" fill="grey">Karotte (Saatband: Weiß u. Gelb) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -298,7 +320,7 @@
       <text x="4" y="12" fill="grey">Kapuziner Kresse (k. Kriechende) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="150" width="25"></rect>
+        
 
         
         
@@ -321,7 +343,7 @@
       <text x="4" y="12" fill="grey">Borretsch  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="150" width="25"></rect>
+        
 
         
         
@@ -336,21 +358,27 @@
     
     
     <g transform="translate(350,0)" height="10">
-      <title></title>
+      <title>Palmkohl</title>
       <rect opacity="0.9" x="0" fill="url(#palmkohlPattern)" y="0" height="100%" width=""></rect>
     </g>
     <g class="sibling_hover">
       <rect x="0" y="0" width="100%" height="40" opacity="0.9" fill="white" />
-      <text x="4" y="12" fill="grey">  </text>
+      <text x="4" y="12" fill="grey">Palmkohl  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
-          <g stroke-width="1" fill="red">
-            <path d="M6,19 C -2,8 10,0 14,8 C 18,0 30,8 22,19 L 14,28" />
+          <g transform="translate(4,0)" stroke-width="2" stroke="red" fill="orange">
+            <circle cx="7" cy="7" r="6" fill="none" />
+            <line x1="2" x2="12" y1="2" y2="12" />
+            <line x1="2" x2="12" y1="12" y2="2" />
           </g>
+          
+          <text transform="translate(22,10)">
+            zwiebel, knoblauch, and blumenkohl
+          </text>
         
       </g>
     </g>
@@ -367,7 +395,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (Hela) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -396,7 +424,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (Alica) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -425,7 +453,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (Red Duke of York) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -447,6 +475,12 @@
 
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="svg-beds" width="600" height="250" viewbox="0 0 600 250" preserveaspectratio="xMidYMid meet">
     <defs>
+      <clippath id="only-left-side-of-circle-25">
+        <rect x="0" y="0" width="12.5" height="25" />
+      </clippath>
+      <clippath id="only-right-side-of-circle-25">
+        <rect x="12.5" y="0" width="12.5" height="25" />
+      </clippath>
       
       <pattern id="wegPattern" width="12" height="8" patternunits="userSpaceOnUse">
         <path d="M0,0 L 2,2 L 4,0 L 5,8 L 6,0 L 8,2 L 10,0" stroke-width="0.5" stroke="#503000" fill="none" />
@@ -510,6 +544,22 @@
         <polygon points="5,5 10,1 15,5 13,10 7,10" fill="none" stroke="darkorange" />
         <polygon points="9,8 9,18 11,18 11,8" fill="none" stroke="forestgreen" />
       </pattern>
+      <pattern id="erdbeerenPattern" width="45" height="30" patternunits="userSpaceOnUse">
+        <polygon transform="scale(2,2)" points="1,5 6,10 11,5 9,1 3,1" fill="transparent" stroke="orangered" />
+      </pattern>
+      <pattern id="knoblauchPattern" width="30" height="12" patternunits="userSpaceOnUse">
+        <circle cx="15" cy="6" r="3" fill="transparent" stroke="green" />
+      </pattern>
+      <pattern id="salatPattern" width="20" height="20" patternunits="userSpaceOnUse">
+        <circle cx="10" cy="10" r="7" fill="transparent" stroke="green" />
+      </pattern>
+      <pattern id="kohlrabiPattern" width="25" height="25" patternunits="userSpaceOnUse">
+        <circle cx="12.5" cy="12.5" r="8" fill="white" stroke="lightgreen" clip-path="url(#only-left-side-of-circle-25)" />
+        <circle cx="12.5" cy="12.5" r="8" fill="white" stroke="thistle" clip-path="url(#only-right-side-of-circle-25)" />
+      </pattern>
+      <pattern id="himbeerenPattern" width="40" height="40" patternunits="userSpaceOnUse">
+        <polygon transform="scale(1.7,1.7)" points="1,7 5,1 12,1 16,7 12,13 5,13" fill="transparent" stroke="palevioletred" />
+      </pattern>
       <pattern id="kapuziner-kressePattern" width="20" height="10" patternunits="userSpaceOnUse">
         <line x1="0" x2="20" y1="2" y2="8" stroke="lightgreen" />
         <circle cx="10" cy="5" r="2" stroke="lightgreen" fill="white" />
@@ -532,7 +582,7 @@
       <text x="4" y="12" fill="grey">Mais  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -561,7 +611,7 @@
       <text x="4" y="12" fill="grey">Feuerbohne  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -590,7 +640,7 @@
       <text x="4" y="12" fill="grey">Mais  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -619,7 +669,7 @@
       <text x="4" y="12" fill="grey">Kürbis  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100" width="25"></rect>
+        
 
         
         
@@ -648,7 +698,7 @@
       <text x="4" y="12" fill="grey">Feuerbohne  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -677,7 +727,7 @@
       <text x="4" y="12" fill="grey">Mais  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="100%" width="25"></rect>
+        
 
         
         
@@ -706,7 +756,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (X) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="125" width="25"></rect>
+        
 
         
         
@@ -735,7 +785,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (X) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="125" width="25"></rect>
+        
 
         
         
@@ -764,7 +814,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (X) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="125" width="25"></rect>
+        
 
         
         
@@ -793,7 +843,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (X) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="125" width="25"></rect>
+        
 
         
         
@@ -822,7 +872,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (X) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="125" width="25"></rect>
+        
 
         
         
@@ -851,7 +901,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (X) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="125" width="25"></rect>
+        
 
         
         
@@ -880,7 +930,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (X) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="125" width="25"></rect>
+        
 
         
         
@@ -909,7 +959,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (X) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="125" width="25"></rect>
+        
 
         
         
@@ -938,7 +988,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (X) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="125" width="25"></rect>
+        
 
         
         
@@ -967,7 +1017,7 @@
       <text x="4" y="12" fill="grey">Kartoffel (X) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="125" width="25"></rect>
+        
 
         
         
@@ -989,6 +1039,12 @@
 
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="svg-beds" width="500" height="300" viewbox="0 0 500 300" preserveaspectratio="xMidYMid meet">
     <defs>
+      <clippath id="only-left-side-of-circle-25">
+        <rect x="0" y="0" width="12.5" height="25" />
+      </clippath>
+      <clippath id="only-right-side-of-circle-25">
+        <rect x="12.5" y="0" width="12.5" height="25" />
+      </clippath>
       
       <pattern id="wegPattern" width="12" height="8" patternunits="userSpaceOnUse">
         <path d="M0,0 L 2,2 L 4,0 L 5,8 L 6,0 L 8,2 L 10,0" stroke-width="0.5" stroke="#503000" fill="none" />
@@ -1052,6 +1108,22 @@
         <polygon points="5,5 10,1 15,5 13,10 7,10" fill="none" stroke="darkorange" />
         <polygon points="9,8 9,18 11,18 11,8" fill="none" stroke="forestgreen" />
       </pattern>
+      <pattern id="erdbeerenPattern" width="45" height="30" patternunits="userSpaceOnUse">
+        <polygon transform="scale(2,2)" points="1,5 6,10 11,5 9,1 3,1" fill="transparent" stroke="orangered" />
+      </pattern>
+      <pattern id="knoblauchPattern" width="30" height="12" patternunits="userSpaceOnUse">
+        <circle cx="15" cy="6" r="3" fill="transparent" stroke="green" />
+      </pattern>
+      <pattern id="salatPattern" width="20" height="20" patternunits="userSpaceOnUse">
+        <circle cx="10" cy="10" r="7" fill="transparent" stroke="green" />
+      </pattern>
+      <pattern id="kohlrabiPattern" width="25" height="25" patternunits="userSpaceOnUse">
+        <circle cx="12.5" cy="12.5" r="8" fill="white" stroke="lightgreen" clip-path="url(#only-left-side-of-circle-25)" />
+        <circle cx="12.5" cy="12.5" r="8" fill="white" stroke="thistle" clip-path="url(#only-right-side-of-circle-25)" />
+      </pattern>
+      <pattern id="himbeerenPattern" width="40" height="40" patternunits="userSpaceOnUse">
+        <polygon transform="scale(1.7,1.7)" points="1,7 5,1 12,1 16,7 12,13 5,13" fill="transparent" stroke="palevioletred" />
+      </pattern>
       <pattern id="kapuziner-kressePattern" width="20" height="10" patternunits="userSpaceOnUse">
         <line x1="0" x2="20" y1="2" y2="8" stroke="lightgreen" />
         <circle cx="10" cy="5" r="2" stroke="lightgreen" fill="white" />
@@ -1074,7 +1146,7 @@
       <text x="4" y="12" fill="grey">Tomaten (Besser) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="75" width="25"></rect>
+        
 
         
         
@@ -1103,7 +1175,7 @@
       <text x="4" y="12" fill="grey">Tomaten (Schwarze Mohren) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="75" width="25"></rect>
+        
 
         
         
@@ -1132,7 +1204,7 @@
       <text x="4" y="12" fill="grey">Tomaten (Gelbe Johannisb.) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="75" width="25"></rect>
+        
 
         
         
@@ -1161,7 +1233,7 @@
       <text x="4" y="12" fill="grey">Tomaten (Besser) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="75" width="25"></rect>
+        
 
         
         
@@ -1190,7 +1262,7 @@
       <text x="4" y="12" fill="grey">Tomaten (Idyl) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="75" width="25"></rect>
+        
 
         
         
@@ -1219,7 +1291,7 @@
       <text x="4" y="12" fill="grey">Chili (Baum-Chili) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="75" width="25"></rect>
+        
 
         
         
@@ -1248,7 +1320,7 @@
       <text x="4" y="12" fill="grey">Chili (Drachenfeuer?) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="75" width="25"></rect>
+        
 
         
         
@@ -1277,7 +1349,7 @@
       <text x="4" y="12" fill="grey">Paprika (Grüne) </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="75" width="25"></rect>
+        
 
         
         
@@ -1306,7 +1378,7 @@
       <text x="4" y="12" fill="grey">Süßkartoffeln  </text>
 
       <g transform="translate(0,20)" class="info_hover">
-        <rect opacity="0.8" x="0" fill="white" y="0" height="75" width="25"></rect>
+        
 
         
         
@@ -1328,6 +1400,12 @@
 
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="svg-beds" width="500" height="250" viewbox="0 0 500 250" preserveaspectratio="xMidYMid meet">
     <defs>
+      <clippath id="only-left-side-of-circle-25">
+        <rect x="0" y="0" width="12.5" height="25" />
+      </clippath>
+      <clippath id="only-right-side-of-circle-25">
+        <rect x="12.5" y="0" width="12.5" height="25" />
+      </clippath>
       
       <pattern id="wegPattern" width="12" height="8" patternunits="userSpaceOnUse">
         <path d="M0,0 L 2,2 L 4,0 L 5,8 L 6,0 L 8,2 L 10,0" stroke-width="0.5" stroke="#503000" fill="none" />
@@ -1391,6 +1469,22 @@
         <polygon points="5,5 10,1 15,5 13,10 7,10" fill="none" stroke="darkorange" />
         <polygon points="9,8 9,18 11,18 11,8" fill="none" stroke="forestgreen" />
       </pattern>
+      <pattern id="erdbeerenPattern" width="45" height="30" patternunits="userSpaceOnUse">
+        <polygon transform="scale(2,2)" points="1,5 6,10 11,5 9,1 3,1" fill="transparent" stroke="orangered" />
+      </pattern>
+      <pattern id="knoblauchPattern" width="30" height="12" patternunits="userSpaceOnUse">
+        <circle cx="15" cy="6" r="3" fill="transparent" stroke="green" />
+      </pattern>
+      <pattern id="salatPattern" width="20" height="20" patternunits="userSpaceOnUse">
+        <circle cx="10" cy="10" r="7" fill="transparent" stroke="green" />
+      </pattern>
+      <pattern id="kohlrabiPattern" width="25" height="25" patternunits="userSpaceOnUse">
+        <circle cx="12.5" cy="12.5" r="8" fill="white" stroke="lightgreen" clip-path="url(#only-left-side-of-circle-25)" />
+        <circle cx="12.5" cy="12.5" r="8" fill="white" stroke="thistle" clip-path="url(#only-right-side-of-circle-25)" />
+      </pattern>
+      <pattern id="himbeerenPattern" width="40" height="40" patternunits="userSpaceOnUse">
+        <polygon transform="scale(1.7,1.7)" points="1,7 5,1 12,1 16,7 12,13 5,13" fill="transparent" stroke="palevioletred" />
+      </pattern>
       <pattern id="kapuziner-kressePattern" width="20" height="10" patternunits="userSpaceOnUse">
         <line x1="0" x2="20" y1="2" y2="8" stroke="lightgreen" />
         <circle cx="10" cy="5" r="2" stroke="lightgreen" fill="white" />
@@ -1400,6 +1494,278 @@
       </pattern>
     </defs>
 
+  
+    
+    
+    
+    <g transform="translate(0,0)" opacity="0.4" height="10">
+      <title>Weg</title>
+      <rect opacity="0.9" x="0" fill="url(#wegPattern)" y="0" height="100%" width="90"></rect>
+    </g>
+    <g class="sibling_hover">
+      <rect x="0" y="0" width="100%" height="40" opacity="0.9" fill="white" />
+      <text x="4" y="12" fill="grey">Weg (Kompost) </text>
+
+      <g transform="translate(0,20)" class="info_hover">
+        
+
+        
+        
+          <g stroke-width="1" fill="red">
+            <path d="M6,19 C -2,8 10,0 14,8 C 18,0 30,8 22,19 L 14,28" />
+          </g>
+        
+      </g>
+    </g>
+  
+    
+    
+    
+    <g transform="translate(100,20)" height="10">
+      <title>Kohlrabi</title>
+      <rect opacity="0.9" x="0" fill="url(#kohlrabiPattern)" y="0" height="100%" width="25"></rect>
+    </g>
+    <g class="sibling_hover">
+      <rect x="0" y="0" width="100%" height="40" opacity="0.9" fill="white" />
+      <text x="4" y="12" fill="grey">Kohlrabi (Kohlrabi v. Markt) </text>
+
+      <g transform="translate(0,20)" class="info_hover">
+        
+
+        
+        
+          <g transform="translate(4,0)" stroke-width="2" stroke="red" fill="orange">
+            <circle cx="7" cy="7" r="6" fill="none" />
+            <line x1="2" x2="12" y1="2" y2="12" />
+            <line x1="2" x2="12" y1="12" y2="2" />
+          </g>
+          
+          <text transform="translate(22,10)">
+            fenchel
+          </text>
+        
+      </g>
+    </g>
+  
+    
+    
+    
+    <g transform="translate(140,20)" height="10">
+      <title>Kopfsalat</title>
+      <rect opacity="0.9" x="0" fill="url(#salatPattern)" y="0" height="100%" width="20"></rect>
+    </g>
+    <g class="sibling_hover">
+      <rect x="0" y="0" width="100%" height="40" opacity="0.9" fill="white" />
+      <text x="4" y="12" fill="grey">Kopfsalat (Kopf- u. Kraus v. Markt) </text>
+
+      <g transform="translate(0,20)" class="info_hover">
+        
+
+        
+        
+          <g transform="translate(4,0)" stroke-width="2" stroke="red" fill="orange">
+            <circle cx="7" cy="7" r="6" fill="none" />
+            <line x1="2" x2="12" y1="2" y2="12" />
+            <line x1="2" x2="12" y1="12" y2="2" />
+          </g>
+          
+          <text transform="translate(22,10)">
+            kartoffeln
+          </text>
+        
+      </g>
+    </g>
+  
+    
+    
+    
+    <g transform="translate(180,20)" height="10">
+      <title>Kopfsalat</title>
+      <rect opacity="0.9" x="0" fill="url(#salatPattern)" y="0" height="100%" width="20"></rect>
+    </g>
+    <g class="sibling_hover">
+      <rect x="0" y="0" width="100%" height="40" opacity="0.9" fill="white" />
+      <text x="4" y="12" fill="grey">Kopfsalat (Kopf- u. Kraus v. Markt) </text>
+
+      <g transform="translate(0,20)" class="info_hover">
+        
+
+        
+        
+          <g transform="translate(4,0)" stroke-width="2" stroke="red" fill="orange">
+            <circle cx="7" cy="7" r="6" fill="none" />
+            <line x1="2" x2="12" y1="2" y2="12" />
+            <line x1="2" x2="12" y1="12" y2="2" />
+          </g>
+          
+          <text transform="translate(22,10)">
+            kartoffeln
+          </text>
+        
+      </g>
+    </g>
+  
+    
+    
+    
+    <g transform="translate(220,20)" height="10">
+      <title>Himbeeren</title>
+      <rect opacity="0.9" x="0" fill="url(#himbeerenPattern)" y="0" height="100%" width="40"></rect>
+    </g>
+    <g class="sibling_hover">
+      <rect x="0" y="0" width="100%" height="40" opacity="0.9" fill="white" />
+      <text x="4" y="12" fill="grey">Himbeeren (Zweijährige v. Nachbarn) </text>
+
+      <g transform="translate(0,20)" class="info_hover">
+        
+
+        
+        
+          <g transform="translate(4,0)" stroke-width="2" stroke="red" fill="orange">
+            <circle cx="7" cy="7" r="6" fill="none" />
+            <line x1="2" x2="12" y1="2" y2="12" />
+            <line x1="2" x2="12" y1="12" y2="2" />
+          </g>
+          
+          <text transform="translate(22,10)">
+            kohl
+          </text>
+        
+      </g>
+    </g>
+  
+    
+    
+    
+    <g transform="translate(275,20)" height="10">
+      <title>Knoblauch</title>
+      <rect opacity="0.9" x="0" fill="url(#knoblauchPattern)" y="0" height="100%" width="30"></rect>
+    </g>
+    <g class="sibling_hover">
+      <rect x="0" y="0" width="100%" height="40" opacity="0.9" fill="white" />
+      <text x="4" y="12" fill="grey">Knoblauch  </text>
+
+      <g transform="translate(0,20)" class="info_hover">
+        
+
+        
+        
+          <g transform="translate(4,0)" stroke-width="2" stroke="red" fill="orange">
+            <circle cx="7" cy="7" r="6" fill="none" />
+            <line x1="2" x2="12" y1="2" y2="12" />
+            <line x1="2" x2="12" y1="12" y2="2" />
+          </g>
+          
+          <text transform="translate(22,10)">
+            kohl, erbsen, and bohnen
+          </text>
+        
+      </g>
+    </g>
+  
+    
+    
+    
+    <g transform="translate(300,20)" height="10">
+      <title>Erdbeeren</title>
+      <rect opacity="0.9" x="0" fill="url(#erdbeerenPattern)" y="0" height="100%" width="160"></rect>
+    </g>
+    <g class="sibling_hover">
+      <rect x="0" y="0" width="100%" height="40" opacity="0.9" fill="white" />
+      <text x="4" y="12" fill="grey">Erdbeeren (Ableger u. Neue) </text>
+
+      <g transform="translate(0,20)" class="info_hover">
+        
+
+        
+        
+          <g transform="translate(4,0)" stroke-width="2" stroke="red" fill="orange">
+            <circle cx="7" cy="7" r="6" fill="none" />
+            <line x1="2" x2="12" y1="2" y2="12" />
+            <line x1="2" x2="12" y1="12" y2="2" />
+          </g>
+          
+          <text transform="translate(22,10)">
+            kohl
+          </text>
+        
+      </g>
+    </g>
+  
+    
+    
+    
+    <g transform="translate(475,220)" height="10">
+      <title>Erdbeeren</title>
+      <rect opacity="0.9" x="0" fill="url(#erdbeerenPattern)" y="0" height="20" width="34"></rect>
+    </g>
+    <g class="sibling_hover">
+      <rect x="0" y="0" width="100%" height="40" opacity="0.9" fill="white" />
+      <text x="4" y="12" fill="grey">Erdbeeren (Klettererdbeere) </text>
+
+      <g transform="translate(0,20)" class="info_hover">
+        
+
+        
+        
+          <g transform="translate(4,0)" stroke-width="2" stroke="red" fill="orange">
+            <circle cx="7" cy="7" r="6" fill="none" />
+            <line x1="2" x2="12" y1="2" y2="12" />
+            <line x1="2" x2="12" y1="12" y2="2" />
+          </g>
+          
+          <text transform="translate(22,10)">
+            kohl
+          </text>
+        
+      </g>
+    </g>
+  
+    
+    
+    
+    <g transform="translate(475,0)" opacity="0.4" height="10">
+      <title>Weg</title>
+      <rect opacity="0.9" x="0" fill="url(#wegPattern)" y="0" height="200" width="20"></rect>
+    </g>
+    <g class="sibling_hover">
+      <rect x="0" y="0" width="100%" height="40" opacity="0.9" fill="white" />
+      <text x="4" y="12" fill="grey">Weg  </text>
+
+      <g transform="translate(0,20)" class="info_hover">
+        
+
+        
+        
+          <g stroke-width="1" fill="red">
+            <path d="M6,19 C -2,8 10,0 14,8 C 18,0 30,8 22,19 L 14,28" />
+          </g>
+        
+      </g>
+    </g>
+  
+    
+    
+    
+    <g transform="translate(260,0)" opacity="0.4" height="10">
+      <title>Weg</title>
+      <rect opacity="0.9" x="0" fill="url(#wegPattern)" y="0" height="100%" width="20"></rect>
+    </g>
+    <g class="sibling_hover">
+      <rect x="0" y="0" width="100%" height="40" opacity="0.9" fill="white" />
+      <text x="4" y="12" fill="grey">Weg  </text>
+
+      <g transform="translate(0,20)" class="info_hover">
+        
+
+        
+        
+          <g stroke-width="1" fill="red">
+            <path d="M6,19 C -2,8 10,0 14,8 C 18,0 30,8 22,19 L 14,28" />
+          </g>
+        
+      </g>
+    </g>
   
 
   </svg>
