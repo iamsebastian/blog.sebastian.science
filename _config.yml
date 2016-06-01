@@ -36,3 +36,9 @@ paginate: 3
 # Sass
 sass:
     style: :compressed
+
+# Directories
+exclude:
+  - create-jekyll-post-rs
+  - new_post.sh
+  - post_image.template
