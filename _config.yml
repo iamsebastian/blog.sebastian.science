@@ -42,3 +42,4 @@ exclude:
   - create-jekyll-post-rs
   - new_post.sh
   - post_image.template
+  - import_images
