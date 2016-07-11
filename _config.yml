@@ -9,7 +9,8 @@
 title: Gartenblog
 author: Sebastian Blei
 author_link: https://sebastian.science
-author_description: Blog um den eigenen Garten
+author_description: >
+  Erste Anfänge beim Thema der Selbstversorungs-Gärtnerei in einer Seite übersichtlichst zusammengewürfelt. Irgendwie ist es wohl doch der Natur nahe: Jemand gibt Themen und Tempo vor -- man selbst scheint es jedoch nicht zu sein.
 email: me@sebastianblei.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog rund um den Garten von Sebastian Blei. 

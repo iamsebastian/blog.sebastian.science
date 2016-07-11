@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<!-- This loops through the paginated posts -->
+{% assign cats = site.categories | sort %}
+{% for cat in cats %}
+  {% assign _cat = cat | first %}
+  <a href="#{{_cat}}">
+    <h2 id="{{_cat}}" class="category-title">{{_cat | capitalize}}: </h2>
+  </a>
+  <ul>
+  {% for post in site.categories[_cat] %}
+    <li>{{ post.title }}</li>
+  {% endfor %}
+  </ul>
+{% endfor %}

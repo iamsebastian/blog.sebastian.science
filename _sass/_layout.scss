@@ -40,7 +40,14 @@
 }
 
 #footer {
-    margin-top: 50px;
+    width: 90%;
+    margin: 50px auto 0;
+
+    @include min-breakpoint($desktop-breakpoint) {
+        width: $layout-width;
+    }
+
+    /*margin-top: 50px;*/
     text-align: center;
 
     &::after {

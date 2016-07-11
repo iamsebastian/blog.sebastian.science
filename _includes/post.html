@@ -6,7 +6,13 @@
         <time datetime="{{ include.post.date | date_to_xmlschema }}" class="post-date">{{ include.post.date | date: "%A, %B %-d, %Y" }}</time>
     </header>
     <div class="post-body">
-        {% if include.post.about %}<a href="" target="_blank" class="post-body-location">{{ include.post.about }}</a><span class="post-body-location-divider">—</span>{% endif %}{{ include.content }}
+        {% if include.post.about %}
+          {% comment %}<a href="" target="_blank" class="post-body-location">{{ include.post.about }}</a>{% endcomment %}
+          <span class="post-body-location">{{ include.post.about }}</span>
+          <span class="post-body-location-divider">—</span>
+        {% endif %}
+
+        {{ include.content }}
     </div>
     <footer class="post-footer">
         {% if include.post.about %}<a href="" target="_blank" class="post-footer-location">{{ include.post.about }}</a>{% endif %}

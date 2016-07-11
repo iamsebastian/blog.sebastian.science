@@ -1,9 +1,11 @@
 @import
+    "modules/categories/rules",
     "modules/legal/rules",
     "modules/post/rules",
     "modules/pagination/rules"
 ;
 
+@include galileo-categories;
 @include galileo-legal;
 @include galileo-post;
 @include galileo-pagination;
