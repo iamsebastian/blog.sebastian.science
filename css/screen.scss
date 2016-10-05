@@ -4,28 +4,31 @@
 @charset "utf-8";
 
 // Typography
-$base-font-family:    "berylium", "Adobe Caslon Pro", serif;
-$caption-font-family: "berylium", "libre_baskervillebold", "Libre Baskerville", serif;
+$base-font-family:    serif, "Adobe Caslon Pro", serif;
+$caption-font-family: serif, "libre_baskervillebold", "Libre Baskerville", serif;
 $banner-font-family:  serif;
-$title-font-family:   "berylium", serif;
-$base-font-size:      21px;
+$title-font-family:   serif;
+$font-family-list:    sans;
+$base-font-size:      16px;
 $base-font-weight:    400;
 $base-line-height:    1;
-$base-letter-spacing: 0.04rem;
+$base-letter-spacing: 0.00rem;
 
 $title-font-weight:   bold;
 
 $caption-font-style:  normal;
 $caption-font-variant: sub;
-$caption-letter-spacing: 0.09rem;
+$caption-letter-spacing: 0.02rem;
 
 $post-date-font-size: $base-font-size * 0.85;
 
 // Colours
 $text-color:          #222;
 $caption-text-color:  #444;
-$border-color:        #979797;
-$background-color:    #fefefe;
+$post-title-color:    mix($text-color, #fff, 80%);
+$headings-color:      $post-title-color;
+$border-color:        mix(#fff, #000, 87%);
+$background-color:    #ffffff;
 $content-width:       750px;
 $hover-color:         #443E40;
 $legal-color:         #818181;
@@ -38,16 +41,17 @@ $desktop-breakpoint: $layout-width / 0.9;
 $image-splitting-breakpoint: 510px;
 
 // Banner
-$banner-width: 263px;
-$banner-height: 435px;
-$banner-margin: 50px;
+$banner-width: 223px;
+$banner-height: 200px;
+$banner-margin-top: 40px;
+$banner-margin-bottom: 40px;
 $banner-border-width: 0px;
 $banner-border-offset: 2px;
 
 // Images
 // Note that extensions are omitted for use in retina-background-image mixin
 $img-separator: '{{ site.baseurl }}/img/separator';
-$img-banner: '{{ site.baseurl }}/img/flower';
+$img-banner: '{{ site.baseurl }}/img/brauen_garten';
 $img-dude: '{{ site.baseurl }}/img/dude';
 $img-location: '{{ site.baseurl }}/img/icon-location';
 $img-berry: '{{ site.baseurl }}/img/icon-berry';

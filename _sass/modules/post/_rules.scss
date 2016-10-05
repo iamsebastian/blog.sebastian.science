@@ -3,12 +3,13 @@
 
   @for $i from 1 through 5 {
     h#{$i} {
+      color: $headings-color;
       margin-top: #{$post-body-margin-top / 5 * (6 - $i)};
     }
   }
 
   .post::after {
-    @include retina-background-image($img-separator);
+    //@include retina-background-image($img-separator);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-color: transparent;
@@ -17,7 +18,8 @@
     max-width: 596px;
     height: 42px;
     display: block;
-    margin: 20px auto 50px;
+    margin: 20px auto 60px;
+    border-bottom: 1px solid $border-color;
 
     // Force background size to remain constant and not scale down
     background-size: 596px !important;
@@ -25,21 +27,19 @@
     // The breakpoint here was entirely guessed and tested by eye-balling the results
     // ie. feel free to choose something more sensible
     @include min-breakpoint(645px) {
-      margin-top: 5px;
+      margin-top: 16px;
     }
   }
 
   .post-title {
+    color: $post-title-color;
     font-family: $title-font-family;
     display: block;
     font-weight: $title-font-weight;
     font-size: $post-title-min-font-size;
     text-align: center;
     line-height: 1.4;
-    letter-spacing: 0.15rem;
-
-    // Force default text colour [as post-header is wrapped by a link]
-    color: $text-color;
+    letter-spacing: $post-title-letter-spacing;
 
     @include min-breakpoint($post-title-medium-breakpoint) {
       font-size: $post-title-medium-font-size;
@@ -58,7 +58,7 @@
     color: $legal-text-color;
     margin: 15px 0 25px;
     font-variant: small-caps;
-    letter-spacing: 0.06em;
+    letter-spacing: $post-date-letter-spacing;
     font-size: $post-date-font-size;
 
     // Fix typekit line-height with excess top padding
@@ -74,7 +74,7 @@
 
   .post-body {
     p {
-      text-align: justify;
+      text-align: inherit;
       line-height: $post-line-height;
       margin-bottom: 25px;
       letter-spacing: $base-letter-spacing;
@@ -93,7 +93,7 @@
 
   .post-body-location {
     font-family: $caption-font-family;
-    letter-spacing: 0.04em;
+    letter-spacing: $post-body-location-letter-spacing;
     text-transform: uppercase;
     margin-right: 5px;
 

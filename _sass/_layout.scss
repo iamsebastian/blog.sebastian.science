@@ -5,7 +5,7 @@
     display: block;
     width: $banner-width;
     height: $banner-height;
-    margin: 0 auto 35px;
+    margin: 2rem auto 1.4rem;
     position: relative; /* To ensure the bottom border is positioned correctly */
 
     h1 {
@@ -35,7 +35,8 @@
     }
 
     @include min-breakpoint($image-splitting-breakpoint) {
-        margin-bottom: $banner-margin;
+        //margin-top: $banner-margin-top;
+        //margin-bottom: $banner-margin-bottom;
     }
 }
 
@@ -142,4 +143,9 @@ section[role="main"] {
       /*display: inherit;*/
     /*}*/
   }
+}
+
+ul > li {
+  font-family: $font-family-list;
+  line-height: 2rem;
 }

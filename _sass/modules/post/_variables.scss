@@ -15,4 +15,8 @@ $post-image-split-gutter: 20px;
 $post-image-split-width: calc(50% - #{$post-image-split-gutter});
 $post-image-caption-line-height: $post-line-height;
 
-$post-body-margin-top: 2rem
+$post-body-margin-top: 2rem;
+
+$post-date-letter-spacing: 0.05rem;
+$post-body-location-letter-spacing: 0.00rem;
+$post-title-letter-spacing: $base-letter-spacing + 0.00rem;
