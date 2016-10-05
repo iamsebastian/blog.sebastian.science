@@ -1,0 +1,30 @@
+m79:
+  name: M79 Burton Union Ale
+  url: http://amihopfen.com/Hefe/Obergaerig/M79-Mangrove-Jacks-BURTON-UNION-ALE::704.html
+  producer: Mangrove Jack's
+  type: obergärig
+windsor:
+  name: Danstar Windsor Ale
+  url: http://amihopfen.com/Hefe/Obergaerig/Danstar-Windsor-Ale-11g::233.html
+  weight: 11
+  type: obergärig
+nottingham:
+  name: Danstar Nottingham Ale
+  url: http://www.hobbybrauerversand.de/Danstar-Nottingham-Ale-11-g
+  type: obergärig
+  weight: 11
+s04:
+  name: Safale S-04
+  url: http://www.hobbybrauerversand.de/safale-us-05-obergaerige-trockenhefe-115g
+  weight: 11.5
+  type: obergärig
+us05:
+  name: Safale US-05
+  url: http://www.hobbybrauerversand.de/safale-us-05-obergaerige-trockenhefe-115g
+  weight: 11.5
+  type: obergärig
+gozdawa_pay7:
+  name: Gozdawa Pure Ale Yeast 7
+  url: http://www.gozdawa.org/de/de-drozdze-pay7
+  weight: 11
+  type: obergärig

@@ -1,0 +1,59 @@
+melon:
+  name: Hüll Melon
+  producer: Hüll
+  developer: Hüll
+  alpha: 6.4
+  type: Aroma
+2:
+  name: Mandarina Bavarian
+  producer: Hüll
+  developer: Hüll
+  alpha: 7.3
+  type: Aroma
+3:
+  name: Hallertau Blanc
+  producer: Hüll
+  developer: Hüll
+  alpha: 8.1
+  type: Aroma
+4:
+  name: Polaris
+  producer: Hüll
+  developer: Hüll
+  alpha: 18.2
+  type: Bitter
+ekg2014:
+  name: East Kent Goldings
+  alpha: 5.7
+  from: Großbritannien
+  url: http://amihopfen.com/Hopfen/Grossbritannien/East-Kent-Golding/East-Kent-Golding-100g-2014::323.html
+progress2013:
+  name: Progress
+  alpha: 6.4
+  from: Großbritannien
+  url: http://amihopfen.com/Hopfen/Grossbritannien/Progress:::1_56_217.html
+perle2014:
+  name: Perle
+  alpha: 7.6
+  from: Deutschland
+  url: http://www.hopfen-der-welt.de/pellets-typ-90/deutschland/perle/
+smaragd2014:
+  name: Smaragd
+  alpha: 3.9
+  from: Deutschland
+  url: http://www.hopfen-der-welt.de/pellets-typ-90/deutschland/smaragd/
+taurus2014:
+  name: Taurus
+  alpha: 18.4
+  from: Deutschland
+  url: http://www.hopfen-der-welt.de/pellets-typ-90/deutschland/taurus/
+northern2014:
+  name: Northern Brewer
+  alpha: 10.9
+  from: Deutschland
+  url: http://www.hopfen-der-welt.de/pellets-typ-90/deutschland/northern-brewer/
+cascade_us2015:
+  name: Cascade (US)
+  alpha: 6.8
+  from: USA
+  url: http://amihopfen.com/Deal-of-the-Day/50g-U-S-Cascade-FREE::1562.html

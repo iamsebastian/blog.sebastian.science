@@ -1,0 +1,12 @@
+{% assign beer = site.data.beer[page.beer] %}
+<section class="beer-header">
+  <h1 role="header" class="beer-headline">{{ beer.name }}
+    <small>
+      {% if beer.brewed %}
+        (gebraut)
+      {% else %}
+        (geplant)
+      {% endif %}
+    </small>
+  </h1>
+</section>

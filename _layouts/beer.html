@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <section role="main">
+      {% include beer_header.html %}
+
+      <article class="post">
+        <div class="post-body">
+          {{ content }}
+        </div>
+      </article>
+
+      {% unless page.without_receipt %}
+        {% include receipt.html %}
+      {% else %}
+      {% endunless %}
+
+      {% include footer.html %}
+
+    </section>
+
+  </body>
+
+</html>

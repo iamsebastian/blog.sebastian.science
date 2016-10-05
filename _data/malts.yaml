@@ -1,0 +1,83 @@
+pils:
+  name: Pilsner Malz
+  ebc: 3-5
+  url: http://www.hobbybrauerversand.de/Pilsner-Malz-3-5-EBC-25-kg-Sack-ungeschrotet
+weizen:
+  name: Weizenmalz Hell
+  ebc: 3-5
+  url: http://www.hobbybrauerversand.de/Weizenmalz-hell-3-5-EBC-25-kg-Sack-ungeschrotet
+wiener:
+  name: Wiener Malz
+  ebc: 7-10
+  url: http://amihopfen.com/Malz/Basismalze/BEST-Wiener-Malz-1kg::804.html
+melanoidin:
+  name: Melanoidin Malz
+  ebc: 60-80
+  url: http://amihopfen.com/Malz/Sonstige-Malze-und-Flocken/BEST-Melanoidin-Malz-1kg::308.html
+dinkel:
+  name: Dinkel Malz
+  ebc: 3-4
+  url: http://amihopfen.com/Malz/deutsche-Malze/Best-Malz/Best-Dinkelmalz-1kg::1367.html
+redx:
+  name: Best Red X
+  ebc: 28-32
+  url: http://amihopfen.com/Malz/Farb-und-Roestmalze/BEST-Red-X-1kg::793.html
+pale:
+  name: Pale Ale Malz
+  ebc: 5-7
+  url: http://amihopfen.com/Malz/Basismalze/Best-Pale-Ale-Malz-1kg::301.html
+marisotter:
+  name: Warminster Maris Otter
+  url: http://amihopfen.com/Malz/englische-Malze/Warminster-Maris-Otter-1kg::374.html
+  ebc: 4-6
+waramber:
+  name: Warminster Amber
+  ebc: 38-65
+  url: http://amihopfen.com/Malz/Karamelmalze/Warminster-Amber-Malz-1kg::58.html
+carahell:
+  name: Bairds Cara Hell
+  ebc: 10-30
+  url: http://amihopfen.com/Malz/englische-Malze/Bairds/Bairds-Cara-Hell-1kg::1424.html
+best_carahell:
+  name: Best Cara Hell
+  ebc: 20-40
+  url: http://amihopfen.com/Malz/Karamelmalze/BEST-Caramel-hell-1kg::48.html
+caramünch2:
+  name: Caramünch II
+  ebc: 110-130
+caradunkel:
+  name: Bairds Cara Dunkel
+  ebc: 70-100
+  url: http://amihopfen.com/Malz/englische-Malze/Bairds/Bairds-Cara-Dunkel-1kg::1426.html
+chocolate:
+  name: Best Chocolate
+  ebc: 800-1000
+  url: http://amihopfen.com/Malz/Farb-und-Roestmalze/BEST-Chocolate-1kg::812.html
+röstmalz:
+  name: Best Röstmalz
+  ebc: 1100-1200
+  url: http://amihopfen.com/Malz/Farb-und-Roestmalze/BEST-Roestmalz-1kg::814.html
+gerstenflocken:
+  name: Gerstenflocken
+  ebc: 5
+  url: http://www.hobbybrauerversand.de/Gerstenflocken-1-kg-Packung
+haferflocken:
+  name: Haferflocken
+  ebc: 2
+  url: https://brauerei.mueggelland.de/malz-details/items/11.html
+dinkelflocken:
+  name: Dinkelflocken
+  ebc: 2
+  url: \#
+caraaroma:
+  name: Weyermann Caraaroma
+  ebc: 340-450
+  url: http://amihopfen.com/Malz/Farb-und-Roestmalze/Weyermann-CARAAROMA-1kg::1362.html
+zucker:
+  name: Zucker
+  ebc: 0
+  url: \#
+polenta:
+  name: Polenta (Maisgrieß)
+  ebc: 2
+  url: \#

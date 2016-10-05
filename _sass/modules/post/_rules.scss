@@ -238,3 +238,10 @@
     }
   }
 }
+
+blockquote {
+  color: $quote-text-color;
+  display: inline-block;
+  font-style: $quote-font-style;
+  padding: $quote-padding;
+}

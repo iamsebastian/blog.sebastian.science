@@ -149,3 +149,7 @@ ul > li {
   font-family: $font-family-list;
   line-height: 2rem;
 }
+
+nav > ul.pagination {
+  margin: 0;
+}

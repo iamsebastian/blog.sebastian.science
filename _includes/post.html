@@ -1,20 +1,25 @@
 <article class="post">
-    <header>
-        <a href="{{ include.post.url | prepend: site.baseurl }}">
-            <h1 class="post-title">{{ include.post.title }}</h1>
-        </a>
-        <time datetime="{{ include.post.date | date_to_xmlschema }}" class="post-date">{{ include.post.date | date: "%A, %B %-d, %Y" }}</time>
-    </header>
-    <div class="post-body">
-        {% if include.post.about %}
-          {% comment %}<a href="" target="_blank" class="post-body-location">{{ include.post.about }}</a>{% endcomment %}
-          <span class="post-body-location">{{ include.post.about }}</span>
-          <span class="post-body-location-divider">—</span>
-        {% endif %}
+  <header>
+    <a href="{{ include.post.url | prepend: site.baseurl }}">
+      <h1 class="post-title">{{ include.post.title }}</h1>
+    </a>
+    {% if include.post.date %}
+      <time datetime="{{ include.post.date | date_to_xmlschema }}" class="post-date">{{ include.post.date | date: "%A, %B %-d, %Y" }}</time>
+    {% endif %}
+    {% if include.post.last-update %}
+      <time datetime="{{ include.post.last-update | date_to_xmlschema }}" class="post-date">Letztes Update: {{ include.post.last-update | date: "%A, %B %-d, %Y" }}</time>
+    {% endif %}
+  </header>
+  <div class="post-body">
+    {% if include.post.about %}
+      {% comment %}<a href="" target="_blank" class="post-body-location">{{ include.post.about }}</a>{% endcomment %}
+      <span class="post-body-location">{{ include.post.about }}</span>
+      <span class="post-body-location-divider">—</span>
+    {% endif %}
 
-        {{ include.content }}
-    </div>
-    <footer class="post-footer">
-        {% if include.post.about %}<a href="" target="_blank" class="post-footer-location">{{ include.post.about }}</a>{% endif %}
-    </footer>
+    {{ include.content }}
+  </div>
+  <footer class="post-footer">
+    {% if include.post.about %}<a href="" target="_blank" class="post-footer-location">{{ include.post.about }}</a>{% endif %}
+  </footer>
 </article>

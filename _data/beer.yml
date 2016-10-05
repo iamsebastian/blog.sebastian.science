@@ -1,0 +1,334 @@
+1:
+  brewed: true
+  name: Extrakt-Bräu
+2:
+  brewed: true
+  name: Guiness 1880
+  malts:
+    waramber: 550
+    röstmalz: 360
+    marisotter: 4550
+  hops:
+    - type: ekg2014
+      time: 60 Min.
+      weight: 81
+3:
+  brewed: true
+  name: Pehl Börten
+  malts:
+    pale: 5000
+    marisotter: 500
+    carahell: 500
+  hops:
+    - type: progress2013
+      time: 90 Min.
+      weight: 4
+    - type: ekg2014
+      time: 90 Min.
+      weight: 17
+    - type: progress2013
+      time: 0 Min.
+      weight: 23
+  yeast: m79
+  meta:
+    #isom: 25
+4:
+  brewed: true
+  name: Crocotula
+  malts:
+    pils: 5000
+    caradunkel: 1000
+  hops:
+    - type: smaragd2014
+      time: VWH
+      weight: 27
+    - type: smaragd2014
+      time: 70 Min.
+      weight: 13
+    - type: smaragd2014
+      time: 10 Min.
+      weight: 13
+    - type: smaragd2014
+      time: Whirlpool
+      weight: 13
+    - type: smaragd2014
+      time: Stopfen
+      weight: 55
+  yeast: nottingham
+  meta:
+    erwartete IBU: ~ 60.2
+    specific:
+      isom: 30
+5:
+  brewed: true
+  name: Minotaurenrennen
+  malts:
+    marisotter: 2000
+    pale: 1000
+    weizen: 1000
+    wiener: 1000
+    carahell: 500
+    gerstenflocken: 200
+  hops:
+    - type: taurus2014
+      time: VWH@76°C
+      weight: 11
+    - type: smaragd2014
+      time: Whirlpool@80°C
+      weight: 38
+  yeast: us05
+  orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&seite=1&id=383&factoraw=&factorsha=&factorhav=18.4&factorhav2=&factorhav3=&factorha2=&factorha3=&factorha4=&factorha5=&factorha6=&factorha7=&suche_klonrezepte=&suche_anfaenger=&suche_begriff=&suche_sorte=&suche_malz=&suche_malz2=&suche_hopfen=&suche_hopfen2=&suche_weiterezutat=&suche_hefe=&ordertype=DESC&factorha1=7.6
+  meta:
+    IBU: 27
+    specific:
+      lager: 1
+      isom: (Mit Eis gekühlt) 20
+6:
+  brewed: true
+  name: MehrKorn
+  malts:
+    wiener: 1000
+    pils: 1500
+    gerstenflocken: 800
+    haferflocken: 500
+    dinkelflocken: 500
+  hops:
+    - type: perle2014
+      time: VWH
+      weight: 11
+    - type: perle2014
+      time: 10 Min.
+      weight: 20
+  yeast: nottingham
+  orig: \#
+  meta:
+    #isom: 25
+7:
+  brewed: true
+  name: Lamäkto
+  malts:
+    wiener: 4000
+    #Melanoidin: 440
+    #ersetzt zu:
+    waramber: 450
+    #Caramünch II: 260
+    #ersetzt zu:
+    #caradunkel: 1000
+  hops:
+    #Auf Grund der langen Nachisomerisierungszeit
+    #von angegebenen 25m, ist ein Kochen von Bitterhopfen
+    #laut IBU Rechner nicht nötig.
+    #Polaris:
+      #time: VWH
+      #bitter: true
+      #weight: 26
+    - type: perle2014
+      time: VWH
+      weight: 22
+    - type: perle2014
+      time: 10 Min.
+      weight: 29
+    - type: perle2014
+      time: 0 Min.
+      weight: 5
+    - type: smaragd2014
+      time: 0 Min.
+      weight: 56
+    #- type: smaragd2014
+      #time: Stopfen
+      #weight: 60
+  yeast: windsor
+  orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&seite=1&id=375
+  meta:
+    #isom: 25
+8:
+  brewed: true
+  name: Ridleys Mild Nut Brown Ale
+  malts:
+    wiener: 6000
+    caraaroma: 200
+    chocolate: 100
+    zucker: 500
+    haferflocken: 500
+  hops:
+    - type: progress2013
+      time: VWH (für 30 Min.)
+      weight: 15
+    - type: progress2013
+      time: 15 Min.
+      weight: 20
+  yeast: gozdawa_pay7
+  orig: http://hobbybrauer.de/modules.php?name=News&file=article&sid=218
+9:
+  brewed: false
+  name: Northern Cascade Amber Ale
+  malts:
+    pils: 4500
+    polenta: 500
+    caraaroma: 100
+    röstmalz: 25
+  hops:
+    - type: cascade_us2015
+      time: VWH
+      weight: 7
+    - type: northern2014
+      time: 75 Min.
+      weight: 22
+    - type: cascade_us2015
+      time: 0 Min.
+      weight: 7
+  yeast: nottingham
+  orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&seite=1&id=474
+  meta:
+    stw: 12°P
+    alc: 4.7%
+    ibu: 33
+  mash:
+    - Einmaischen » 60°C
+    - 1.Rast » 57 °C für 10 min
+    - 2.Rast » 63 °C für 40 min
+    - 3.Rast » 72 °C für 20 min
+    - Abmaischen » 78°C
+    - Würzekochzeit » 10 min
+10:
+  brewed: false
+  name: Northern Pale Ale
+  malts:
+    pale: 6000
+    carahell: 250
+  hops:
+    - type: northern2014
+      time: 70 Min.
+      weight: 4
+    - type: northern2014
+      time: 20 Min.
+      weight: 8
+    - type: northern2014
+      time: 10 Min.
+      weight: 8
+    - type: northern2014
+      time: 5 Min.
+      weight: 8
+    - type: northern2014
+      time: 0 Min.
+      weight: 12
+  yeast: nottingham
+  orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&id=279
+  meta:
+    stw: 13°P
+    alc: 5%
+    ibu: 35.8
+  mash:
+    - Einmaischen » 66 °C
+    - 1.Rast » 67 °C für 60 min
+    - 2.Rast » 78 °C für 10 min
+    - Abmaischen » 78 °C
+    - Würzekochzeit » 90 min
+11:
+  brewed: false
+  name: Taurus Pale Ale
+  malts:
+    pale: 6000
+    carahell: 250
+  hops:
+    - type: taurus2014
+      time: 70 Min.
+      weight: 2
+    - type: taurus2014
+      time: 20 Min.
+      weight: 4
+    - type: taurus2014
+      time: 10 Min.
+      weight: 4
+    - type: taurus2014
+      time: 5 Min.
+      weight: 4
+    - type: taurus2014
+      time: 0 Min.
+      weight: 7
+  yeast: nottingham
+  orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&id=279
+  meta:
+    stw: 13°P
+    alc: 5%
+    ibu: 32.7
+  mash:
+    - Einmaischen » 66 °C
+    - 1.Rast » 67 °C für 60 min
+    - 2.Rast » 78 °C für 10 min
+    - Abmaischen » 78 °C
+    - Würzekochzeit » 90 min
+12:
+  name: bald Bock, bald Mai
+  malts:
+    wiener: 5000
+  hops:
+    - type: northern2014
+      time: VWH
+      weight: 16
+    - type: taurus2014
+      time: 70Min.
+      weight: 5
+    - type: perle2014
+      time: Whirlpool
+      weight: 21
+  yeast: nottingham
+  orig: http://maischemalzundmehr.de/index.php?id=91&inhaltmitte=recipe&seite=1&suche_seite=&order=datum&ordertype=DESC
+13:
+  name: Blitzwurz
+  malts:
+    pils: 4500
+    wiener: 500
+    weizen: 500
+  hops:
+    - type: taurus2014
+      time: VWH
+      weight: 20
+    - type: smaragd2014
+      time: Whirlpool
+      weight: 12
+  meta:
+    Hopfenkochzeit: 0 Min.
+    Hopfenkochen: 'Hier sollte ausprobiert werden, den Bitterhopfen beim Läutern als Vorderwürzehopfengabe beizusteuern, um das Johannisbeeraroma vom Taurus zu erhalten. Den Aromahopfen erst beim Whirlpool hinzugeben. Nur bei einer Würzekochzeit von quasi 0 Min. (aufheizen bis wallend kochen, dann sofort abschalten), wird die Würze nicht zu bitter. Kochzeit, in der sich die IBU ändert: 0 Min = 25 IBU, 10 Min = 34 IBU, 20 Min = 40 IBU, 30 Min = 44 IBU ... 90 Min = 51.5 IBU'
+    specific:
+      isom: 30
+      lager: 3, besser 6
+  yeast: nottingham
+  orig: http://www.maischemalzundmehr.de/index.php?inhaltmitte=recipe&seite=&id=420&factoraw=20&factorsha=50
+14:
+  name: Wieß
+  malts:
+    pils: 2000
+    wiener: 1000
+    waramber: 200
+  hops:
+    - type: smaragd2014
+      time: VWH
+      weight: 17
+    - type: taurus2014
+      time: 70 Min.
+      weight: 6
+    - type: smaragd2014
+      time: 10 Min.
+      weight: 18
+  meta:
+    specific:
+      lager: 4-6, besser 10
+  yeast: nottingham
+  orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&seite=2&id=101&factoraw=20&factorsha=63&factorhav2=&factorhav3=&factorha1=18.4&factorha2=3.9&factorha3=&factorha4=&factorha5=&factorha6=&factorha7=&suche_klonrezepte=&suche_anfaenger=&suche_begriff=&suche_sorte=Ale%2C+Pale&suche_malz=Wiener+Malz&suche_malz2=&suche_hopfen=&suche_hopfen2=&suche_weiterezutat=&suche_hefe=&ordertype=DESC&factorhav=3.9
+15:
+  name: Oatmeal - Hafer Creme
+  malts:
+    pils: 3000
+    haferflocken: 1000
+    chocolate: 180
+    röstmalz: 180
+  hops:
+    - type: northern2014
+      time: VWH
+      weight: 26
+  meta:
+    specific:
+      lager: 1
+  yeast: nottingham
+  orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&id=539&suche_sorte=Stout&factoraw=20&factorsha=53&factorha1=10.4

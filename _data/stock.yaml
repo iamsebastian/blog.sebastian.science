@@ -1,0 +1,29 @@
+yeasts:
+  m79: 1
+  windsor: 0
+  nottingham: 3
+  us05: 0
+  s04: 0
+  k33: 0
+  gozdawa_pay7: 0
+hops:
+  ekg2014: 0
+  progress2013: 25
+  smaragd2014: 0
+  perle2014: 160
+  taurus2014: 90
+  northern2014: 250
+malts:
+  wiener: 0
+  pils: 4500
+  marisotter: 0
+  pale: 25000
+  weizen: 0
+  carahell: 0
+  best_carahell: 2000
+  waramber: 0
+  röstmalz: 640
+  caraaroma: 800
+  chocolate: 900
+  caradunkel: 0
+  gerstenflocken: 0
