@@ -30,7 +30,8 @@ $headings-color:      $post-title-color;
 $border-color:        mix(#fff, #000, 87%);
 $background-color:    #ffffff;
 $content-width:       750px;
-$hover-color:         #443E40;
+$hover-color:         mix($text-color, #fff, 60%);
+$link-color:          mix($text-color, #fff, 40%);
 $legal-color:         mix($text-color, #fff, 55%);
 
 // Blockquote
@@ -52,6 +53,7 @@ $banner-margin-top: 40px;
 $banner-margin-bottom: 40px;
 $banner-border-width: 0px;
 $banner-border-offset: 2px;
+$banner-after-bg-color: mix($text-color, #fff, 50%);
 
 // Highlighter
 .highlighter-rouge {

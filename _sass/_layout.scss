@@ -29,7 +29,7 @@
         top: $banner-height;
         left: $banner-border-offset;
         content: "";
-        background: #443E40;
+        background: $banner-after-bg-color;
         height: $banner-border-width;
         width: $banner-width - ($banner-border-offset* 2);
     }

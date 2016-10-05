@@ -33,7 +33,11 @@ body {
 
 a {
     text-decoration: none;
-    color: #443E40;
+    color: $link-color;
+
+    &:hover {
+      color: $hover-color;
+    }
 }
 
 svg {
