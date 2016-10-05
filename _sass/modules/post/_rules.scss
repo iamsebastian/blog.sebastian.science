@@ -1,13 +1,6 @@
 @import "modules/post/variables";
 @mixin galileo-post {
 
-  @for $i from 1 through 5 {
-    h#{$i} {
-      color: $headings-color;
-      margin-top: #{$post-body-margin-top / 5 * (6 - $i)};
-    }
-  }
-
   .post::after {
     //@include retina-background-image($img-separator);
     background-repeat: no-repeat;

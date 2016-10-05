@@ -15,12 +15,17 @@ nottingham:
   weight: 11
 s04:
   name: Safale S-04
-  url: http://www.hobbybrauerversand.de/safale-us-05-obergaerige-trockenhefe-115g
+  url: http://www.hobbybrauerversand.de/SAFALE-S-04-obergaerige-Trockenhefe-115-g
   weight: 11.5
   type: obergärig
 us05:
   name: Safale US-05
   url: http://www.hobbybrauerversand.de/safale-us-05-obergaerige-trockenhefe-115g
+  weight: 11.5
+  type: obergärig
+s33:
+  name: Safbrew S-33
+  url: http://www.hobbybrauerversand.de/SAFBREW-S-33-obergaerige-Trockenhefe-115-g
   weight: 11.5
   type: obergärig
 gozdawa_pay7:

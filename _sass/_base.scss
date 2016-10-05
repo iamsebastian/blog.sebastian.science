@@ -50,3 +50,11 @@ svg {
     }
   }
 }
+
+@for $i from 1 through 5 {
+  h#{$i} {
+    color: $headings-color;
+    line-height: #{$headings-1-line-height / 5 * (6 - $i)};
+  }
+}
+
