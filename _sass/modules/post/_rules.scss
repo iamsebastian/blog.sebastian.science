@@ -81,7 +81,9 @@
     }
 
     ul {
-      list-style: inside none lower-roman
+      list-style-image: none;
+      list-style-position: inside;
+      list-style-type: lower-roman;
     }
 
   }
