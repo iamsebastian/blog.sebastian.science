@@ -5,6 +5,10 @@
 
   <p>EBC: {% calc_beer %}</p>
 
+  {% if beer.water %}
+    <p>Wasser: {{beer.water}}l</p>
+  {% endif %}
+
   <h3>Malz</h3>
   <ul>
     {% for malts in beer.malts %}
@@ -41,25 +45,33 @@
     {% endfor %}
   </ul>
 
-  <h3>Hefe</h3>
-  <ul>
-    {% comment %}
-                }{% if beer.yeasts %}
-                }  {% for yeasts in beer.yeasts %}
-                }    {% assign yeast = site.data.yeasts[yeasts] %}
-                }    <li>{{ yeast.name }}</li>
-                }    {% assign yeast_type = yeast.type %}
-                }  {% endfor %}
-                }{% else if beer.yeast %}
-                }  {% assign yeast = site.data.yeasts[beer.yeast] %}
-                }  {% assign yeast_type = yeast.type %}
-                }  <li>{{ yeast.name }}</li>
-                }{% endif %}
-                {% endcomment %}
-  </ul>
+  {% if beer.yeasts %}
+    <h3>Hefen</h3>
+    <ul>
+      {% for yeasts in beer.yeasts %}
+        {% assign yeast = site.data.yeasts[yeasts] %}
+        <li>{{ yeast.name }}
+        {% assign yeast_type = yeast.type %}
 
-  {% if yeast_type %}
-    <h3>Typ: {{ yeast_type}}</h3>
+        {% if yeast_type %}
+          ({{ yeast_type}})
+        {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+
+  {% else if beer.yeast %}
+    <h3>Hefe</h3>
+    <ul>
+      {% assign yeast = site.data.yeasts[beer.yeast] %}
+      {% assign yeast_type = yeast.type %}
+      <li>{{ yeast.name }}
+      {% if yeast_type %}
+        ({{ yeast_type}})
+      {% endif %}
+      </li>
+    </ul>
+
   {% endif %}
 
   <h3>Meta</h3>
@@ -67,17 +79,17 @@
     {% for meta in beer.meta %}
       {% unless meta[0] == 'specific' %}
         <li>
-        {% case meta[0] %}
-        {% when 'stw' %}
-          Stammwürze:
-        {% when 'alc' %}
-          Alkoholgehalt:
-        {% when 'ibu' %}
-          IBU (Bittereinheiten):
-        {% else %}
-          {{ meta[0] }}:
-        {% endcase %}
-        {{ meta[1] }}</li>
+          {% case meta[0] %}
+          {% when 'stw' %}
+            Stammwürze:
+          {% when 'alc' %}
+            Alkoholgehalt:
+          {% when 'ibu' %}
+            IBU (Bittereinheiten):
+          {% else %}
+            {{ meta[0] }}:
+          {% endcase %}
+          {{ meta[1] }}</li>
       {% endunless %}
     {% endfor %}
 
