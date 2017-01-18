@@ -108,12 +108,12 @@
   name: Lamäkto
   malts:
     wiener: 4000.0
-    #Melanoidin: 440.0
+    #Melanoidin: 440
     #ersetzt zu:
     waramber: 450.0
-    #Caramünch II: 260.0
+    #Caramünch II: 260
     #ersetzt zu:
-    #caradunkel: 1000.0
+    #caradunkel: 1000
   hops:
     #Auf Grund der langen Nachisomerisierungszeit
     #von angegebenen 25m, ist ein Kochen von Bitterhopfen
@@ -136,14 +136,13 @@
       weight: 56.0
     #- type: smaragd2014
       #time: Stopfen
-      #weight: 60.0
+      #weight: 60
   yeast: windsor
   orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&seite=1&id=375
   meta:
     #isom: 25
 8:
   brewed: true
-  water: 32.0
   name: Ridleys Mild Nut Brown Ale
   malts:
     wiener: 6000.0
@@ -158,11 +157,46 @@
     - type: progress2013
       time: 15 Min.
       weight: 20.0
-  yeasts:
-    - gozdawa_pay7
-    - s33
+  yeast: gozdawa_pay7
   orig: http://hobbybrauer.de/modules.php?name=News&file=article&sid=218
 9:
+  brewed: true
+  name: SNPA
+  malts:
+    pils: 4500.0
+    pale: 2000.0
+    best_carahell: 700.0
+  hops:
+    - type: taurus2014
+      time: 60 Min.
+      weight: 10.0
+    - type: perle2014
+      time: 30 Min.
+      weight: 25.0
+  yeast: nottingham
+  orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&id=197&suche_klonrezepte=ja&factoraw=30&factorsha=50&factorha1=18.4&factorha2=7.8&factorha3=5.2&factorha4=5.2
+10:
+  brewed: true
+  name: SNPAX
+  malts:
+    pale: 7300.0
+    best_carahell: 700.0
+  hops:
+    - type: taurus2014
+      time: 20 Min.
+      weight: 25.0
+    - type: bramlingx_2015
+      time: 15 Min.
+      weight: 20.0
+    - type: bramlingx_2015
+      time: 10 Min.
+      weight: 20.0
+    - type: bramlingx_2015
+      time: Whirlpool@80°C
+      weight: 60.0
+  yeast: m79
+  orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&id=197&suche_klonrezepte=ja&factoraw=30&factorsha=50&factorha1=18.4&factorha2=7.8&factorha3=5.2&factorha4=5.2
+11:
   brewed: false
   name: Northern Cascade Amber Ale
   malts:
@@ -193,7 +227,7 @@
     - 3.Rast » 72 °C für 20 min
     - Abmaischen » 78°C
     - Würzekochzeit » 10 min
-10:
+12:
   brewed: false
   name: Northern Pale Ale
   malts:
@@ -227,7 +261,7 @@
     - 2.Rast » 78 °C für 10 min
     - Abmaischen » 78 °C
     - Würzekochzeit » 90 min
-11:
+13:
   brewed: false
   name: Taurus Pale Ale
   malts:
@@ -261,7 +295,7 @@
     - 2.Rast » 78 °C für 10 min
     - Abmaischen » 78 °C
     - Würzekochzeit » 90 min
-12:
+14:
   name: bald Bock, bald Mai
   malts:
     wiener: 5000.0
@@ -277,7 +311,7 @@
       weight: 21.0
   yeast: nottingham
   orig: http://maischemalzundmehr.de/index.php?id=91&inhaltmitte=recipe&seite=1&suche_seite=&order=datum&ordertype=DESC
-13:
+15:
   name: Blitzwurz
   malts:
     pils: 4500.0
@@ -298,7 +332,7 @@
       lager: 3, besser 6
   yeast: nottingham
   orig: http://www.maischemalzundmehr.de/index.php?inhaltmitte=recipe&seite=&id=420&factoraw=20&factorsha=50
-14:
+16:
   name: Wieß
   malts:
     pils: 2000.0
@@ -319,7 +353,7 @@
       lager: 4-6, besser 10
   yeast: nottingham
   orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&seite=2&id=101&factoraw=20&factorsha=63&factorhav2=&factorhav3=&factorha1=18.4&factorha2=3.9&factorha3=&factorha4=&factorha5=&factorha6=&factorha7=&suche_klonrezepte=&suche_anfaenger=&suche_begriff=&suche_sorte=Ale%2C+Pale&suche_malz=Wiener+Malz&suche_malz2=&suche_hopfen=&suche_hopfen2=&suche_weiterezutat=&suche_hefe=&ordertype=DESC&factorhav=3.9
-15:
+17:
   name: Oatmeal - Hafer Creme
   malts:
     pils: 3000.0
