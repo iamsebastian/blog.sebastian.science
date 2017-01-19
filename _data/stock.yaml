@@ -1,7 +1,7 @@
 yeasts:
   m79: 1
   windsor: 0
-  nottingham: 2
+  nottingham: 1
   us05: 0
   s04: 0
   s33: 0
@@ -11,17 +11,17 @@ hops:
   progress2013: 0
   smaragd2014: 0
   perle2014: 0
-  taurus2014: 80
-  northern2014: 150
-  bramlingx_2015: 100
+  taurus2014: 70
+  northern2014: 140
+  bramlingx_2015: 0
 malts:
   wiener: 0
   pils: 0
   marisotter: 0
-  pale: 23000
+  pale: 15000
   weizen: 0
   carahell: 0
-  best_carahell: 1500
+  best_carahell: 700
   waramber: 0
   röstmalz: 640
   caraaroma: 800
