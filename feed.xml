@@ -7,9 +7,30 @@
 </description>
     <link>http://sebastian.science/</link>
     <atom:link href="http://sebastian.science/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Jan 2017 15:03:03 +0100</pubDate>
-    <lastBuildDate>Wed, 18 Jan 2017 15:03:03 +0100</lastBuildDate>
+    <pubDate>Thu, 19 Jan 2017 10:43:57 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Jan 2017 10:43:57 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>SNPA &amp;amp; SNIPAX gebraut</title>
+        <description>&lt;p&gt;Ich habe &lt;a href=&quot;/9/&quot;&gt;Sud 9&lt;/a&gt; &amp;amp; &lt;a href=&quot;/10/&quot;&gt;Sud 10&lt;/a&gt; eingetragen.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Jan 2017 09:59:18 +0100</pubDate>
+        <link>http://sebastian.science/brauen,/pale/ale,/ipa,/snpa/2017/01/19/snpa-&-snipax-gebraut/</link>
+        <guid isPermaLink="true">http://sebastian.science/brauen,/pale/ale,/ipa,/snpa/2017/01/19/snpa-&-snipax-gebraut/</guid>
+        
+        
+        <category>brauen,</category>
+        
+        <category>pale</category>
+        
+        <category>ale,</category>
+        
+        <category>ipa,</category>
+        
+        <category>snpa</category>
+        
+      </item>
     
       <item>
         <title>Herbstaussat</title>
@@ -318,28 +339,6 @@
         
         
         <category>stachelbeeren</category>
-        
-      </item>
-    
-      <item>
-        <title>Bäriges Lauch</title>
-        <description>&lt;p&gt;Die letzten Bärlauch-Blätter und -blüten wurden geerntet und direkt zur Kräutermargarine verarbeitet.&lt;/p&gt;
-
-&lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;/img/baerlauch_01.jpeg&quot; alt=&quot;Bärlauch&quot; /&gt;
-    &lt;p class=&quot;post-image-caption&quot;&gt;Bärlauch in voller Blüte&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;/img/baerlauch_02.jpeg&quot; alt=&quot;Bärlauch Margarine&quot; /&gt;
-    &lt;p class=&quot;post-image-caption&quot;&gt;Bärlauch Margarine&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 10 May 2016 23:08:14 +0200</pubDate>
-        <link>http://sebastian.science/b%C3%A4rlauch/2016/05/10/baerlauch/</link>
-        <guid isPermaLink="true">http://sebastian.science/b%C3%A4rlauch/2016/05/10/baerlauch/</guid>
-        
-        
-        <category>bärlauch</category>
         
       </item>
     
