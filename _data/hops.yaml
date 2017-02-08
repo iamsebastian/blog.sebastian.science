@@ -62,3 +62,23 @@ bramlingx_2015:
   alpha: 5.2
   from: GB
   url: https://www.hopfen-der-welt.de/pellets-typ-90/gro%C3%9Fbritannien/bramling-x/
+bramlingx_2015:
+  name: Bramling X
+  alpha: 5.2
+  from: GB
+  url: https://www.hopfen-der-welt.de/pellets-typ-90/gro%C3%9Fbritannien/bramling-x/
+simcoe_2015:
+  name: Simcoe
+  alpha: 13.2
+  from: USA
+  url: http://www.amihopfen.com/Hopfen/USA/Simcoe:::1_54_121.html
+ariana_2015:
+  name: Ariana
+  alpha: 12.0
+  from: DE
+  url: http://www.amihopfen.com/Hopfen/Deutschland/Ariana:::1_55_390.html
+kazbek_2015:
+  name: Kazbek
+  alpha: 6.4
+  from: CZ
+  url: http://www.amihopfen.com/Hopfen/Tschechien/Kazbek:::1_57_209.html

@@ -77,6 +77,10 @@
       list-style-image: none;
       list-style-position: inside;
       list-style-type: lower-roman;
+
+      &.no-list-style {
+        list-style-type: none;
+      }
     }
 
   }

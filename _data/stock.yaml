@@ -1,30 +1,35 @@
 yeasts:
+  gozdawa_pay7: 0
   m79: 1
-  windsor: 0
-  nottingham: 1
-  us05: 0
+  nottingham: 0
   s04: 0
   s33: 0
-  gozdawa_pay7: 0
+  us05: 2
+  windsor: 0
 hops:
+  ariana_2015: 100
+  bramlingx_2015: 100
+  cascade_us2015: 0
   ekg2014: 0
-  progress2013: 0
-  smaragd2014: 0
-  perle2014: 0
-  taurus2014: 70
+  kazbek_2015: 100
   northern2014: 140
-  bramlingx_2015: 0
+  perle2014: 0
+  progress2013: 0
+  simcoe_2015: 50
+  smaragd2014: 0
+  taurus2014: 70
 malts:
-  wiener: 0
-  pils: 0
+  best_carahell: 2700
+  best_redx: 2000
+  caraaroma: 800
+  caradunkel: 0
+  carahell: 0
+  chocolate: 900
+  gerstenflocken: 0
   marisotter: 0
   pale: 15000
-  weizen: 0
-  carahell: 0
-  best_carahell: 700
-  waramber: 0
+  pils: 0
   röstmalz: 640
-  caraaroma: 800
-  chocolate: 900
-  caradunkel: 0
-  gerstenflocken: 0
+  waramber: 0
+  weizen: 0
+  wiener: 0
