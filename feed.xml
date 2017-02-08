@@ -7,9 +7,22 @@
 </description>
     <link>http://sebastian.science/</link>
     <atom:link href="http://sebastian.science/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Feb 2017 13:34:12 +0100</pubDate>
-    <lastBuildDate>Wed, 08 Feb 2017 13:34:12 +0100</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2017 15:10:03 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2017 15:10:03 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Marakia geplant</title>
+        <description>&lt;p&gt;Ich habe &lt;a href=&quot;/11/&quot;&gt;Sud 11&lt;/a&gt; geplant.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Feb 2017 15:07:59 +0100</pubDate>
+        <link>http://sebastian.science/bier/2017/02/08/marakia-geplant/</link>
+        <guid isPermaLink="true">http://sebastian.science/bier/2017/02/08/marakia-geplant/</guid>
+        
+        
+        <category>bier</category>
+        
+      </item>
     
       <item>
         <title>SNPA &amp;amp; SNIPAX gebraut</title>
@@ -318,27 +331,6 @@
         
         
         <category>kartoffel</category>
-        
-      </item>
-    
-      <item>
-        <title>Stachelbeerenansatz</title>
-        <description>&lt;p&gt;Das frische Stachelbeer-Hochstämmchen ist voller Früchteansätze, wie man unschwer erkennen kann. Gleiches gilt leider nicht für den rot-fruchtigen Stachelbeerbusch. Der hält sich vornehm zurück und hat noch keinen Blüten- oder Fruchtbehang. Möglicherweise hat der Busch auch den Spätfrost nicht vertragen.&lt;/p&gt;
-
-&lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;/img/stachelbeere_01.jpeg&quot; alt=&quot;Stachelbeeren&quot; /&gt;
-&lt;/div&gt;
-&lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;/img/stachelbeere_02.jpeg&quot; alt=&quot;Stachelbeeren&quot; /&gt;
-    &lt;p class=&quot;post-image-caption&quot;&gt;Stachelbeeren am Hochstamm&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 10 May 2016 23:09:14 +0200</pubDate>
-        <link>http://sebastian.science/stachelbeeren/2016/05/10/stachelbeeren/</link>
-        <guid isPermaLink="true">http://sebastian.science/stachelbeeren/2016/05/10/stachelbeeren/</guid>
-        
-        
-        <category>stachelbeeren</category>
         
       </item>
     
