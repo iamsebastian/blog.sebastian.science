@@ -1,7 +1,6 @@
 ---
 layout: beer
-beer: 11
-permalink: /11/
+beer: draft_1
 ---
 
 Da ich nicht mehr viel im Lager habe, außer im Großen und Ganzen Pilsner Malz, CaraAroma und Röstmalz, will ich diese verwenden, um ein neues Rezept auszuprobieren.

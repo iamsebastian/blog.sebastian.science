@@ -1,7 +1,6 @@
 ---
 layout: beer
-beer: 15
-permalink: /15/
+beer: draft_5
 ---
 
 Probier' mal 'ne Blitzwürze.

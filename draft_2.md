@@ -1,7 +1,6 @@
 ---
 layout: beer
-beer: 12
-permalink: /12/
+beer: draft_2
 ---
 
 Single-Hop Pale Ale mit englischem Progress Hopfen.

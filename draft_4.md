@@ -1,7 +1,6 @@
 ---
 layout: beer
-beer: 14
-permalink: /14/
+beer: draft_4
 ---
 
 Ein obergäriger Maibock.

@@ -1,7 +1,6 @@
 ---
 layout: beer
-beer: 16
-permalink: /16/
+beer: draft_6
 ---
 
 Könnte so Richtung Kölsch gehen. Jedenfalls wird es obergärig.
