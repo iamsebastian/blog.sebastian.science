@@ -167,12 +167,18 @@
     pale: 2000.0
     best_carahell: 700.0
   hops:
-    - type: taurus2014
+    - type: progress2013
       time: 60 Min.
-      weight: 10.0
+      weight: 20.0
     - type: perle2014
       time: 30 Min.
       weight: 25.0
+    - type: cascade_us2015
+      time: 10 Min.
+      weight: 17.0
+    - type: cascade_us2015
+      time: 0 Min.
+      weight: 33.0
   yeast: nottingham
   orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&id=197&suche_klonrezepte=ja&factoraw=30&factorsha=50&factorha1=18.4&factorha2=7.8&factorha3=5.2&factorha4=5.2
 10:
@@ -205,6 +211,38 @@
     Besonderheit: 'Über 180g Hopfen versenkt!'
     specific:
       isom: <i>(mit 6l kaltem Leitungswasser auf 78°C und Zielstammwürze eingestellt)</i> 1
+      lager: 4
+11:
+  brewed: false
+  name: Makaria
+  malts:
+    pale: 3000.0
+    best_carahell: 400.0
+    best_redx: 2000.00
+  hops:
+    - type: ariana_2015
+      time: 30 Min.
+      weight: 20.0
+    - type: ariana_2015
+      time: 10 Min.
+      weight: 20.0
+    - type: ariana_2015
+      time: Whirlpool@80°C
+      weight: 20.0
+    - type: ariana_2015
+      time: Stopfen
+      weight: 40.0
+  yeast: us05
+  meta:
+    stw: 13.5°P
+    alc: 6.2%
+    ibu: 40
+    Restextrakt: 3.0°P
+    Hopfenkochzeit: 30 Min.
+    Hopfenstopfen: 40g (2g/l) Ariana
+    Besonderheit: 'Single-Hop Pale Ale (Ariana)'
+    specific:
+      isom: 1
       lager: 4
 
 ################################################################################
