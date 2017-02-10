@@ -82,3 +82,18 @@ kazbek_2015:
   alpha: 6.4
   from: CZ
   url: http://www.amihopfen.com/Hopfen/Tschechien/Kazbek:::1_57_209.html
+nugget_2015:
+  name: Nugget
+  alpha: 10.8
+  from: DE
+  url: http://www.amihopfen.com/Hopfen/Deutschland/Hallertau-Nugget:::1_55_146.html?language=de
+amarillo_2015:
+  name: Amarillo
+  alpha: 8.8
+  from: USA
+  url: http://www.amihopfen.com/Hopfen/USA/Amarillo-VGXP01:::1_54_119.html
+magnum_2015:
+  name: Magnum
+  alpha: 13.2
+  from: DE
+  url: http://www.amihopfen.com/Hopfen/Deutschland/Hallertau-Magnum:::1_55_148.html

@@ -7,12 +7,15 @@ yeasts:
   us05: 2
   windsor: 0
 hops:
+  amarillo_2015: 50
   ariana_2015: 100
   bramlingx_2015: 100
-  cascade_us2015: 0
+  cascade_us2015: 100
   ekg2014: 0
   kazbek_2015: 100
+  magnum_2015: 50
   northern2014: 140
+  nugget_2015: 50
   perle2014: 0
   progress2013: 0
   simcoe_2015: 50
