@@ -1,0 +1,14 @@
+---
+layout: beer
+beer: draft_1
+---
+
+Da ich nicht mehr viel im Lager habe, außer im Großen und Ganzen Pilsner Malz, CaraAroma und Röstmalz, will ich diese verwenden, um ein neues Rezept auszuprobieren.
+
+Angegeben ist das Rezept mit Polenta (Maisgrieß). Sollte ich diesen noch im Haushalt haben, was für gewöhnlich so ist, dann werde ich diesen zu 10% der Schüttung zugeben. Das sollte für einen volleren Körper des Suds sorgen.
+
+Northern Brewer aus dem Originalrezept habe ich ebenfalls, allerdings keinen Cascade. Deswegen werde ich wohl entweder erstmal den Progress verwenden, oder aber mit dem Taurus Bittern und den Progress als Aroma nutzen. Die Britische Hopfen Vereinigung [gibt den Progress auch als Bitter- und späten Aromahopfen an](http://www.britishhops.org.uk/progress/). Das konnte ich eben so von anderen Brauern lesen. Einer gab sogar an, mit dem Hopfen eine ganze Fruchtbowle an Aromen in den Sud geworfen zu haben.
+
+Ich habe den Progress nun als Single-Hop einkalkuliert mit etwa 50g Gesamt bei 17l Ausschlagwürze und 50% SHA.
+
+Nachtrag: Mit der letztetn Bestellung ist auch etwas Cascade (50g) bei mir eingeflogen. Somit ist es quasi der erste Rezept, was ich tatsächlich 1:1 nachbrauen kann.

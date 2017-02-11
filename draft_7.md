@@ -1,7 +1,6 @@
 ---
 layout: beer
-beer: 17
-permalink: /17/
+beer: draft_17
 ---
 
 Nach dem ich vom [Michel](http://michels-bier.de/) neulich das [Oatmeal Stout](http://michels-bier.de/portfolio-type/oatmeal-stout/) probiert habe und mich ein bisschen [verliebt habe](http://www.bierbasis.de/bier/Michels-Oatmeal-Stout), bin ich nun der Meinung, dass ich es auf jeden Fall noch einmal mit einem Stout probieren sollte.

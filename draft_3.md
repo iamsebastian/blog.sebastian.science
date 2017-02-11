@@ -1,7 +1,6 @@
 ---
 layout: beer
-beer: 13
-permalink: /13/
+beer: draft_3
 ---
 
 Single-Hop Pale Ale mit deutschem Taurus Hopfen.

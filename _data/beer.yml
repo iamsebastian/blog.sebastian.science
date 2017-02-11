@@ -167,12 +167,18 @@
     pale: 2000.0
     best_carahell: 700.0
   hops:
-    - type: taurus2014
+    - type: progress2013
       time: 60 Min.
-      weight: 10.0
+      weight: 20.0
     - type: perle2014
       time: 30 Min.
       weight: 25.0
+    - type: cascade_us2015
+      time: 10 Min.
+      weight: 17.0
+    - type: cascade_us2015
+      time: 0 Min.
+      weight: 33.0
   yeast: nottingham
   orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&id=197&suche_klonrezepte=ja&factoraw=30&factorsha=50&factorha1=18.4&factorha2=7.8&factorha3=5.2&factorha4=5.2
 10:
@@ -208,6 +214,42 @@
       lager: 4
 11:
   brewed: false
+  name: Makaria
+  malts:
+    pale: 3000.0
+    best_carahell: 400.0
+    best_redx: 2000.00
+  hops:
+    - type: ariana_2015
+      time: 30 Min.
+      weight: 20.0
+    - type: ariana_2015
+      time: 10 Min.
+      weight: 20.0
+    - type: ariana_2015
+      time: Whirlpool@80°C
+      weight: 20.0
+    - type: ariana_2015
+      time: Stopfen
+      weight: 40.0
+  yeast: us05
+  meta:
+    stw: 13.5°P
+    alc: 6.2%
+    ibu: 40
+    Restextrakt: 3.0°P
+    Hopfenkochzeit: 30 Min.
+    Hopfenstopfen: 40g (2g/l) Ariana
+    Besonderheit: 'Single-Hop Pale Ale (Ariana)'
+    specific:
+      isom: 1
+      lager: 4
+
+################################################################################
+#                                   DRAFTS
+################################################################################
+draft_1:
+  brewed: false
   name: Northern Cascade Amber Ale
   malts:
     pils: 4500.0
@@ -237,7 +279,7 @@
     - 3.Rast » 72 °C für 20 min
     - Abmaischen » 78°C
     - Würzekochzeit » 10 min
-12:
+draft_2:
   brewed: false
   name: Northern Pale Ale
   malts:
@@ -271,7 +313,7 @@
     - 2.Rast » 78 °C für 10 min
     - Abmaischen » 78 °C
     - Würzekochzeit » 90 min
-13:
+draft_3:
   brewed: false
   name: Taurus Pale Ale
   malts:
@@ -305,7 +347,7 @@
     - 2.Rast » 78 °C für 10 min
     - Abmaischen » 78 °C
     - Würzekochzeit » 90 min
-14:
+draft_4:
   name: bald Bock, bald Mai
   malts:
     wiener: 5000.0
@@ -321,7 +363,7 @@
       weight: 21.0
   yeast: nottingham
   orig: http://maischemalzundmehr.de/index.php?id=91&inhaltmitte=recipe&seite=1&suche_seite=&order=datum&ordertype=DESC
-15:
+draft_5:
   name: Blitzwurz
   malts:
     pils: 4500.0
@@ -342,7 +384,7 @@
       lager: 3, besser 6
   yeast: nottingham
   orig: http://www.maischemalzundmehr.de/index.php?inhaltmitte=recipe&seite=&id=420&factoraw=20&factorsha=50
-16:
+draft_6:
   name: Wieß
   malts:
     pils: 2000.0
@@ -363,7 +405,7 @@
       lager: 4-6, besser 10
   yeast: nottingham
   orig: http://maischemalzundmehr.de/index.php?inhaltmitte=recipe&seite=2&id=101&factoraw=20&factorsha=63&factorhav2=&factorhav3=&factorha1=18.4&factorha2=3.9&factorha3=&factorha4=&factorha5=&factorha6=&factorha7=&suche_klonrezepte=&suche_anfaenger=&suche_begriff=&suche_sorte=Ale%2C+Pale&suche_malz=Wiener+Malz&suche_malz2=&suche_hopfen=&suche_hopfen2=&suche_weiterezutat=&suche_hefe=&ordertype=DESC&factorhav=3.9
-17:
+draft_7:
   name: Oatmeal - Hafer Creme
   malts:
     pils: 3000.0
