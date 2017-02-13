@@ -1,5 +1,14 @@
 ---
 layout: default
 ---
+<article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
 
-{% include post.html post=page content=content %}
+  {% include page_head.html %}
+
+  {% include article_body.html %}
+
+  {% include profile.html %}
+
+</article>
+
+{% include page_previous.html %}

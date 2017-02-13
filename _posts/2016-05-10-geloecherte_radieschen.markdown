@@ -2,7 +2,7 @@
 layout: post
 title:  "Gelöcherte Radies"
 date:   2016-05-10 22:6:14 +0100
-categories: radies
+categories: Radies
 about: Radies
 ---
 

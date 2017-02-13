@@ -2,7 +2,7 @@
 layout: post
 title:  "Die Erdbeeren starten"
 date:   2016-05-10 22:5:14 +0100
-categories: erdbeeren
+categories: Erdbeeren
 about: Erdbeeren
 ---
 

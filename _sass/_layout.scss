@@ -1,159 +1,76 @@
-#banner {
-    @include retina-background-image($img-banner);
-    background-color: $background-color;
-    outline: none;
-    display: block;
-    width: $banner-width;
-    height: $banner-height;
-    margin: 2rem auto 1.4rem;
-    position: relative; /* To ensure the bottom border is positioned correctly */
-
-    h1 {
-        // Font is included from Google Fonts automatically unless a custom banner is used
-        // See _config.yml for details
-        font-family: $banner-font-family;
-        font-size: 24px;
-        font-weight: 400;
-        text-align: center;
-        letter-spacing: 0.03em;
-        color: #fefefe;
-        position: absolute;
-        bottom: 20px;
-        width: 100%;
-        display: none;
-    }
-
-    &::after {
-        display: block;
-        position: absolute;
-        top: $banner-height;
-        left: $banner-border-offset;
-        content: "";
-        background: $banner-after-bg-color;
-        height: $banner-border-width;
-        width: $banner-width - ($banner-border-offset* 2);
-    }
-
-    @include min-breakpoint($image-splitting-breakpoint) {
-        //margin-top: $banner-margin-top;
-        //margin-bottom: $banner-margin-bottom;
-    }
+/**
+ * Body
+ */
+body {
+  background-color: $color-grey;
 }
 
-header[role=banner] {
-  margin-bottom: $header-margin-bottom;
+/**
+ * Sections
+ */
+section {
+  position: relative;
 }
 
-#footer {
-    width: 90%;
-    margin: 50px auto 0;
+.section-padding {
+  padding: 4em 0;
 
-    @include min-breakpoint($desktop-breakpoint) {
-        width: $layout-width;
-    }
-
-    /*margin-top: 50px;*/
-    text-align: center;
-
-    &::after {
-        @include retina-background-image($img-dude);
-        display: block;
-        content: "";
-        width: 65px;
-        height: 158px;
-        margin: 20px auto 50px;
-    }
-
-    a {
-        // Overwrite default link color
-        color: #222;
-
-        &:hover {
-            // ... but allow the hover color to work as normal
-            color: $hover-color;
-        }
-    }
-
-    p {
-        margin: 0 0 9px;
-        line-height: 1.3;
-        font-size: 19px;
-        max-width: 75%;
-        margin-left: auto;
-        margin-right: auto;
-
-        @include min-breakpoint($image-splitting-breakpoint) {
-            font-size: 18px;
-            line-height: 1;
-        }
-    }
-}
-
-section[role="main"] {
-    width: 90%;
-    margin: 0 auto;
-
-    @include min-breakpoint($desktop-breakpoint) {
-        width: $layout-width;
-    }
-}
-
-.svg-beds {
-  box-shadow: 0 0 0px 8px #fff, 0 0 4px 8px #ddd;
-  height: auto;
-  margin: 24px 8px;
-  max-width: 750px;
-  /*width: 100%;*/
-
-  &:hover {
-    > g {
-      opacity: 0.5;
-    }
+  &--lg {
+    padding: 6em 0;
   }
 
-  > g {
-    &:hover {
-      opacity: 1;
-      stroke: lightgrey;
-      rect,circle,line,path {
-        /*stroke: black;*/
+  &--sm {
+    padding: 2em 0;
+  }
+}
+
+/**
+ * Class Container (BEM)
+ */
+[class*='__container'] {
+  position: relative;
+  z-index: 1;
+}
+
+/**
+ * Blog page
+ */
+.previews {
+
+  @media (max-width: $mq-md) {
+    display: flex;
+    flex-direction: column;
+  }
+
+  & > * {
+
+    &:first-child {
+      position: relative;
+
+      height: 30em;
+
+      background-color: $color-black;
+
+      @media (min-width: $mq-md) {
+        position: fixed;
+        top: 0;
+        left: 0;
+
+        height: 100%;
+        width: 45%;
+      }
+
+      &:after {
+        @extend %overlay;
+      }
+    }
+
+    &:last-child {
+      min-height: 100vh;
+
+      @media (min-width: $mq-md) {
+        margin-left: 45%;
       }
     }
   }
-
-  .info_hover {
-    /*display: none;*/
-    fill: darkgrey;
-  }
-
-  .sibling_hover {
-    opacity: 0.5;
-    display: none;
-  }
-
-  g:hover {
-    /*opacity: 1;*/
-
-    & + .sibling_hover {
-      opacity: 1;
-      display: block;
-      fill: grey;
-    }
-
-    & ~ g {
-      /*opacity: 0.2;*/
-    }
-    /*g.info_hover {*/
-      /*display: inherit;*/
-    /*}*/
-  }
-}
-
-ul > li {
-  font-family: $font-family-list;
-  line-height: 2rem;
-}
-
-nav > ul.pagination {
-  margin: 0;
 }

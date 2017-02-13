@@ -2,7 +2,7 @@
 layout: post
 title:  "Rabatten gesäubert"
 date:   2016-06-05 15:51:22 +0100
-categories: kartoffeln beete rabatten
+categories: Kartoffeln Beete Rabatten
 about:  Kartoffeln, Beete, Rabatten
 ---
 

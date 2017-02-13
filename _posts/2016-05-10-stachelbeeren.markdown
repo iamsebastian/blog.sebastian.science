@@ -2,7 +2,7 @@
 layout: post
 title:  "Stachelbeerenansatz"
 date:   2016-05-10 22:9:14 +0100
-categories: stachelbeeren
+categories: Stachelbeeren
 about: Stachelbeeren
 ---
 

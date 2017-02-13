@@ -2,7 +2,10 @@
 layout: post
 title:  "Die Indianer kommen"
 date:   2016-05-21 11:30:35 +0100
-categories: indianerbeet,mais,feuerbohnen
+categories:
+  - Indianerbeet
+  - Mais
+  - Feuerbohnen
 about:  Indianerbeet, Mais, Feuerbohnen
 ---
 

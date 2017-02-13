@@ -1,8 +1,0 @@
-@import "modules/legal/variables";
-@mixin galileo-legal {
-    #footer p.legal, .legal {
-        color: $legal-text-color;
-        font-style: italic;
-        line-height: 1.5rem;
-    }
-}

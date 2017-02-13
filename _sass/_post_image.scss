@@ -1,0 +1,27 @@
+@import "post_variables";
+
+.post-image-caption {
+  margin-top: 25px;
+  color: $caption-text-color;
+  font-family: $caption-font-family;
+  line-height: $post-image-caption-line-height;
+  font-style: $caption-font-style;
+  font-variant: $caption-font-variant;
+  letter-spacing: $caption-letter-spacing;
+  padding: 0 20px;
+
+  // Re-set the font size as parent is set to zero
+  font-size: $caption-font-size;
+
+  // Override properties meant for article content paragraphs
+  margin-bottom: 0 !important;
+  text-align: center !important;
+
+  &::after {
+    display: block;
+    content: "";
+    width: 185px;
+    margin: 23px auto 30px;
+    border-bottom: 3px double $border-color;
+  }
+}

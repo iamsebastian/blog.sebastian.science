@@ -2,7 +2,7 @@
 layout: post
 title:  "Herbstaussat"
 date:   2016-07-11 06:00:09 +0100
-categories: herbst aussaat
+categories: Herbst Aussaat
 about: Aussaaten für den Herbst
 ---
 

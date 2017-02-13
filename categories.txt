@@ -1,0 +1,8 @@
+---
+layout: null
+---
+{% capture cats %}
+  {% for cat in site.categories %}
+    {{ cat | first }}
+  {% endfor %}
+{% endcapture %}{% assign sortedCats = cats | split:' ' | sort %}{% for cat in sortedCats %}{{ cat }};{% endfor %}

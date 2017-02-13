@@ -6,38 +6,58 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+email: m@sebastian.science
+baseurl: "" # the subpath of your site, e.g. /blog
+google_analytics: 
+
+# SEO settings
 title: >
   Sebastian Blei: Brauen, Garten, Hacken & der Rest
-author: Sebastian Blei
-author_link: http://sebastian.science
-author_description: >
-  Brauen, Garten, Hacken von und mit Sebastian Blei & Söhnen
-email: me@sebastianblei.com
 description: > # this means to ignore newlines until "baseurl:"
   Sebastian Blei hält Notiz darüber, was er für Bier braut, im Garten baut und Bytecode kaut.
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sebastian.science" # the base hostname & protocol for your site
+twitter_username: iamblei
+default_img: http://orig06.deviantart.net/11ba/f/2012/272/4/7/redfuck_by_redfuck-d5g91if.jpg
+author: Sebastian Blei
+author_link: http://sebastian.science
+#author_description: >
+  #Brauen, Garten, Hacken von und mit Sebastian Blei & Söhnen
+author_description: >
+  Brauen, Garten, Hacken
+
+# Profile settings
+name: Sebastian Blei
+profile_img: http://orig06.deviantart.net/11ba/f/2012/272/4/7/redfuck_by_redfuck-d5g91if.jpg
+profile: 
+social:
+  github: iamsebastian
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
-picturefill: false
+# From galileo-theme
+#picturefill: false
 
 # Typography
 # To use, publish a kit and enter the ID here. If you do not wish to use Typekit,
 # leave this ID blank
-typekit_kit_id:
+# From galileo-theme
+#typekit_kit_id:
 
 # Build settings
-gems: [jekyll-paginate]
+include: ["_categories"]
 markdown: kramdown
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 
 # Pagination
-paginate: 3
+paginate: 5
+paginate_path: "/blog/page-:num"
 
 # Sass
 sass:
-    style: :compressed
+  style: compressed
+
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
 
 # Directories
 exclude:
@@ -45,3 +65,8 @@ exclude:
   - new_post.sh
   - post_image.template
   - import_images
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.txt
+  - README.md
+  - categories.sh

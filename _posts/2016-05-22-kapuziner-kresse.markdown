@@ -2,7 +2,8 @@
 layout: post
 title:  "Kapuziner Kresse kommt"
 date:   2016-05-22 11:30:35 +0100
-categories: kapuziner kresse
+categories:
+  - Kapuziner-Kresse
 about:  Kapuziner Kresse
 ---
 

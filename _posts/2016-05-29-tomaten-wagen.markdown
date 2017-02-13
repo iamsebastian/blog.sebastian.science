@@ -2,7 +2,7 @@
 layout: post
 title:  "Erste Ernte"
 date:   2016-05-29 12:30:35 +0100
-categories: tomaten,bollerwagen,okra
+categories: Tomaten Bollerwagen Okra
 about:  Tomaten, Bollerwagen, Okra
 ---
 

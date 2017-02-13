@@ -1,0 +1,17 @@
+table {
+  padding: 1rem;
+
+  tr {
+    > * {
+      padding: 1rem;
+    }
+  }
+
+  th {
+    border: 1px solid rgba(0,0,0,.07);
+    border-left: none;
+    border-right: none;
+  }
+}
+
+

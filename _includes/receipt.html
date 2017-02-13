@@ -1,84 +1,100 @@
-<section class="receipt">
-  <h2>Inhalt:</h2>
+<section class="post receipt">
+  <h3>Inhalt:</h3>
 
   {% assign beer = site.data.beer[page.beer] %}
 
-  <p>EBC: {% calc_beer %}</p>
+  <table>
+    {% if beer.water %}
+      <tr>
+        <td>Wasser</td>
+        <td>{{beer.water}}l</td>
+      </tr>
+    {% endif %}
 
-  {% if beer.water %}
-    <p>Wasser: {{beer.water}}l</p>
-  {% endif %}
-
-  <h3>Malz</h3>
-  <ul>
+    <tr><th colspan=99>Malz</th></tr>
+    <tr>
+      <td>Typ</td>
+      <td>Menge [<code>g</code>]</td>
+      <td>EBC</td>
+    </tr>
     {% for malts in beer.malts %}
+      <tr>
       {% assign name = malts[0] %}
       {% assign weight = malts[1] %}
       {% assign malt = site.data.malts[name] %}
       {% assign name = malt.name %}
-      <li>{{ weight }}g {{ name }}
-        <i>({{ malt.ebc }} EBC)</i>
-      </li>
+      <td>{{ name }}</td>
+      <td>{{ weight }}</td>
+      <td>{{ malt.ebc }}</td>
+      </tr>
     {% endfor %}
 
-    <p>Gesamtschüttung: {{ beer | get_sum_weight }}</p>
-  </ul>
+    <td colspan=99>Gesamtschüttung: {{ beer | get_sum_weight }}</td>
 
-  {% if beer.mash %}
-    <h3>Maischplan</h3>
-    <ul class="square">
-    {% for mash in beer.mash %}
-      <li>{{mash}}</li>
-    {% endfor %}
-    </ul>
-    {% comment %}{% include maischplan.svg %}{% endcomment %}
-  {% endif %}
+    {% if beer.mash %}
+      <tr><th colspan=99>Maischplan</th></tr>
+      {% for mash in beer.mash %}
+        <td>{{mash}}</td>
+      {% endfor %}
+    {% endif %}
 
-  <h3>Hopfen</h3>
-  <ul>
+    <tr><th colspan=99>Hopfen</th></tr>
+    <tr>
+      <td>Hopfen</td>
+      <td>Menge [<code>g</code>]</td>
+      <td>Zeitpunkt</td>
+    </tr>
     {% for hops in beer.hops %}
+    <tr>
       {% assign hop = site.data.hops[hops.type] %}
       {% assign weight = hops.weight %}
       {% assign time = hops.time %}
-      <li>{{ weight }}g {{ hop.name }} <i>({{ hop.alpha }}%&alpha;)</i> @{{ time }}
-      </li>
+      <td>{{ hop.name }} <i>({{ hop.alpha }}%&alpha;)</i></td>
+      <td>{{ weight }}</td>
+      <td>{{ time }}</td>
+    </tr>
     {% endfor %}
-  </ul>
 
   {% if beer.yeasts %}
-    <h3>Hefen</h3>
-    <ul>
+    <tr><th colspan=99>Hefen</th></tr>
+
+    <tr>
       {% for yeasts in beer.yeasts %}
         {% assign yeast = site.data.yeasts[yeasts] %}
-        <li>{{ yeast.name }}
+        <td>{{ yeast.name }}
         {% assign yeast_type = yeast.type %}
 
         {% if yeast_type %}
           ({{ yeast_type}})
         {% endif %}
-        </li>
+        </td>
       {% endfor %}
-    </ul>
+    </tr>
 
   {% else if beer.yeast %}
-    <h3>Hefe</h3>
-    <ul>
+    <tr><th colspan=99>Hefe</th></tr>
+    <tr>
       {% assign yeast = site.data.yeasts[beer.yeast] %}
       {% assign yeast_type = yeast.type %}
-      <li>{{ yeast.name }}
-      {% if yeast_type %}
-        ({{ yeast_type}})
-      {% endif %}
-      </li>
-    </ul>
+      <td>{{ yeast.name }}</td>
+      <td>{{ yeast_type}}</td>
+    </tr>
 
   {% endif %}
 
-  <h3>Meta</h3>
-  <ul>
+    <tr>
+      <th colspan=99>Meta</th>
+    </tr>
+
+    <tr>
+      <td>EBC</td>
+      <td>{% calc_beer %}</td>
+    </tr>
+
     {% for meta in beer.meta %}
       {% unless meta[0] == 'specific' %}
-        <li>
+    <tr>
+      <td>
           {% case meta[0] %}
           {% when 'stw' %}
             Stammwürze:
@@ -88,34 +104,37 @@
             IBU (Bittereinheiten):
           {% else %}
             {{ meta[0] }}:
-          {% endcase %}
-          {{ meta[1] }}</li>
+            {% endcase %}</td>
+          <td>{{ meta[1] }}</td>
       {% endunless %}
+    </tr>
     {% endfor %}
 
     {% if beer.meta.specific.lager %}
-      {% assign lager = beer.meta.specific.lager %}
-      <li>Lagerzeit: {{ lager }}
-        {% unless lager == 1 %}
-          Wochen
-        {% else %}
-          Woche
-        {% endunless %}
-      </li>
+      <tr>
+        {% assign lager = beer.meta.specific.lager %}
+        <td>Lagerzeit</td>
+        <td> {{ lager }}
+          {% unless lager == 1 %}
+            Wochen
+          {% else %}
+            Woche
+          {% endunless %}
+        </td>
+      </tr>
     {% endif %}
 
-    <li>Nachisomerisierungszeit:
-      {% unless beer.meta.specific.isom %}
+    <td>Nachisomerisierungszeit</td>
+    <td>{% unless beer.meta.specific.isom %}
         25
       {% else %}
         {{ beer.meta.specific.isom }}
       {% endunless %}
-      Min. </li>
-  </ul>
+      Min. </td>
 
-  {% if beer.orig %}
-    <p>
-    <small><a href="{{ beer.orig }}">Quellrezept</a></small>
-    </p>
-  {% endif %}
+    {% if beer.orig %}
+      <td>Quellrezept</td>
+      <td><a href="{{ beer.orig }}">Link</a></td>
+    {% endif %}
+  </table>
 </section>

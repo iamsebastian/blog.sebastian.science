@@ -2,8 +2,10 @@
 layout: post
 title:  "Gerüst für die Bohnen"
 date:   2016-06-07 16:18:09 +0100
-categories: geruest bohnen
+categories: Bohnen
 about: Gerüst, Bohnen
+image: /img/bohnen_geruest_20160607_193006.jpg
+image-sm:
 ---
 
 Ich hatte noch einen Packen 24x48er Latten für die Begrünung der Kiwi(ri)s liegen. Die Kiwis wachsen aber langsamer als angenommen, die Schlingel(er), weswegen ich die Latten kurzerhand zersägt, gephast, gestutzt und verschraubt habe, um ein Rankgerüst für die Bohnen zu haben.
