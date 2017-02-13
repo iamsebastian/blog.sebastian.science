@@ -7,9 +7,9 @@
 </description>
     <link>http://sebastian.science/</link>
     <atom:link href="http://sebastian.science/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Feb 2017 13:34:35 +0100</pubDate>
-    <lastBuildDate>Fri, 10 Feb 2017 13:34:35 +0100</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <pubDate>Mon, 13 Feb 2017 12:11:53 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Feb 2017 12:11:53 +0100</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
     
       <item>
         <title>Neuer Hopfen eingetroffen</title>
@@ -20,11 +20,11 @@
 &lt;p&gt;Angekommen sind also: US Cascade 100g, Magnum 50g, Amarillo 50g, Nugget 50g.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Feb 2017 13:23:45 +0100</pubDate>
-        <link>http://sebastian.science/bier/2017/02/10/neuer-hopfen-eingetroffen/</link>
-        <guid isPermaLink="true">http://sebastian.science/bier/2017/02/10/neuer-hopfen-eingetroffen/</guid>
+        <link>http://sebastian.science/2017/02/10/neuer-hopfen-eingetroffen/</link>
+        <guid isPermaLink="true">http://sebastian.science/2017/02/10/neuer-hopfen-eingetroffen/</guid>
         
         
-        <category>bier</category>
+        <category>Bier</category>
         
       </item>
     
@@ -33,11 +33,11 @@
         <description>&lt;p&gt;Ich habe &lt;a href=&quot;/11/&quot;&gt;Sud 11&lt;/a&gt; geplant.&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Feb 2017 15:07:59 +0100</pubDate>
-        <link>http://sebastian.science/bier/2017/02/08/marakia-geplant/</link>
-        <guid isPermaLink="true">http://sebastian.science/bier/2017/02/08/marakia-geplant/</guid>
+        <link>http://sebastian.science/2017/02/08/marakia-geplant/</link>
+        <guid isPermaLink="true">http://sebastian.science/2017/02/08/marakia-geplant/</guid>
         
         
-        <category>bier</category>
+        <category>Bier</category>
         
       </item>
     
@@ -46,19 +46,19 @@
         <description>&lt;p&gt;Ich habe &lt;a href=&quot;/9/&quot;&gt;Sud 9&lt;/a&gt; &amp;amp; &lt;a href=&quot;/10/&quot;&gt;Sud 10&lt;/a&gt; eingetragen.&lt;/p&gt;
 </description>
         <pubDate>Thu, 19 Jan 2017 09:59:18 +0100</pubDate>
-        <link>http://sebastian.science/brauen,/pale/ale,/ipa,/snpa/2017/01/19/snpa-&-snipax-gebraut/</link>
-        <guid isPermaLink="true">http://sebastian.science/brauen,/pale/ale,/ipa,/snpa/2017/01/19/snpa-&-snipax-gebraut/</guid>
+        <link>http://sebastian.science/2017/01/19/snpa-&-snipax-gebraut/</link>
+        <guid isPermaLink="true">http://sebastian.science/2017/01/19/snpa-&-snipax-gebraut/</guid>
         
         
-        <category>brauen,</category>
+        <category>Bier</category>
         
-        <category>pale</category>
+        <category>Pale-Ale</category>
         
-        <category>ale,</category>
+        <category>IPA</category>
         
-        <category>ipa,</category>
+        <category>SNPA</category>
         
-        <category>snpa</category>
+        <category>SNIPAX</category>
         
       </item>
     
@@ -100,13 +100,13 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 11 Jul 2016 07:00:09 +0200</pubDate>
-        <link>http://sebastian.science/herbst/aussaat/2016/07/11/herbstaussat/</link>
-        <guid isPermaLink="true">http://sebastian.science/herbst/aussaat/2016/07/11/herbstaussat/</guid>
+        <link>http://sebastian.science/2016/07/11/herbstaussat/</link>
+        <guid isPermaLink="true">http://sebastian.science/2016/07/11/herbstaussat/</guid>
         
         
-        <category>herbst</category>
+        <category>Herbst</category>
         
-        <category>aussaat</category>
+        <category>Aussaat</category>
         
       </item>
     
@@ -160,13 +160,11 @@
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 07 Jun 2016 17:18:09 +0200</pubDate>
-        <link>http://sebastian.science/geruest/bohnen/2016/06/07/ger%C3%BCst-f%C3%BCr-die-bohnen/</link>
-        <guid isPermaLink="true">http://sebastian.science/geruest/bohnen/2016/06/07/ger%C3%BCst-f%C3%BCr-die-bohnen/</guid>
+        <link>http://sebastian.science/2016/06/07/ger%C3%BCst-f%C3%BCr-die-bohnen/</link>
+        <guid isPermaLink="true">http://sebastian.science/2016/06/07/ger%C3%BCst-f%C3%BCr-die-bohnen/</guid>
         
         
-        <category>geruest</category>
-        
-        <category>bohnen</category>
+        <category>Bohnen</category>
         
       </item>
     
@@ -203,15 +201,15 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 05 Jun 2016 16:51:22 +0200</pubDate>
-        <link>http://sebastian.science/kartoffeln/beete/rabatten/2016/06/05/rabatten-ges%C3%A4ubert/</link>
-        <guid isPermaLink="true">http://sebastian.science/kartoffeln/beete/rabatten/2016/06/05/rabatten-ges%C3%A4ubert/</guid>
+        <link>http://sebastian.science/2016/06/05/rabatten-ges%C3%A4ubert/</link>
+        <guid isPermaLink="true">http://sebastian.science/2016/06/05/rabatten-ges%C3%A4ubert/</guid>
         
         
-        <category>kartoffeln</category>
+        <category>Kartoffeln</category>
         
-        <category>beete</category>
+        <category>Beete</category>
         
-        <category>rabatten</category>
+        <category>Rabatten</category>
         
       </item>
     
@@ -245,11 +243,15 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 29 May 2016 13:30:35 +0200</pubDate>
-        <link>http://sebastian.science/tomaten,bollerwagen,okra/2016/05/29/tomaten-wagen/</link>
-        <guid isPermaLink="true">http://sebastian.science/tomaten,bollerwagen,okra/2016/05/29/tomaten-wagen/</guid>
+        <link>http://sebastian.science/2016/05/29/tomaten-wagen/</link>
+        <guid isPermaLink="true">http://sebastian.science/2016/05/29/tomaten-wagen/</guid>
         
         
-        <category>tomaten,bollerwagen,okra</category>
+        <category>Tomaten</category>
+        
+        <category>Bollerwagen</category>
+        
+        <category>Okra</category>
         
       </item>
     
@@ -269,11 +271,13 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 29 May 2016 12:30:35 +0200</pubDate>
-        <link>http://sebastian.science/radies,ernte/2016/05/29/die-erste-ernte/</link>
-        <guid isPermaLink="true">http://sebastian.science/radies,ernte/2016/05/29/die-erste-ernte/</guid>
+        <link>http://sebastian.science/2016/05/29/die-erste-ernte/</link>
+        <guid isPermaLink="true">http://sebastian.science/2016/05/29/die-erste-ernte/</guid>
         
         
-        <category>radies,ernte</category>
+        <category>Radies</category>
+        
+        <category>Ernte</category>
         
       </item>
     
@@ -289,13 +293,11 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 22 May 2016 12:30:35 +0200</pubDate>
-        <link>http://sebastian.science/kapuziner/kresse/2016/05/22/kapuziner-kresse/</link>
-        <guid isPermaLink="true">http://sebastian.science/kapuziner/kresse/2016/05/22/kapuziner-kresse/</guid>
+        <link>http://sebastian.science/2016/05/22/kapuziner-kresse/</link>
+        <guid isPermaLink="true">http://sebastian.science/2016/05/22/kapuziner-kresse/</guid>
         
         
-        <category>kapuziner</category>
-        
-        <category>kresse</category>
+        <category>Kapuziner-Kresse</category>
         
       </item>
     
@@ -325,11 +327,15 @@
 &lt;p&gt;Was noch fehlt in der Indianer-Mischkultur – die wohl eigentlich auch für den Ackerbau interessant sein soll – ist der Bodendecker. Den habe ich kurz nach diesem Post gepflanzt. Hokkaido, soll es dann werden. Dieses mal darf ich auf gar keinen Fall vergessen, die Triebe zu kappen. Letztes Jahr hatte ich zwar durchaus guten Hokkaido-Ertrag, aber dafür haben sich die fünf Pflanzen, die ich hatte, auch jeweils über sechs Meter lang gemacht und dabei zuviele Blüten oder kleine Früchte getragen, die dann nur bedingt reif wurden und auswuchsen.&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 May 2016 12:30:35 +0200</pubDate>
-        <link>http://sebastian.science/indianerbeet,mais,feuerbohnen/2016/05/21/die-indianer-kommen/</link>
-        <guid isPermaLink="true">http://sebastian.science/indianerbeet,mais,feuerbohnen/2016/05/21/die-indianer-kommen/</guid>
+        <link>http://sebastian.science/2016/05/21/die-indianer-kommen/</link>
+        <guid isPermaLink="true">http://sebastian.science/2016/05/21/die-indianer-kommen/</guid>
         
         
-        <category>indianerbeet,mais,feuerbohnen</category>
+        <category>Indianerbeet</category>
+        
+        <category>Mais</category>
+        
+        <category>Feuerbohnen</category>
         
       </item>
     
