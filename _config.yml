@@ -28,9 +28,10 @@ author_description: >
 # Profile settings
 name: Sebastian Blei
 profile_img: http://orig06.deviantart.net/11ba/f/2012/272/4/7/redfuck_by_redfuck-d5g91if.jpg
-profile: 
+profile: >
+  Brauherr, Gärtner, Hacker und Pflanzenfreund Sebastian Blei.
 social:
-  github: iamsebastian
+  github: https://github.com/iamsebastian
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/

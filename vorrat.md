@@ -2,7 +2,7 @@
 date: 2016-01-01 00:00:00 +0100
 layout: post
 title: Vorräte
-permalink: /vorraete/
+permalink: /vorrat/
 image: https://unsplash.it/2000/1200?image=252
 image-sm: https://unsplash.it/500/300?image=252
 ---
