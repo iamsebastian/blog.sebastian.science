@@ -4,13 +4,6 @@
   {% assign beer = site.data.beer[page.beer] %}
 
   <table>
-    {% if beer.water %}
-      <tr>
-        <td>Wasser</td>
-        <td>{{beer.water}}l</td>
-      </tr>
-    {% endif %}
-
     <tr><th colspan=99>Malz</th></tr>
     <tr>
       <td>Typ</td>
@@ -34,7 +27,7 @@
     {% if beer.mash %}
       <tr><th colspan=99>Maischplan</th></tr>
       {% for mash in beer.mash %}
-        <td>{{mash}}</td>
+        <tr><td>{{mash}}</td></tr>
       {% endfor %}
     {% endif %}
 
@@ -88,8 +81,20 @@
 
     <tr>
       <td>EBC</td>
-      <td>{% calc_beer %}</td>
+      {% capture ebc %}
+        {% calc_beer %}
+      {% endcapture %}
+      <td>{{ ebc }}</td>
+      <td>{% include ebc_beer.svg %}</td>
+      {% comment %}<td style="background-color:{{ ebc | ebc_to_hex }};"></td>{% endcomment %}
     </tr>
+
+    {% if beer.water %}
+      <tr>
+        <td>Wasser</td>
+        <td>{{beer.water}}l</td>
+      </tr>
+    {% endif %}
 
     {% for meta in beer.meta %}
       {% unless meta[0] == 'specific' %}
@@ -124,17 +129,21 @@
       </tr>
     {% endif %}
 
-    <td>Nachisomerisierungszeit</td>
-    <td>{% unless beer.meta.specific.isom %}
-        25
-      {% else %}
-        {{ beer.meta.specific.isom }}
-      {% endunless %}
-      Min. </td>
+    <tr>
+      <td>Nachisomerisierungszeit</td>
+      <td>{% unless beer.meta.specific.isom %}
+          25
+        {% else %}
+          {{ beer.meta.specific.isom }}
+        {% endunless %}
+        Min. </td>
+    </tr>
 
-    {% if beer.orig %}
-      <td>Quellrezept</td>
-      <td><a href="{{ beer.orig }}">Link</a></td>
-    {% endif %}
+    <tr>
+      {% if beer.orig %}
+        <td>Quellrezept</td>
+        <td><a href="{{ beer.orig }}">Link</a></td>
+      {% endif %}
+    </tr>
   </table>
 </section>
