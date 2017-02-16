@@ -217,7 +217,7 @@
       isom: <i>(mit 6l kaltem Leitungswasser auf 78°C und Zielstammwürze eingestellt)</i> 1
       lager: 4
 11:
-  brewed: false
+  brewed: true
   name: Makaria
   malts:
     pale: 3000.0
@@ -225,24 +225,24 @@
     best_redx: 2000.00
   hops:
     - type: ariana_2015
-      time: 30 Min.
+      time: 50 Min.
       weight: 20.0
     - type: ariana_2015
-      time: 10 Min.
+      time: 5 Min.
       weight: 20.0
     - type: ariana_2015
-      time: Whirlpool@80°C
+      time: Whirlpool@77°C
       weight: 20.0
     - type: ariana_2015
       time: Stopfen
       weight: 40.0
   yeast: us05
   meta:
-    stw: 13.5°P
-    alc: 6.2%
+    stw: 13.0°P
+    alc: 5.9%
     ibu: 40
     Restextrakt: 3.0°P
-    Hopfenkochzeit: 30 Min.
+    Hopfenkochzeit: 50 Min.
     Hopfenstopfen: 40g (2g/l) Ariana
     Besonderheit: 'Single-Hop Pale Ale (Ariana)'
     specific:
