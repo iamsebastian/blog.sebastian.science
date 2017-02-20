@@ -1,16 +1,18 @@
 language: ruby
 rvm:
-  - 2.2
-
+- 2.2
 script:
-  - mkdir _site
-  - git clone -b gh-pages `git config remote.origin.url` _site
-  - bundle exec jekyll b
-  - cd _site
-  - ls -lah
-  - git diff
-  - git config user.name travis
-  - git config user.email travis@sebastian.science
-  - git add -A
-  - git commit -am 'Built page by Travis CI' #`date +%Y-%m-%d\ %H:%M:%S`
-  - git push -q $(git config remote.origin.url | awk 'BEGIN { FS = "//" }; {print $1"//iamsebastian:'`echo $GITHUB_API_KEY`'@"$2" gh-pages &2>/dev/null"}')
+- mkdir _site
+- git clone -b gh-pages `git config remote.origin.url` _site
+- bundle exec jekyll b
+- cd _site
+- ls -lah
+- git diff
+- git config user.name travis
+- git config user.email travis@sebastian.science
+- git add -A
+- git commit -am 'Built page by Travis CI'
+- git push -q $(git config remote.origin.url | awk 'BEGIN { FS = "//" }; {print $1"//iamsebastian:'`echo
+  $GITHUB_API_KEY`'@"$2" gh-pages &2>/dev/null"}')
+env:
+  secure: 1DlSN0BPAlFfvk7geoLeGRvjcIQVplGtugRKlqSL4AfT/APG7ESWeMLATNf9GnZZRf7wsnbfQUn14yMQo/Te6Li8Q0PWL9Fpf9eZQiFbMJB7yRWwMVD1rU5l+423rQiFmW/tsoAOK4H6RzPQ3XZk3X2LePrb1yKSaUR+5r+cdK85ZPMPoouJuXGTxAPs0HomNW5OTRm6s+uLPQhiUjs4fUKhmdCs8WFr50rB2g83ZvBi7GMD1VARonVU/299kSXt1OxjT9Sk7LDxP8HP7w43VcpBDz4CnL3woHupksZw+NhBn7Pwdnmk6mLDwTiXjZ6Tuy0Soq0bOGx++mIRVojGIfSZ8VCJz2VV/LN+SgMfUEsksAHr+cv75yn1Mra8XQgO/GrmvSvn/KziSvbSGo6KxSh2PBk1BMJpvdpPApJM1md9m1V0ignh2Ae7SBDlmrqSYvWyogaj5Jf6t1wgmQur7ZAJMclaVI9v8cDcPOJvZKLsbxdFQH+sfSr4bdwjBdKVhieRE5P1WPQRJm83b1pbkJGzaDwoQ11CJw2BzSnq7ne0ZlKnnGlmuJ7w6xsJLQvaCsmmrF09QxKcRbFLz5FVJVEmFq3Gp7MJJ9N+KC9pF43nrT0a9nsjDEKRIHIxBYC0IjVLz3ryewWJYZOhrnTidHDrZ65IKHb3EpbQAhboaFo=
