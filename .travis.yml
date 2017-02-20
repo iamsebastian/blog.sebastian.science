@@ -9,3 +9,6 @@ script:
   - cd _site
   - ls -lah
   - git diff
+  - git add -A
+  - git commit -am 'Built page '`date +%Y-%m-%d\ %H:%M:%S`
+  - git push
