@@ -50,6 +50,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll
   jekyll-paginate
   jekyll-sitemap
   octopress-autoprefixer
