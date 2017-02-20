@@ -9,8 +9,8 @@ script:
   - cd _site
   - ls -lah
   - git diff
-  - git config user.name='travis'
-  - git config user.email='travis@sebastian.science'
+  - git config user.name travis
+  - git config user.email travis@sebastian.science
   - git add -A
   - git commit -am 'Built page by Travis CI' #`date +%Y-%m-%d\ %H:%M:%S`
   - git push -q $(git config remote.origin.url | awk 'BEGIN { FS = "//" }; {print $1"//iamsebastian:'`echo $GITHUB_API_KEY`'@"$2" gh-pages &2>/dev/null"}')
