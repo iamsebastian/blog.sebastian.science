@@ -62,6 +62,7 @@ gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
 
 # Directories
 exclude:
+  - vendor
   - create-jekyll-post-rs
   - new_post.sh
   - post_image.template
