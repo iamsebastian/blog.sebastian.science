@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - 2.2
+script:
+  - jekyll b
+  - cd _site
+  - ls -lah
