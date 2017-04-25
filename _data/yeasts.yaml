@@ -1,7 +1,18 @@
+m02:
+  name: M02 Cider
+  url: https://www.schnapsbrenner.eu/Mangrove-Jacks-Craft-Series-trocken-hefe-Cider-M02-10g
+  producer: Mangrove Jack's
+  type: obergärig
 m79:
   name: M79 Burton Union Ale
   url: http://amihopfen.com/Hefe/Obergaerig/M79-Mangrove-Jacks-BURTON-UNION-ALE::704.html
   producer: Mangrove Jack's
+  type: obergärig
+mauri514:
+  name: Mauribrew Ale 514
+  url: https://www.schnapsbrenner.eu/trocken-Bierhefe-Mauribrew-ALE-514-125-gr
+  producer: Mauribrew
+  stamm: Hefestamm Y 514
   type: obergärig
 windsor:
   name: Danstar Windsor Ale

@@ -249,6 +249,57 @@
       isom: 1
       lager: 4
 
+12:
+  brewed: true
+  name: Milk Stout
+  malts:
+    pale: 5000.0
+    chocolate: 900.0
+    caraaroma: 800.0
+  hops:
+    - type: nugget_2015
+      time: 50 Min.
+      weight: 15.0
+  yeast: us05
+  meta:
+    stw: 17.0°P
+    alc: 5.5%
+    ibu: 24
+    Restextrakt: 7.0°P
+    Hopfenkochzeit: 60 Min.
+    Hopfenstopfen: ---
+    Besonderheit: '500g Milchzucker'
+    specific:
+      isom: 20
+      lager: 8
+
+13:
+  brewed: true
+  name: Czech Ale
+  malts:
+    pale: 5200.0
+  hops:
+    - type: taurus2014
+      time: 60 Min.
+      weight: 15.0
+    - type: kazbek_2015
+      time: 15 Min.
+      weight: 22.0
+    - type: kazbek_2015
+      time: Whirlpool
+      weight: 48.0
+  yeast: us05
+  meta:
+    stw: "? (vermutl. 13°P)"
+    alc: "? (vermutl. 5.2%)"
+    ibu: "? (vermutl. 35)"
+    Restextrakt: "? (~ 3.0°P)"
+    Hopfenkochzeit: 60 Min.
+    Hopfenstopfen: ---
+    specific:
+      isom: 60
+      lager: 4
+
 ################################################################################
 #                                   DRAFTS
 ################################################################################
