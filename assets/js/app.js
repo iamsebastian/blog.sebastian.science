@@ -93,14 +93,14 @@ var Preview = (function() {
   }
 })();
 
-var wow = new WOW({
-  animateClass: 'fade-in'
-});
+//var wow = new WOW({
+  //animateClass: 'fade-in'
+//});
 
-var rellax = new Rellax('.rellax');
+//var rellax = new Rellax('.rellax');
 
 document.addEventListener('DOMContentLoaded', function() {
   Tabs.init();
   Preview.init();
-  wow.init();
+  //wow.init();
 });

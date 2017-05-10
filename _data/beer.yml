@@ -275,7 +275,7 @@
 
 13:
   brewed: true
-  name: Czech Ale
+  name: Mazurek (Czech Easter Ale)
   malts:
     pale: 5200.0
   hops:
@@ -303,6 +303,112 @@
 ################################################################################
 #                                   DRAFTS
 ################################################################################
+draft_10:
+  brewed: false
+  name: Junifahrt (Session Pale Ale)
+  malts:
+    wiener: 4500.0
+  hops:
+    - type: simcoe_2015
+      time: VWH
+      weight: 12.0
+    - type: cascade_us2015
+      time: VWH
+      weight: 10.0
+    - type: simcoe_2015
+      time: Whirlpool
+      weight: 13.0
+    - type: cascade_us2015
+      time: Whirlpool
+      weight: 15.0
+  yeast: mauri514
+  meta:
+    stw: 10.9°P
+    alc: 4.4%
+    ibu: 30
+    Originalrezept: Brewdog No. 156 (Magic Stone Dog)
+    specific:
+      isom: 0
+      lager: 2
+  mash:
+    - Einmaischen » 68°C
+    - 1.Rast » 65°C für 75 Min
+    - Abmaischen » 78°C
+    - Würzekochzeit » 40 min
+draft_9:
+  brewed: false
+  name: Himmelfahrt (Session Pale Ale)
+  malts:
+    wiener: 4100.0
+  hops:
+    - type: taurus_2014
+      time: VWH
+      weight: 7.0
+    - type: amarillo_2015
+      time: 15 Min.
+      weight: 5.0
+    - type: cascade_us2015
+      time: 15 Min.
+      weight: 5.0
+    - type: simcoe_2015
+      time: 15 Min.
+      weight: 5.0
+    - type: amarillo_2015
+      time: Whirlpool
+      weight: 12.0
+    - type: cascade_us2015
+      time: Whirlpool
+      weight: 12.0
+    - type: simcoe_2015
+      time: Whirlpool
+      weight: 10.0
+  yeast: us05
+  meta:
+    stw: 10.5°P
+    alc: 4.1%
+    ibu: 25
+    Originalrezept: Brewdog No. 102 (Nuns with Guns)
+    Hopfenstopfen: Nein (entgegen dem Originalrezept)
+    specific:
+      isom: 0
+      lager: 2
+  mash:
+    - Einmaischen » 73°C
+    - 1.Rast » 70°C für 60 Min
+    - Abmaischen » 78°C
+    - Würzekochzeit » 30 min
+draft_8:
+  brewed: false
+  name: Wahrsacker (Pale Ale)
+  malts:
+    wiener: 4500.0
+  hops:
+    - type: simcoe_2015
+      time: VWH
+      weight: 10.0
+    - type: amarillo_2015
+      time: VWH
+      weight: 8.0
+    - type: amarillo_2015
+      time: Whirlpool
+      weight: 25.0
+    - type: kazbek_2015
+      time: Whirlpool
+      weight: 10.0
+  yeast: us05
+  meta:
+    stw: 11.5°P
+    alc: 4.7%
+    ibu: 35
+    Originalrezept: Brewdog No. 88 (Hunter Foundation Pale Ale)
+    specific:
+      isom: 2
+      lager: 2
+  mash:
+    - Einmaischen » 68°C
+    - 1.Rast » 63 °C für 75 Min
+    - Abmaischen » 78°C
+    - Würzekochzeit » 60 min
 draft_1:
   brewed: false
   name: Northern Cascade Amber Ale

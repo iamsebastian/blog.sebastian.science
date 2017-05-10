@@ -62,11 +62,6 @@ bramlingx_2015:
   alpha: 5.2
   from: GB
   url: https://www.hopfen-der-welt.de/pellets-typ-90/gro%C3%9Fbritannien/bramling-x/
-bramlingx_2015:
-  name: Bramling X
-  alpha: 5.2
-  from: GB
-  url: https://www.hopfen-der-welt.de/pellets-typ-90/gro%C3%9Fbritannien/bramling-x/
 simcoe_2015:
   name: Simcoe
   alpha: 13.2
