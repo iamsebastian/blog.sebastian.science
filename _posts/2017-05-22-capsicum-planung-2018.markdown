@@ -13,10 +13,14 @@ Um zum Ende des 2017er Jahres nicht in Vergessenheit geraten zu lassen, was gesc
 
 #### C. Annuum:
 - Bangalore Whippets Tail
+- [Baby Bell](http://hot-pain.de/baby-bell/)
+- [De Arbol](https://www.pepperworldhotshop.de/de-arbol-c-annuum-saat/)
 - Frontera Sweet
 - Monkey Face
 
 #### C. Baccatum
+- Aji Cristal
+- Aji Pineapple
 - Brazilian Starfish
 - Glockenchili Bishops Crown
 - Jamy
@@ -26,6 +30,8 @@ Um zum Ende des 2017er Jahres nicht in Vergessenheit geraten zu lassen, was gesc
 - Sugar Rush Peach
 
 #### C. Chinense:
+- Aji Dulce Amarillo
+- [Aji Dulce Long](http://hot-pain.de/wp-content/uploads/aji-dulce-long.jpg)
 - Bolivian Bumpy
 - CGN 21500
 - Cheiro Roxa
