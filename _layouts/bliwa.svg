@@ -25,9 +25,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="431.1414"
-     inkscape:cx="591.80634"
-     inkscape:zoom="0.98994949"
+     inkscape:cy="297.77267"
+     inkscape:cx="444.65848"
+     inkscape:zoom="1.4"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -633,5 +633,7 @@
            y="-10.536102"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.83500004;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:NeoRetroShadow;-inkscape-font-specification:NeoRetroShadow;text-align:justify;letter-spacing:2.29999995px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.83500004;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="flowPara4365">erwartungstreu — bliwa bräu!</flowPara></flowRoot>  </g>
+         id="flowPara4365">erwartungstreu — bliwa bräu<flowSpan
+   style="-inkscape-font-specification:NeoRetroFill;font-family:NeoRetroFill;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan4429">!</flowSpan></flowPara></flowRoot>  </g>
 </svg>
