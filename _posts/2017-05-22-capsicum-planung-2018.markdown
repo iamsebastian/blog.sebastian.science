@@ -10,6 +10,7 @@ about: Ruhig schon mal zeitig planen
 
 Um zum Ende des 2017er Jahres nicht in Vergessenheit geraten zu lassen, was geschmeckt hat und was man nicht mehr braucht, soll dieser Beitrag eine aktuell-zu-haltende Übersicht bereit stellen.
 
+Fett-geschriebene Sorten erhielten eine besondere Empfehlung.
 
 #### C. Annuum:
 - Bangalore Whippets Tail
@@ -27,29 +28,33 @@ Um zum Ende des 2017er Jahres nicht in Vergessenheit geraten zu lassen, was gesc
 - Lemon Drop
 - Nepalese Bell
 - Peri-Peri
-- Sugar Rush Peach
+- **Sugar Rush Peach**
 
 #### C. Chinense:
 - Aji Dulce Amarillo
 - [Aji Dulce Long](http://hot-pain.de/wp-content/uploads/aji-dulce-long.jpg)
+- [**Aji Jobito**](https://chiliforum.hot-pain.de/threads/geschmackliche-bewertung-meiner-chilis-saison-2016.29295/page-5#post-656113)
 - Bolivian Bumpy
 - CGN 21500
 - Cheiro Roxa
 - Fatalii White
 - Habanero Cristina
+- **Habanero Orange Apple**
 - Kathumby Yellow
 - Limón
 - Madame Jeanette
 - PDN X Douglah 2.3
 - Pimenta da Neyde (PdN)
 - Scotch Bonnet Trinidad Orange
+- **Scotch Bonnet MOA**
 
 #### C. Frustescens:
 - Lanterna De Foc
 - Istagua
 
 #### C. Pubescens:
-- Brown (Community Sorte)
+- **Brown (Community Sorte)**
+- **Canario**
 - Gelbe Riesen
 - Orange Locoto
 
