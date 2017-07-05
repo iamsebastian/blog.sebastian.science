@@ -1,3 +1,15 @@
 #!/bin/bash
 
-convert wizard: -font FrenteH1-Regular -background black -gravity SouthWest -fill rgba(255,255,255,0.92) -splice 0x32 -pointsize 16 -annotate 0x0 'ART' -splice 0x24 -pointsize 16 -annotate 0x0 'capsicum pubescens' -splice 0x24 -annotate 0x0 'TYP' -splice 0x24 -annotate 0x0 'Rocoto Brown' -bordercolor black -border 16x16 rose.jpg
+INPUTFILE=$1
+
+convert \
+  $INPUTFILE \
+  -resize 1024x768 \
+  -font Xenophone \
+  -background rgba\(0,0,0,0.8\) \
+  -gravity SouthWest \
+  -fill rgba\(255,255,255,0.86\) \
+  -splice 0x40 -pointsize 24 -annotate 0x0 'capsicum pubescens' \
+  -splice 0x50 -pointsize 32 -annotate 0x0 'Rocoto Brown' \
+  -splice 0x40 -pointsize 24 -annotate 0x0 '159 Tage alt' \
+  -bordercolor black -border 16x16 rose.jpg
