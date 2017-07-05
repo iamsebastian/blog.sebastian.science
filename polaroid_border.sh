@@ -1,6 +1,10 @@
 #!/bin/bash
 
 INPUTFILE=$1
+OUTPUTFILE=./img_generated/$INPUTFILE
+
+echo $INPUTFILE
+echo $OUTPUTFILE
 
 convert \
   $INPUTFILE \
@@ -12,4 +16,5 @@ convert \
   -splice 0x40 -pointsize 24 -annotate 0x0 'capsicum pubescens' \
   -splice 0x50 -pointsize 32 -annotate 0x0 'Rocoto Brown' \
   -splice 0x40 -pointsize 24 -annotate 0x0 '159 Tage alt' \
-  -bordercolor black -border 16x16 rose.jpg
+  -bordercolor black -border 16x16 \
+  $OUTPUTFILE
