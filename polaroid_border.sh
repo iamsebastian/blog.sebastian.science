@@ -2,9 +2,11 @@
 
 INPUTFILE=$1
 OUTPUTFILE=./img_generated/$INPUTFILE
+CAPSICUM=`cat ./_data/capsicums.yaml | shyaml get-value $2.name`
 
 echo $INPUTFILE
 echo $OUTPUTFILE
+echo $CAPSICUM
 
 convert \
   $INPUTFILE \
