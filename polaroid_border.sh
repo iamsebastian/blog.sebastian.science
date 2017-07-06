@@ -34,7 +34,7 @@ echo $DIFF_STR
 convert \
   $INPUTFILE \
   -sharpen 1 \
-  -resize 1024x768 \
+  -resize 1024x896 \
   -background hsl\(202,111,23\) \
   -fill rgba\(255,255,255,0.86\) \
   -gravity SouthWest \
