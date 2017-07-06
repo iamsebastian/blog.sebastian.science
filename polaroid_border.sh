@@ -1,8 +1,8 @@
 #!/bin/bash
 
 INPUTFILE=$1
-FILENAME=$($INPUTFILE "$fullfile")
-OUTPUTFILE=./img_generated/$FILENAME.jpg
+FILENAME=${INPUTFILE##*/}
+OUTPUTFILE=./img_generated/$FILENAME
 CAPSICUM_NAME=`cat ./_data/capsicums.yaml | shyaml get-value $2.name`
 CAPSICUM_SPROUT=`cat ./_data/capsicums.yaml | shyaml get-value $2.sprout`
 CAPSICUM_TYPE=`cat ./_data/capsicums.yaml | shyaml get-value $2.type`
