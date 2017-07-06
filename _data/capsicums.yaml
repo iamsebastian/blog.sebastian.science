@@ -1,4 +1,133 @@
+beni_highlands_2017:
+  name: Beni Highlands
+  sprout: '2017-02-23T00:00:00.000Z'
+  type: capsicum chinense
+biquinho_amarello_2017_1:
+  name: Biquinho Amarello 1/2017
+  sprout: '2017-02-22T00:00:00.000Z'
+  type: capsicum chinense
+biquinho_amarello_2017_2:
+  name: Biquinho Amarello 2/2017
+  sprout: '2017-02-22T00:00:00.000Z'
+  type: capsicum chinense
+bulgarian_carrot_2017:
+  name: Bulgarian Carrot
+  sprout: '2017-02-20T00:00:00.000Z'
+  type: capsicum annuum
+cherry_choc_2017_1:
+  name: Cherry Choc 1/2017
+  sprout: '2017-01-21T00:00:00.000Z'
+  type: capsicum annuum
+cherry_choc_2017_2:
+  name: Cherry Choc 2/2017
+  sprout: '2017-01-21T00:00:00.000Z'
+  type: capsicum annuum
+habanero_big_sun_2017:
+  name: Habanero Big Sun
+  sprout: '2017-04-01T00:00:00.000Z'
+  type: capsicum chinense
+habanero_red_2017_1:
+  name: Habanero Red
+  sprout: '2017-02-01T00:00:00.000Z'
+  type: capsicum chinense
+habanero_red_2017_2:
+  name: Habanero Red
+  sprout: '2017-02-01T00:00:00.000Z'
+  type: capsicum chinense
+jamy_2017_1:
+  name: Jamy 1/2017
+  sprout: '2017-02-22T00:00:00.000Z'
+  type: capsicum baccatum
+jamy_2017_2:
+  name: Jamy 2/2017
+  sprout: '2017-02-22T00:00:00.000Z'
+  type: capsicum baccatum
+jalapeno_m_2017_1:
+  name: Jalapeno M 1/2017
+  sprout: '2017-02-15T00:00:00.000Z'
+  type: capsicum annuum
+jalapeno_m_2017_2:
+  name: Jalapeno M 2/2017
+  sprout: '2017-02-15T00:00:00.000Z'
+  type: capsicum annuum
+lemon_drop_2017_1:
+  name: Lemon Drop 1/2017
+  sprout: '2017-02-22T00:00:00.000Z'
+  type: capsicum baccatum
+lemon_drop_2017_2:
+  name: Lemon Drop 2/2017
+  sprout: '2017-02-22T00:00:00.000Z'
+  type: capsicum baccatum
+lemon_drop_2017_3:
+  name: Lemon Drop 3/2017
+  sprout: '2017-02-22T00:00:00.000Z'
+  type: capsicum baccatum
+orange_drop_2017:
+  name: Orange Drop
+  sprout: '2017-02-22T00:00:00.000Z'
+  type: capsicum baccatum
+pimento_marron_2017_1:
+  name: Pimento Marron 1/2017
+  sprout: '2017-02-22T00:00:00.000Z'
+  type: capsicum annuum
+pimento_marron_2017_2:
+  name: Pimento Marron 2/2017
+  sprout: '2017-02-22T00:00:00.000Z'
+  type: capsicum annuum
 rbb:
   name: Rocoto Big Brown Community
   sprout: '2017-02-05T13:04:14.904Z'
   type: capsicum pubescens
+rocoto_rote_riesen_2017_1:
+  name: Rocoto Rote Riesen 1/2017
+  sprout: '2017-03-01T00:00:00.000Z'
+  type: capsicum pubescens
+rocoto_rote_riesen_2017_2:
+  A
+  name: Rocoto Rote Riesen 2/2017
+  sprout: '2017-03-01T00:00:00.000Z'
+  type: capsicum pubescens
+sweet_banana_2017:
+  name: Sweet Banana
+  sprout: '2017-02-20T00:00:00.000Z'
+  type: capsicum annuum
+x1_2017:
+  name: X1
+  sprout: '2017-01-20T00:00:00.000Z'
+  type: ?
+x2_2017:
+  name: X2
+  sprout: '2017-01-20T00:00:00.000Z'
+  type: ?
+x3_2017:
+  name: X3
+  sprout: '2017-01-20T00:00:00.000Z'
+  type: ?
+x4_2017:
+  name: X4
+  sprout: '2017-01-20T00:00:00.000Z'
+  type: ?
+x5_2017:
+  name: X5
+  sprout: '2017-01-20T00:00:00.000Z'
+  type: ?
+x6_2017:
+  name: X6
+  sprout: '2017-01-20T00:00:00.000Z'
+  type: ?
+x7_2017:
+  name: X7
+  sprout: '2017-01-20T00:00:00.000Z'
+  type: capsicum pubescens
+x8_2017:
+  name: X8
+  sprout: '2017-01-20T00:00:00.000Z'
+  type: capsicum baccatum
+x001_2017:
+  name: X001
+  sprout: '2017-02-28T00:00:00.000Z'
+  type: ?
+x002_2017:
+  name: X002
+  sprout: '2017-02-28T00:00:00.000Z'
+  type: ?
