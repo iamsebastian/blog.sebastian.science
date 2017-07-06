@@ -7,8 +7,8 @@
 </description>
     <link>http://sebastian.science/</link>
     <atom:link href="http://sebastian.science/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Jul 2017 12:32:19 +0000</pubDate>
-    <lastBuildDate>Thu, 06 Jul 2017 12:32:19 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Jul 2017 12:46:10 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Jul 2017 12:46:10 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -44,7 +44,7 @@ Kursiv-geschriebene Sorten sind Empfehlungen&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Aji Dulce Amarillo&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://hot-pain.de/wp-content/uploads/aji-dulce-long.jpg&quot;&gt;Aji Dulce Long&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chiliforum.hot-pain.de/threads/geschmackliche-bewertung-meiner-chilis-saison-2016.29295/page-5#post-656113&quot;&gt;&lt;strong&gt;Aji Jobito&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chiliforum.hot-pain.de/threads/geschmackliche-bewertung-meiner-chilis-saison-2016.29295/page-5#post-656113&quot;&gt;&lt;em&gt;Aji Jobito&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Aji Umba Yellow&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Beni Highland&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Biquinho Amarelo&lt;/strong&gt;&lt;/li&gt;
@@ -87,11 +87,11 @@ Kursiv-geschriebene Sorten sind Empfehlungen&lt;/p&gt;
         <guid isPermaLink="true">http://sebastian.science/2017/05/22/capsicum-planung-2018/</guid>
         
         
-        <category>capsicum,</category>
+        <category>capsicum</category>
         
-        <category>chili,</category>
+        <category>chili</category>
         
-        <category>chilis,</category>
+        <category>chilis</category>
         
         <category>garten</category>
         
