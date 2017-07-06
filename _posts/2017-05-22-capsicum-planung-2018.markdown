@@ -2,7 +2,11 @@
 layout: post
 title:  "Capsicum Planung 2018"
 date:   2017-05-22 11:38:51 +0100
-categories: capsicum, chili, chilis, garten
+categories:
+  - capsicum
+  - chili
+  - chilis
+  - garten
 image: https://unsplash.it/2000/1200?image=1073
 image-sm: https://unsplash.it/500/300?image=1073
 about: Ruhig schon mal zeitig planen
@@ -34,7 +38,7 @@ Kursiv-geschriebene Sorten sind Empfehlungen
 #### C. Chinense:
 - Aji Dulce Amarillo
 - [Aji Dulce Long](http://hot-pain.de/wp-content/uploads/aji-dulce-long.jpg)
-- [**Aji Jobito**](https://chiliforum.hot-pain.de/threads/geschmackliche-bewertung-meiner-chilis-saison-2016.29295/page-5#post-656113)
+- [*Aji Jobito*](https://chiliforum.hot-pain.de/threads/geschmackliche-bewertung-meiner-chilis-saison-2016.29295/page-5#post-656113)
 - **Aji Umba Yellow**
 - **Beni Highland**
 - **Biquinho Amarelo**
