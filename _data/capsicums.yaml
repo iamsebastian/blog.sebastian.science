@@ -83,7 +83,6 @@ rocoto_rote_riesen_2017_1:
   sprout: '2017-03-01T00:00:00.000Z'
   type: capsicum pubescens
 rocoto_rote_riesen_2017_2:
-  A
   name: Rocoto Rote Riesen 2/2017
   sprout: '2017-03-01T00:00:00.000Z'
   type: capsicum pubescens
@@ -94,27 +93,27 @@ sweet_banana_2017:
 x1_2017:
   name: X1
   sprout: '2017-01-20T00:00:00.000Z'
-  type: ?
+  type: \?
 x2_2017:
   name: X2
   sprout: '2017-01-20T00:00:00.000Z'
-  type: ?
+  type: \?
 x3_2017:
   name: X3
   sprout: '2017-01-20T00:00:00.000Z'
-  type: ?
+  type: \?
 x4_2017:
   name: X4
   sprout: '2017-01-20T00:00:00.000Z'
-  type: ?
+  type: \?
 x5_2017:
   name: X5
   sprout: '2017-01-20T00:00:00.000Z'
-  type: ?
+  type: \?
 x6_2017:
   name: X6
   sprout: '2017-01-20T00:00:00.000Z'
-  type: ?
+  type: \?
 x7_2017:
   name: X7
   sprout: '2017-01-20T00:00:00.000Z'
@@ -126,8 +125,8 @@ x8_2017:
 x001_2017:
   name: X001
   sprout: '2017-02-28T00:00:00.000Z'
-  type: ?
+  type: \?
 x002_2017:
   name: X002
   sprout: '2017-02-28T00:00:00.000Z'
-  type: ?
+  type: \?
