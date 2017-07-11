@@ -38,18 +38,17 @@ convert \
   -background hsl\(202,111,23\) \
   -fill rgba\(255,255,255,0.86\) \
   -gravity SouthWest \
-  -font Bushcraft-distress \
+  -font distress \
   -splice 0x56 -pointsize 32 -annotate 0x0 "$CAPSICUM_NAME" \
-  -font something-wild \
+  -font somethingwild \
   -gravity SouthEast \
   -pointsize 30 -annotate 0x0 "Foto: $CAPTURE_DATETIME" \
   -gravity SouthWest \
   -splice 0x40 -pointsize 30 -annotate 0x0 "$CAPSICUM_TYPE" \
-  -font something-wild \
+  -font somethingwild \
   -gravity SouthEast \
-  -pointsize 30 -annotate 0x0 "$DIFF_STR" \
   -gravity SouthEast \
-  -font Thunder \
+  -font WC_Rhesus_B_Bta \
   -fill hsla\(255,255,255,0.3\) \
   -splice 0x16 -pointsize 72 -annotate 0x0 'f' \
   -bordercolor hsl\(202,111,23\) \
