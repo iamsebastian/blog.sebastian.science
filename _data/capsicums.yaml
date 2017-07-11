@@ -93,7 +93,7 @@ sweet_banana_2017:
 x1_2017:
   name: X1
   sprout: '2017-01-20T00:00:00.000Z'
-  type: \?
+  type: capsicum annuum
 x2_2017:
   name: X2
   sprout: '2017-01-20T00:00:00.000Z'
@@ -101,7 +101,7 @@ x2_2017:
 x3_2017:
   name: X3
   sprout: '2017-01-20T00:00:00.000Z'
-  type: \?
+  type: capsicum annuum
 x4_2017:
   name: X4
   sprout: '2017-01-20T00:00:00.000Z'
