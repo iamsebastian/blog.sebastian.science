@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "F1 Kreuze für 2018"
+date:   2017-07-20 09:02:14 +0100
+categories: f1 2018
+about: 
+---
+
+- Bulgarian Carrot x Biquinho Amarello (Bulgarian Biquinho / Bulquinho / Birian / Bulgano)
+- Tazmanian Black x Beni Highlands (Black Highlands / Blacklands / Tazmalands)
+- Tazmanian Black x Habanero Big Sun (Black Big Sun / Tazmanian Sun / Big Tazmasun / Tabisun)
+- Tazmanian Black x Habanero Red (Tazmanian Blackred / Tazmanero)
