@@ -2,7 +2,7 @@
 layout: post
 title:  "Der Duke ist da"
 date:   2016-05-12 7:3:0 +0100
-categories: Kartoffel
+categories: kartoffel
 about: Kartoffel
 ---
 

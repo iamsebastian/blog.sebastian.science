@@ -2,7 +2,7 @@
 layout: post
 title:  "Sum, sum, zzZzz."
 date:   2016-05-10 22:7:14 +0100
-categories: Wildbienen
+categories: wildbienen
 about: wildbienen
 ---
 

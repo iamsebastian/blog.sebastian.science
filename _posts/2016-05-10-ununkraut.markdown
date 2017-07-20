@@ -2,7 +2,7 @@
 layout: post
 title:  "Ununkraut"
 date:   2016-05-10 22:3:14 +0100
-categories: Kartoffel Unkraut
+categories: kartoffel unkraut
 about: Kartoffel, Unkraut
 ---
 

@@ -3,11 +3,11 @@ layout: post
 title:  "SNPA &amp; SNIPAX gebraut"
 date:   2017-01-19 09:59:18 +0100
 categories:
-  - Bier
-  - Pale-Ale
-  - IPA
-  - SNPA
-  - SNIPAX
+  - bier
+  - pale-ale
+  - ipa
+  - snpa
+  - snipax
 about: YÄS
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Chili wächst"
 date:   2016-05-09 23:50:14 +0100
-categories: Chili Wohnung
+categories: chili wohnung
 about: Chili
 ---
 

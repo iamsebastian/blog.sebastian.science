@@ -2,7 +2,7 @@
 layout: post
 title:  "Neuer Hopfen eingetroffen"
 date:   2017-02-10 13:23:45 +0100
-categories: Bier
+categories: bier
 about: 
 image: https://unsplash.it/2000/1200?image=25&blur
 image-sm: https://unsplash.it/500/300?image=25&blur

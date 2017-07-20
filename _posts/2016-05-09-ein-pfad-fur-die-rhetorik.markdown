@@ -2,7 +2,7 @@
 layout: post
 title:  "Ein Pfad für die Rhetorik"
 date:   2016-05-09 10:15:14 +0100
-categories: Jekyll Theme
+categories: jekyll theme
 about: Blog, Unkraut, Rhetorik
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Erste Ernte"
 date:   2016-05-29 11:30:35 +0100
-categories: Radies Ernte
+categories: radies ernte
 about:  Ernte, Radies
 ---
 

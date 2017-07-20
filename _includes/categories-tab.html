@@ -2,14 +2,15 @@
   <ul class="cards">
     {% capture cats %}
       {% for cat in site.categories %}
-        {{ cat | first }}
+        {{ cat | first | capitalize }}
       {% endfor %}
-    {% endcapture %}{% assign sortedCats = cats | split:' ' | sort %}
+    {% endcapture %}{% assign sortedCats = cats | split:' ' | uniq | sort %}
 
     {% for category in sortedCats %}
+      {% assign cat = category | downcase %}
       <li class="card">
-        <a class="card__link" href="{{ site.baseurl }}/category/{{ category | downcase | slugify }}/">
-          {% for post in site.categories[category] limit: 1 %}
+        <a class="card__link" href="{{ site.baseurl }}/category/{{ cat | downcase | slugify }}/">
+          {% for post in site.categories[cat] limit: 1 %}
             <div class="card__img">
               {% if post.image-sm %}
                 <figure class="absolute-bg" style="background-image: url('{{ post.image-sm }}');"></figure>
@@ -19,8 +20,8 @@
             </div>
           {% endfor %}
           <div class="card__container">
-            <h2 class="card__header">{{ category }}</h2>
-            <p class="card__count">{{ site.categories[category] | size }} Posts</p>
+            <h2 class="card__header">{{ cat | capitalize }}</h2>
+            <p class="card__count">{{ site.categories[cat] | size }} Posts</p>
             <span class="card__more">Alle ansehen</span>
           </div>
         </a>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Gerüst für die Bohnen"
 date:   2016-06-07 16:18:09 +0100
-categories: Bohnen
+categories: bohnen
 about: Gerüst, Bohnen
 image: /img/bohnen_geruest_20160607_193006.jpg
 image-sm:

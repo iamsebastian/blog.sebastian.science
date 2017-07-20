@@ -3,9 +3,7 @@ layout: post
 title:  "Capsicum Planung 2018"
 date:   2017-05-22 11:38:51 +0100
 categories:
-  - capsicum
   - chili
-  - chilis
   - garten
 image: https://unsplash.it/2000/1200?image=1073
 image-sm: https://unsplash.it/500/300?image=1073

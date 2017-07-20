@@ -2,7 +2,7 @@
 layout: post
 title:  "Bäriges Lauch"
 date:   2016-05-10 22:8:14 +0100
-categories: Bärlauch
+categories: bärlauch
 about: Bärlauch
 ---
 
