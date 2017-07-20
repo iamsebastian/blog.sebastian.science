@@ -3,7 +3,9 @@ layout: post
 title:  "F1 Kreuze für 2018"
 date:   2017-07-20 08:02:14 +0100
 categories: chili kreuzung
-about: 
+about: Mögliche Kreuzungsversuche, deren F1-Saat 2018 keimen kann
+image: https://unsplash.it/1250/1000?image=940
+image-sm: https://unsplash.it/500/300?image=940
 ---
 
 - Bulgarian Carrot x Biquinho Amarello (Bulgarian Biquinho / Bulquinho / Birian / Bulgano)
