@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Von Frank gebraut"
-date:   2017-05-10 12:25:25 +0100
+date:   2017-05-10 12:25:25 +0000
 categories: bier
 image:  /img/frank_001.jpg
 ---

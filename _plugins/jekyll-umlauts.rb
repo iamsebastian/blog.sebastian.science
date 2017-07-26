@@ -17,11 +17,6 @@ module Jekyll
         page.content = replace(page.content)
         puts "Replacing Umlaute in #{page.name}"
       end
-
-      #site.posts.each do |post|
-        #post.content = replace(post.content)
-        #puts "Replacing Umlaute in #{post.name}"
-      #end
     end
 
     def replace(content)

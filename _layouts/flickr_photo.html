@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+
+  {% include page_head_wo_image.html %}
+
+  <div>
+    <p><a href="{{ page.flickr.url_full }}" data-lightbox="photoset"><img src="{{ page.flickr.url_full }}" alt="{{ page.slug }}" title="{{ page.slug }}" class="photo full" /></a></p>
+
+    {% comment %}
+                }<p></p>
+                }<p>Tagged <i>.</i></p>
+                {% endcomment %}
+  </div>
+
+  {% comment %}{% include profile.html %}{% endcomment %}
+
+</article>
+
+{% include page_previous.html %}

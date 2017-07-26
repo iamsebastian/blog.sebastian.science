@@ -58,7 +58,25 @@ sass:
   style: compressed
 
 # Gems
-gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+plugins: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+
+# Flickr
+flickr:
+  screen_name: wolkenphysiker
+  api_key: 78b917cd42fafef19785713616f06143
+  api_secret: 64ee7d969d880f19
+
+  generate_posts: true
+  generate_photosets:
+    - "sebastian.science"
+  generate_frontmatter:
+    layout: flickr_photo
+    author: wolkenphysiker
+  use_cache: true
+  cache_dir: _flickr
+
+  size_full: Original
+  size_thumb: "Large Square"
 
 # Directories
 exclude:
