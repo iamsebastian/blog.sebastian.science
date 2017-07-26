@@ -276,16 +276,15 @@ module Jekyll
     #   equal or greater than the other doc's path. See String#<=> for more details.
     def <=>(other)
       return nil unless other.respond_to?(:data)
-      print "compare (data: #{data}), to other: #{other.data}"
 
       adt = data['date']
       bdt = other.data['date']
 
       unless adt.nil? || bdt.nil?
-        print "a: #{adt.class}, b: #{bdt.class}\n"
+        print "adt: #{adt.class}, bdt: #{bdt.class}\n"
         a = DateTime.parse(adt.to_s)
         b = DateTime.parse(bdt.to_s)
-        print "a: #{adt.class}, b: #{bdt.class}\n"
+        print "a: #{a.class}, b: #{b.class}\n"
 
         a = DateTime.strptime(adt, '%Y-%m-%d %H:%M:%S') if adt.is_a?String || adt
         b = DateTime.strptime(bdt, '%Y-%m-%d %H:%M:%S') if bdt.is_a?String || bdt
@@ -342,10 +341,10 @@ module Jekyll
         bdt = right.data['date']
 
         unless adt.nil? || bdt.nil?
-          print "a: #{adt.class}, b: #{bdt.class}\n"
+          print "adt: #{adt.class}, bdt: #{bdt.class}\n"
           a = DateTime.parse(adt.to_s)
           b = DateTime.parse(bdt.to_s)
-          print "a: #{adt.class}, b: #{bdt.class}\n"
+          print "a: #{a.class}, b: #{b.class}\n"
 
           a = DateTime.strptime(adt, '%Y-%m-%d %H:%M:%S') if adt.is_a?String || adt
           b = DateTime.strptime(bdt, '%Y-%m-%d %H:%M:%S') if bdt.is_a?String || bdt
@@ -358,8 +357,9 @@ module Jekyll
       }
 
       print "\n\n---\nPosts are now ordered like this\n"
-      site.posts.each do |post|
-        print "Post: #{post}\n"
+
+      site.posts.docs.each do |post|
+        print "Post: #{post.data['title']}\n"
       end
     end
   end
