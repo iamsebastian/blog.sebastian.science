@@ -7,8 +7,8 @@
 </description>
     <link>http://sebastian.science/</link>
     <atom:link href="http://sebastian.science/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Aug 2017 12:34:34 +0000</pubDate>
-    <lastBuildDate>Wed, 02 Aug 2017 12:34:34 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Aug 2017 14:02:10 +0000</pubDate>
+    <lastBuildDate>Wed, 02 Aug 2017 14:02:10 +0000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -18,6 +18,10 @@
         <link>http://sebastian.science/2017/07/26/santorini-episcopi--tage-im-wasser-36048337471/</link>
         <guid isPermaLink="true">http://sebastian.science/2017/07/26/santorini-episcopi--tage-im-wasser-36048337471/</guid>
         
+        
+        <category>capsicum</category>
+        
+        <category>baccatum</category>
         
       </item>
     
@@ -29,6 +33,8 @@
         <guid isPermaLink="true">http://sebastian.science/2017/07/26/physalis-i-36017193972/</guid>
         
         
+        <category>physalis</category>
+        
       </item>
     
       <item>
@@ -38,6 +44,18 @@
         <link>http://sebastian.science/2017/07/28/marktausbeute-zum-freitag-36173795716/</link>
         <guid isPermaLink="true">http://sebastian.science/2017/07/28/marktausbeute-zum-freitag-36173795716/</guid>
         
+        
+      </item>
+    
+      <item>
+        <title>Allererste Baccatum</title>
+        <description></description>
+        <pubDate>Wed, 02 Aug 2017 13:53:22 +0000</pubDate>
+        <link>http://sebastian.science/2017/08/02/allererste-baccatum-36288554196/</link>
+        <guid isPermaLink="true">http://sebastian.science/2017/08/02/allererste-baccatum-36288554196/</guid>
+        
+        
+        <category>capsicum baccatum</category>
         
       </item>
     
@@ -255,19 +273,6 @@ Kursiv-geschriebene Sorten sind Empfehlungen&lt;/p&gt;
         <pubDate>Fri, 10 Feb 2017 12:23:45 +0000</pubDate>
         <link>http://sebastian.science/2017/02/10/neuer-hopfen-eingetroffen/</link>
         <guid isPermaLink="true">http://sebastian.science/2017/02/10/neuer-hopfen-eingetroffen/</guid>
-        
-        
-        <category>bier</category>
-        
-      </item>
-    
-      <item>
-        <title>Marakia geplant</title>
-        <description>&lt;p&gt;Ich habe &lt;a href=&quot;/11/&quot;&gt;Sud 11&lt;/a&gt; geplant.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 08 Feb 2017 14:07:59 +0000</pubDate>
-        <link>http://sebastian.science/2017/02/08/marakia-geplant/</link>
-        <guid isPermaLink="true">http://sebastian.science/2017/02/08/marakia-geplant/</guid>
         
         
         <category>bier</category>
