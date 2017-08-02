@@ -283,19 +283,20 @@ module Jekyll
       bdt = other.data['date']
 
       unless adt.nil? || bdt.nil?
-        print "adt: #{adt.class}, bdt: #{bdt.class}\n"
+        #print "adt: #{adt.class}, bdt: #{bdt.class}\n"
         a = DateTime.parse(adt.to_s)
         b = DateTime.parse(bdt.to_s)
-        print "a: #{a.class}, b: #{b.class}\n"
+        #print "a: #{a.class}, b: #{b.class}\n"
 
         a = DateTime.strptime(adt, '%Y-%m-%d %H:%M:%S') if adt.is_a?String || adt
         b = DateTime.strptime(bdt, '%Y-%m-%d %H:%M:%S') if bdt.is_a?String || bdt
-        print "a: #{a.class}, b: #{b.class}\n"
+        #print "a: #{a.class}, b: #{b.class}\n"
         cmp = a.strftime('%s').to_i <=> b.strftime('%s').to_i
       end
 
       cmp = data['title'] <=> other.data['title'] if cmp.nil? || cmp.zero?
-      cmp * -1
+      cmp
+      #cmp * -1
     end
   end
 
@@ -348,25 +349,31 @@ module Jekyll
         bdt = right.data['date']
 
         unless adt.nil? || bdt.nil?
-          print "adt: #{adt.class}, bdt: #{bdt.class}\n"
+          #print "adt: #{adt.class}, bdt: #{bdt.class}\n"
           a = DateTime.parse(adt.to_s)
           b = DateTime.parse(bdt.to_s)
-          print "a: #{a.class}, b: #{b.class}\n"
+          #print "a: #{a.class}, b: #{b.class}\n"
 
           a = DateTime.strptime(adt, '%Y-%m-%d %H:%M:%S') if adt.is_a?String || adt
           b = DateTime.strptime(bdt, '%Y-%m-%d %H:%M:%S') if bdt.is_a?String || bdt
-          print "a: #{a.class}, b: #{b.class}\n"
+          #print "a: #{a.class}, b: #{b.class}\n"
           cmp = a.strftime('%s').to_i <=> b.strftime('%s').to_i
         end
 
         cmp = left.data['title'] <=> right.data['title'] if cmp.nil? || cmp.zero?
-        cmp * -1
+        cmp
+        #cmp * -1
       }
 
       print "\n\n---\nPosts are now ordered like this\n"
 
       site.posts.docs.each do |post|
+        adt = post.data['date']
+        a = DateTime.parse(adt.to_s)
+        a = DateTime.strptime(adt, '%Y-%m-%d %H:%M:%S') if adt.is_a?String || adt
+        ai = a.strftime('%s').to_i
         print "Post: #{post.data['title']}\n"
+        print "with date/time: #{adt}, #{a}, #{ai}\n"
       end
     end
   end

@@ -35,7 +35,7 @@ layout: default
               <h2 class="preview__header" itemprop="name">{{ post.title }}</h2>
               <p class="preview__excerpt" itemprop="description">
               {% if post.about %}
-                {{ post.about }}
+                {{ post.about | strip_html | truncatewords: 30 }}
               {% else %}
                 {{ post.content | strip_html | truncatewords: 30 }}
               {% endif %}
