@@ -288,7 +288,7 @@
  * Mast
  * On the Post page for the header section
  */
-.mast {
+.mast, .half-mast {
   position: relative;
 
   height: 20em;
@@ -318,10 +318,17 @@
   }
 
   h1 {
-
     @media (min-width: $mq-md) {
       width: 75%;
     }
+  }
+}
+
+.half-mast {
+  height: 12rem;
+
+  @media (min-width: $mq-sm) {
+    height: 18rem;
   }
 }
 

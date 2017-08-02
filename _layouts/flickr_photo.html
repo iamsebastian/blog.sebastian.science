@@ -5,9 +5,9 @@ layout: default
 
   {% include page_head_wo_image.html %}
 
-  <div>
-    <p><a href="{{ page.flickr.url_full }}" data-lightbox="photoset"><img src="{{ page.flickr.url_full }}" alt="{{ page.slug }}" title="{{ page.slug }}" class="photo full" /></a></p>
+  {% include article_body_flickr.html %}
 
+  <div>
     {% comment %}
                 }<p></p>
                 }<p>Tagged <i>.</i></p>

@@ -16,11 +16,14 @@ module Jekyll
 
   class CategoryPageGenerator < Generator
     safe true
+    priority :low
 
     def generate(site)
       if site.layouts.key? 'category_index'
         dir = site.config['category_dir'] || 'category'
+        print "Generate category pages:"
         site.categories.each_key do |category|
+          print "category: #{category}\n"
           category_dir = File.join(dir, Utils.slugify(category))
           site.pages << CategoryPage.new(site, site.source, category_dir, category)
         end

@@ -159,7 +159,7 @@ module Jekyll
       # other info request
       flickr_info = flickr.photos.getInfo(:photo_id => self.id)
       if flickr_info
-        print "Found info about photo: #{flickr_info}, #{flickr_info.dates.posted}\n"
+        print "Found info about photo: #{flickr_info.title}: #{flickr_info.description} --- #{flickr_info.dates.posted}\n"
         self.date = flickr_info.dates.posted
         self.description = flickr_info.description
         flickr_info.tags.each do |tag|
@@ -236,6 +236,8 @@ module Jekyll
       self.data['title'] = photo.title
       self.data['shorttitle'] = photo.title
       self.data['content'] = photo.description
+      self.data['about'] = photo.description
+      self.data['categories'] = photo.tags
       #data['date'] = photo.date.gsub('\'', '').gsub('"', '').sub('T', ' ').sub('+', ' +')
       self.data['date'] = DateTime.strptime(photo.date, '%s').strftime('%Y-%m-%d %H:%M:%S +0000')
       self.data['slug'] = photo.slug
@@ -299,6 +301,7 @@ module Jekyll
 
   class FlickrPageGenerator < Generator
     safe true
+    priority :high
 
     def generate(site)
       Jekyll::flickr_setup(site)
@@ -324,6 +327,10 @@ module Jekyll
                 end
               end
               site.posts.docs << page_photo
+
+              page_photo.data['categories'].each do |cat|
+                site.categories[:cat] << page_photo['id']
+              end
             end
           end
         end
