@@ -53,3 +53,32 @@ Tomaten, passiert, 1/2 kl. Dose (~130g)
 Tomatenmark, 1/2 Tube
 Wasser, 100ml
 Zwiebel, 1
+
+<br>
+### eigene Habanero Soße
+Chilis (Habanero / Scotch Bonnett), 10
+Essig, Balsamico/Himbeer, 150ml
+Knoblauchzehen, 4
+Kukuma, Prise
+Limetten, 4, Saft davon
+Rohrohrzucker, 300g
+Thymian, nach Geschmack
+Tomaten, passiert, 1/2 kl. Dose (~130g)
+Tomatenmark, 1/2 Tube
+Wasser, 100ml
+Zwiebel, 1
+
+<br>
+### [Magic Dust BBQ-Rub](https://bbqpit.de/magic-dust/)
+
+Relative Anteile:
+
+Paprika: 12
+Salz: 6
+Chili (gemahlen): 6
+Knoblauchpulver: 6
+Kreuzkümmel: 3 o. 6
+Brauner Zucker: 6
+Cayennepfeffer: 1
+Pfeffer: 1
+Senf (gemahlen): 1
