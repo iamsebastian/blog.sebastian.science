@@ -158,3 +158,11 @@ ol, ul {
   background-color: $color-alpha;
   text-shadow: none;
 }
+
+.not_available {
+  opacity: 0.4;
+}
+
+.not_shareable {
+  text-decoration: line-through;
+}
