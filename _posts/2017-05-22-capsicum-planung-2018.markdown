@@ -25,16 +25,21 @@ Kursiv-geschriebene Sorten sind Empfehlungen
 - **Tazmanian Black**
 
 #### C.baccatum
+- **Aji Blanco Cristal**
 - ~~Aji Cristal~~
 - **Aji Pineapple**
+- **Barra do Ribeiro**
+- **Bishops Crown**
+- **Brasilieros Tres Lobos**
 - ~~Brazilian Starfish~~
-- ~~Glockenchili Bishops Crown~~
+- **El Oro de Ecuador**
 - **Jamy**
-- **~~Lemon Drop~~**
-- ~~Nepalese Bell~~
+- **Lemon Drop**
+- **Nepalese Bell**
 - **Orange Drop F2**
 - ~~Peri-Peri~~
-- *Sugar Rush Peach*
+- **Sugar Rush Peach**
+- Tepin x Lemon Drop F5
 
 #### C.cardenasii
 - Ulupica Extra Large F3
@@ -88,13 +93,18 @@ Kursiv-geschriebene Sorten sind Empfehlungen
 - **Rocoto Marlene**
 - **Rocoto Mini Orange (PI 387838? / eq. Locato?)**
 - **Rocoto Montufar (PI 585271)**
+- ~~Rocoto P360~~
 - **Rocoto Peron**
-- **Rocoto P360**
+- **Rocoto Peru**
+- **Rocoto Peru 8969**
+- **Rocoto Peru 8974**
+- **Rocoto Peru 8976**
+- **Rocoto Peru 8977**
+- **Rocoto Peru 8979**
 - **Rocoto Peru Bitdumi**
 - **Rocoto Peru Cuzco Red**
 - **Rocoto Peru Cuzco Yellow**
 - **Rocoto Peru Puno Marki**
-- **Rocoto Peru**
 - **Rocoto Pineapple**
 - **Rocoto RBB**
 - **Rocoto Rio Huallaga**

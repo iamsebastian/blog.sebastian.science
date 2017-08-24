@@ -75,10 +75,6 @@ C.pubescens Rocoto Mini Orange (PI 387838? / eq. Locato?): 7
 C.pubescens Rocoto Montufar (PI 585271): 0
 C.pubescens Rocoto Peron: 10
 C.pubescens Rocoto P360: 10
-C.pubescens Rocoto Peru Bitdumi: 10
-C.pubescens Rocoto Peru Cuzco Red: 10
-C.pubescens Rocoto Peru Cuzco Yellow: 10
-C.pubescens Rocoto Peru Puno Marki: 10
 C.pubescens Rocoto Peru: 10
 C.pubescens Rocoto Peru 8969:
   count: 0
@@ -95,6 +91,10 @@ C.pubescens Rocoto Peru 8977:
 C.pubescens Rocoto Peru 8979:
   count: 0
   share: false
+C.pubescens Rocoto Peru Bitdumi: 10
+C.pubescens Rocoto Peru Cuzco Red: 10
+C.pubescens Rocoto Peru Cuzco Yellow: 10
+C.pubescens Rocoto Peru Puno Marki: 10
 C.pubescens Rocoto Pineapple: 0
 C.pubescens Rocoto RBB: 0
 C.pubescens Rocoto Rio Huallaga: 0
