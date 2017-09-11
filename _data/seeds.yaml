@@ -19,28 +19,30 @@ C.annuum Ancho / Poblano: 0
 C.annuum Bulgarian Carrot: 10
 C.annuum Cherry Pick: 15
 C.annuum Choco Cherry: 0
-C.annuum Jalapeño Brown: 0
+C.annuum Jalapeño Brown: 5
 C.annuum Jalapeño M: 90
 C.annuum NuMex Primavera: 0
 C.annuum PdP: 30
+C.annuum PdP (Zwillingssaatgut): 10
 C.annuum Peter Pepper (verkreuzt): 15
 C.annuum Pimento Marron: 0
 C.annuum Royal Black: 10
 C.annuum Sweet Banana: 10
 C.annuum Tazmanian Black (groß): 0
 C.annuum Tazmanian Black (klein): 0
-C.baccatum Aji Pineapple: 10
-C.baccatum Bishops Crown: 0
 C.baccatum Aji Blanco Cristal: 3
+C.baccatum Aji Panca: 3
+C.baccatum Aji Pineapple: 10
 C.baccatum Barra do Ribeiro: 3
+C.baccatum Bishops Crown: 3
 C.baccatum Brasilieros Tres Lobos: 3
 C.baccatum El Oro de Ecuador: 3
 C.baccatum Jamy: 0
 C.baccatum Lemon Drop: 6
-C.baccatum Nepalese Bell: 0
+C.baccatum Nepalese Bell: 3
 C.baccatum Orange Drop F1: 15
 C.baccatum Orange Drop F2 (nv): 20
-C.baccatum Sugar Rush: 0
+C.baccatum Sugar Rush: 5
 C.baccatum Tepin x LD F5: 0
 C.cardenasii Ulupica Extra Large F3: 0
 C.chinense Adjuma - Kaufmix 04/2017 - Afrika: 8
@@ -54,7 +56,7 @@ C.chinense Habanero Big Sun: 0
 C.chinense Habanero Orange: 0
 C.chinense Maraba: 0
 C.chinense Robertos Cuban Seasoning: 0
-C.chinense Teapot orange: 10
+C.chinense Teapot orange: 7
 C.pubescens Rocoto Aji Largo: 0
 C.pubescens Rocoto Aji Oro: 7
 C.pubescens Rocoto Big Apple: 0
@@ -69,6 +71,7 @@ C.pubescens Rocoto De Seda (Chile): 10
 C.pubescens Rocoto Ecuadorian Red: 10
 C.pubescens Rocoto Guatemalan Orange: 0
 C.pubescens Rocoto La Palma: 7
+C.pubescens Rocoto La Paz: 0
 C.pubescens Rocoto Locato (PI 387838? / eq. Mini Orange?): 0
 C.pubescens Rocoto Marlene: 0
 C.pubescens Rocoto Mini Orange (PI 387838? / eq. Locato?): 7
@@ -77,19 +80,19 @@ C.pubescens Rocoto Peron: 10
 C.pubescens Rocoto P360: 10
 C.pubescens Rocoto Peru: 10
 C.pubescens Rocoto Peru 8969:
-  count: 0
+  count: 7
   share: false
 C.pubescens Rocoto Peru 8974:
-  count: 0
+  count: 7
   share: false
 C.pubescens Rocoto Peru 8976:
-  count: 0
+  count: 7
   share: false
 C.pubescens Rocoto Peru 8977:
-  count: 0
+  count: 7
   share: false
 C.pubescens Rocoto Peru 8979:
-  count: 0
+  count: 7
   share: false
 C.pubescens Rocoto Peru Bitdumi: 10
 C.pubescens Rocoto Peru Cuzco Red: 10
@@ -98,7 +101,7 @@ C.pubescens Rocoto Peru Puno Marki: 10
 C.pubescens Rocoto Pineapple: 0
 C.pubescens Rocoto RBB: 0
 C.pubescens Rocoto Rio Huallaga: 0
-C.pubescens Rocoto Rote Riesen: 20
+C.pubescens Rocoto Rote Riesen (2016er Ernte): 20
 C.pubescens Rocoto San Isidro: 10
 C.pubescens Rocoto Santa Natalia: 0
 C.pubescens Rocoto Sukanya: 0
