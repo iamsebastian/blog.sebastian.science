@@ -82,3 +82,24 @@ Brauner Zucker: 6
 Cayennepfeffer: 1
 Pfeffer: 1
 Senf (gemahlen): 1
+
+<br>
+### schnelle Burger-Brötchen
+Jogurt, Alpro, 200ml
+Mehl, 550, 425g
+Wasser, 125ml
+Salz, 1/2TL
+Zucker, 3TL
+Hefe, Trocken, 3 Pkg.
+
+Zwei Eier müssen ersetzt werden. Mit Hilfe folgender Sachen ersetzt man je zwei Eier:
+- 1 Banane (dafür Zucker weglassen)
+- 2EL Apfelmus
+- 2EL Johannisbrotkernmehl
+- 2EL Chia-Samen + 9EL Wasser
+
+Zum Teig kommt aber nur ein Ei. Das zweite Ei dient der Glasur und kann vernachlässigt werden.
+
+Acht Minuten backen. Danach unter einem Tuch abkühlen lassen, damit die Restfeuchte im Teig bleibt und die Brötchen nicht austrocknen.
+
+Reicht für neun Stück.
