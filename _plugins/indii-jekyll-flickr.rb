@@ -240,6 +240,7 @@ module Jekyll
       self.data['categories'] = photo.tags
       #data['date'] = photo.date.gsub('\'', '').gsub('"', '').sub('T', ' ').sub('+', ' +')
       self.data['date'] = DateTime.strptime(photo.date, '%s').strftime('%Y-%m-%d %H:%M:%S +0000')
+      #self.data['date'] = DateTime.strptime(photo.date, '%s')
       self.data['slug'] = photo.slug
       #data['permalink'] = File.join('/archives', photo.slug, 'index.html')
       self.data['flickr'] = Hash.new

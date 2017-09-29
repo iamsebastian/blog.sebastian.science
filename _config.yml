@@ -50,7 +50,7 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
 # Pagination
-paginate: 5
+paginate: 999
 paginate_path: "/blog/page-:num"
 
 # Sass

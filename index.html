@@ -3,7 +3,7 @@ layout: default
 ---
 <section class="previews">
   <div>
-    {% assign sorted_posts = paginator.posts %}
+    {% assign sorted_posts = paginator.posts | sort | reverse %}
     {% for post in sorted_posts %}
       <figure class="absolute-bg preview__img" style="background-image: url('{{ post.image }}');"></figure>
     {% endfor %}
