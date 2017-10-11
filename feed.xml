@@ -7,8 +7,8 @@
 </description>
     <link>http://sebastian.science/</link>
     <atom:link href="http://sebastian.science/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Oct 2017 13:52:58 +0000</pubDate>
-    <lastBuildDate>Mon, 09 Oct 2017 13:52:58 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Oct 2017 11:50:50 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Oct 2017 11:50:50 +0000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -24,6 +24,8 @@
         <category>capsicum</category>
         
         <category>baccatum</category>
+        
+        <category>orange drop</category>
         
       </item>
     
