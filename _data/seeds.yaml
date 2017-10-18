@@ -10,8 +10,8 @@ Blumenkohl Graffiti: 50
 Blutampfer: 20
 Blühstreifenmischung, Bingenheimer: 2000
 Bohne, Mix: 25
-Bohne, Stange, Cranberry Flieder: 11
 Bohne, Stange, Blauhilde: 30
+Bohne, Stange, Cranberry Flieder: 11
 Bohnen Busch: 6lfm
 Buchweizen, Fagopyrum: 100
 Capsicum Mix: 150
@@ -19,27 +19,28 @@ C.annuum Ancho / Poblano: 0
 C.annuum Bulgarian Carrot: 13
 C.annuum Cherry Pick: 15
 C.annuum Choco Cherry: 0
-C.annuum Fish Pepper: 1
-C.annuum Fish Pepper (nv): 5
 C.annuum Filius Blue: 5
-C.annuum Guntur Sannam S4: 14
-C.annuum Guntur / Teja: 12
+C.annuum Fish Pepper (nv): 5
+C.annuum Fish Pepper: 1
 C.annuum Guntur / Chili 237: 15
+C.annuum Guntur / Teja: 12
+C.annuum Guntur Sannam S4: 14
 C.annuum Jalapeño Brown: 5
 C.annuum Jalapeño M: 90
 C.annuum Marbles: 6
 C.annuum Mustafa: 11
 C.annuum NuMex Primavera: 0
-C.annuum PdP: 30
 C.annuum PdP (Zwillingssaatgut): 10
+C.annuum PdP: 30
 C.annuum Peter Pepper (verkreuzt): 20
 C.annuum Pimento Marron: 0
 C.annuum Royal Black: 45
 C.annuum Sweet Banana: 10
 C.annuum Tazmanian Black (groß): 0
 C.annuum Tazmanian Black (klein): 0
-C.annuum Variegated Jalapeno (nv): 4
+C.annuum Variegated Jalapeno (nv): 2
 C.baccatum Aji Blanco Cristal: 3
+C.baccatum Aji Jaguar: 25
 C.baccatum Aji Panca: 3
 C.baccatum Aji Pineapple: 10
 C.baccatum Barra do Ribeiro: 3
@@ -54,16 +55,19 @@ C.baccatum Nepalese Bell: 3
 C.baccatum Orange Drop F1: 15
 C.baccatum Orange Drop F2 (nv): 20
 C.baccatum Pimenta Barra Do Ribeiro (CP-113): 10
+C.baccatum Santorini Episcopi: 0
 C.baccatum Sugar Rush: 5
 C.baccatum Tepin x LD F5: 0
 C.cardenasii Ulupica Extra Large F3: 30
 C.chinense Adjuma - Kaufmix 04/2017 - Afrika: 8
 C.chinense Adjuma - Kaufmix 06/2017 - Niederlande: 30
+C.chinense Aribibi 8R2Y1W: 0
+C.chinense Aribibi Guasano (nv): 0
 C.chinense Beni Highland: 0
 C.chinense Biquinho Amarelo: 5
 C.chinense Cheiro Roxa: 10
-C.chinense Fatalii: 3
 C.chinense Fatalii Green: 9
+C.chinense Fatalii: 3
 C.chinense Habanero Big Sun: 0
 C.chinense Habanero Orange: 0
 C.chinense Maraba: 4
@@ -74,9 +78,9 @@ C.pubescens Rocoto Aji Largo: 11
 C.pubescens Rocoto Aji Oro: 7
 C.pubescens Rocoto Big Apple: 8
 C.pubescens Rocoto Brown Mini: 20
-C.pubescens Rocoto Canario: 10
 C.pubescens Rocoto CAP363: 0
 C.pubescens Rocoto CAP468: 10
+C.pubescens Rocoto Canario: 10
 C.pubescens Rocoto Costa Rican orange: 20
 C.pubescens Rocoto Cuencano: 10
 C.pubescens Rocoto De La Selvas (Arequipa): 0
@@ -90,8 +94,8 @@ C.pubescens Rocoto Locato (PI 387838? / eq. Mini Orange?): 11
 C.pubescens Rocoto Marlene: 7
 C.pubescens Rocoto Mini Orange (PI 387838? / eq. Locato?): 7
 C.pubescens Rocoto Montufar (PI 585273): 17
+C.pubescens Rocoto P360: 0
 C.pubescens Rocoto Peron: 10
-C.pubescens Rocoto P360: 10
 C.pubescens Rocoto Peru: 10
 C.pubescens Rocoto Peru 8969:
   count: 7
@@ -116,7 +120,7 @@ C.pubescens Rocoto Pineapple: 40
 C.pubescens Rocoto RBB: 8
 C.pubescens Rocoto Rio Huallaga: 8
 C.pubescens Rocoto Rote Riesen (2016er Ernte): 20
-C.pubescens Rocoto (Largo) San Isidro: 10
+C.pubescens Rocoto San Isidro (Largo): 10
 C.pubescens Rocoto Santa Natalia: 11
 C.pubescens Rocoto Sukanya: 19
 C.pubescens Rocoto Turbo Pube Yellow (PI 585268): 7

@@ -41,6 +41,33 @@ Brottrunk hilft als Starter.
 Haltbarkeit (probiert durch User): mind. 4 Jahre
 
 <br>
+### Chili-Zwiebel-Relish
+
+  60 Teile Zwiebeln
+  60 Teile Chilis
+  40 Teile Zucker
+  40 Teile Gelierzucker
+  10 Teile Olivenöl
+  10 Teile Weißer Balsamico
+  8 Teile Tomatenmark (wgn. d. Farbe, bei roten Chilis)
+  3 Teile Salz
+
+Rest hier: https://chiliforum.hot-pain.de/threads/chili-zwiebel-relish-achtung-suchtgefahr.26939/
+
+<br>
+### Pflaumensoße
+
+  1kg Pflaumen
+  6 Knoblauchzehen
+  Chilis nach Bedarf
+  300g Brauner Zucker
+  100ml Apfelessig
+  4 EL Sonnenblumenöl
+  Salz
+
+Rest hier: https://chiliforum.hot-pain.de/threads/pflaumensauce.32298/
+
+<br>
 ### Habanero Soße
 Chilis (Habanero / Scotch Bonnett), 10
 Essig, Balsamico/Himbeer, 150ml

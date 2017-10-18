@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Capsicum Planung 2018"
-date:   2017-08-15 10:38:51 +0100
+date:   2017-10-18 11:11:51 +0100
 categories:
   - chili
   - garten
@@ -19,54 +19,67 @@ Kursiv-geschriebene Sorten sind Empfehlungen
 - ~~Bangalore Whippets Tail~~
 - ~~[Baby Bell](http://hot-pain.de/baby-bell/)~~
 - ~~[De Arbol](https://www.pepperworldhotshop.de/de-arbol-c-annuum-saat/)~~
+- **Fish Pepper** (2)
+- **Guntur Chili 237**
+- **Guntur Sannam S4**
+- **Guntur Teja**
 - ~~Frontera Sweet~~
-- **Jalapeño Brown**
+- **Jalapeño Brown** (2)
+- **Jalapeño Variegated** (2)
 - ~~Monkey Face~~
+- **Mustafa**
 - **Tazmanian Black**
 
 #### C.baccatum
 - **Aji Blanco Cristal**
 - ~~Aji Cristal~~
+- **Aji Jaguar** (3)
+- **Aji Panca**
 - **Aji Pineapple**
 - **Barra do Ribeiro**
 - **Bishops Crown**
 - **Brasilieros Tres Lobos**
 - ~~Brazilian Starfish~~
 - **El Oro de Ecuador**
-- **Jamy**
+- ~~Jamy~~
 - **Lemon Drop**
+- **Little Bird Of Guyana** (3)
+- **Moranguinho (CP-341)**
 - **Nepalese Bell**
-- **Orange Drop F2**
+- ~~Orange Drop F2~~
 - ~~Peri-Peri~~
+- ~~Santorini Episcopi~~
 - **Sugar Rush Peach**
 - Tepin x Lemon Drop F5
 
 #### C.cardenasii
-- Ulupica Extra Large F3
+- **Ulupica Extra Large F3** (2)
 
 #### C.chinense:
 - ~~Aji Dulce Amarillo~~
 - ~~[Aji Dulce Long](http://hot-pain.de/wp-content/uploads/aji-dulce-long.jpg)~~
 - ~~[*Aji Jobito*](https://chiliforum.hot-pain.de/threads/geschmackliche-bewertung-meiner-chilis-saison-2016.29295/page-5#post-656113)~~
 - **Aji Umba Yellow**
-- **Beni Highland**
+- **Aribibi 8R2Y1W** (8)
+- **Aribibi Gusano** (2)
+- ~~Beni Highland~~
 - ~~**Biquinho Amarelo**~~
 - ~~Bolivian Bumpy~~
 - ~~CGN 21500~~
-- **Cheiro Roxa**
+- ~~**Cheiro Roxa**~~
 - **Fatalii**
 - **Fatalii Green**
 - ~~Fatalii White~~
 - ~~Habanero Cristina~~
 - ~~Habanero Orange Apple~~
-- **Habanero Big Sun**
+- ~~**Habanero Big Sun**~~
 - ~~Kathumby Yellow~~
 - ~~Limón~~
 - **Maraba**
 - ~~PDN X Douglah 2.3~~
 - ~~Pimenta da Neyde (PdN)~~
 - **Robertos Cuban Seasoning**
-- *Scotch Bonnet MOA*
+- ~~Scotch Bonnet MOA~~
 - ~~Scotch Bonnet Trinidad Orange~~
 - **Teapot Orange**
 
@@ -79,21 +92,21 @@ Kursiv-geschriebene Sorten sind Empfehlungen
 - **Rocoto Aji Oro**
 - **Rocoto Big Apple**
 - **Rocoto Brown Mini**
-- **Rocoto Canario**
 - **Rocoto CAP363**
 - **Rocoto CAP468**
+- **Rocoto Canario**
 - **Rocoto Costa Rican orange**
 - **Rocoto Cuencano**
-- **Rocoto De La Selvas (Arequipa)**
+- **Rocoto De La Selvas (Rojo)**
 - **Rocoto De Seda (Chile)**
 - **Rocoto Ecuadorian Red**
 - **Rocoto Guatemalan Orange**
 - **Rocoto La Palma**
+- **Rocoto La Paz**
 - **Rocoto Locato (PI 387838? / eq. Mini Orange?)**
 - **Rocoto Marlene**
 - **Rocoto Mini Orange (PI 387838? / eq. Locato?)**
 - **Rocoto Montufar (PI 585271)**
-- ~~Rocoto P360~~
 - **Rocoto Peron**
 - **Rocoto Peru**
 - **Rocoto Peru 8969**
