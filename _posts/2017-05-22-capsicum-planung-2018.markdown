@@ -15,40 +15,31 @@ Um zum Ende des 2017er Jahres nicht in Vergessenheit geraten zu lassen, was gesc
 Fett-geschriebene Sorten sind bereits besorgt (Samen / Überwinterer)
 Kursiv-geschriebene Sorten sind Empfehlungen
 
+### Geplantes
+
 #### C.annuum:
-- ~~Bangalore Whippets Tail~~
-- ~~[Baby Bell](http://hot-pain.de/baby-bell/)~~
-- ~~[De Arbol](https://www.pepperworldhotshop.de/de-arbol-c-annuum-saat/)~~
 - **Fish Pepper** (2)
 - **Guntur Chili 237**
 - **Guntur Sannam S4**
 - **Guntur Teja**
-- ~~Frontera Sweet~~
 - **Jalapeño Brown** (2)
 - **Jalapeño Variegated** (2)
-- ~~Monkey Face~~
 - **Mustafa**
 - **Tazmanian Black**
 
 #### C.baccatum
 - **Aji Blanco Cristal**
-- ~~Aji Cristal~~
 - **Aji Jaguar** (3)
 - **Aji Panca**
 - **Aji Pineapple**
 - **Barra do Ribeiro**
 - **Bishops Crown**
 - **Brasilieros Tres Lobos**
-- ~~Brazilian Starfish~~
 - **El Oro de Ecuador**
-- ~~Jamy~~
 - **Lemon Drop**
 - **Little Bird Of Guyana** (3)
 - **Moranguinho (CP-341)**
 - **Nepalese Bell**
-- ~~Orange Drop F2~~
-- ~~Peri-Peri~~
-- ~~Santorini Episcopi~~
 - **Sugar Rush Peach**
 - Tepin x Lemon Drop F5
 
@@ -56,36 +47,17 @@ Kursiv-geschriebene Sorten sind Empfehlungen
 - **Ulupica Extra Large F3** (2)
 
 #### C.chinense:
-- ~~Aji Dulce Amarillo~~
-- ~~[Aji Dulce Long](http://hot-pain.de/wp-content/uploads/aji-dulce-long.jpg)~~
-- ~~[*Aji Jobito*](https://chiliforum.hot-pain.de/threads/geschmackliche-bewertung-meiner-chilis-saison-2016.29295/page-5#post-656113)~~
 - **Aji Umba Yellow**
 - **Aribibi 8R2Y1W** (8)
 - **Aribibi Gusano** (2)
-- ~~Beni Highland~~
-- ~~**Biquinho Amarelo**~~
-- ~~Bolivian Bumpy~~
-- ~~CGN 21500~~
-- ~~**Cheiro Roxa**~~
 - **Fatalii**
 - **Fatalii Green**
-- ~~Fatalii White~~
-- ~~Habanero Cristina~~
-- ~~Habanero Orange Apple~~
-- ~~**Habanero Big Sun**~~
-- ~~Kathumby Yellow~~
-- ~~Limón~~
 - **Maraba**
-- ~~PDN X Douglah 2.3~~
-- ~~Pimenta da Neyde (PdN)~~
 - **Robertos Cuban Seasoning**
-- ~~Scotch Bonnet MOA~~
-- ~~Scotch Bonnet Trinidad Orange~~
 - **Teapot Orange**
 
 #### C.frustescens:
-- ~~Lanterna De Foc~~
-- ~~Istagua~~
+- **Birds Eye**
 
 #### C.pubescens:
 - **Rocoto Aji Largo**
@@ -121,9 +93,52 @@ Kursiv-geschriebene Sorten sind Empfehlungen
 - **Rocoto Pineapple**
 - **Rocoto RBB**
 - **Rocoto Rio Huallaga**
-- **~~Rocoto Rote Riesen~~**
 - **Rocoto San Isidro**
 - **Rocoto Santa Natalia**
 - **Rocoto Sukanya**
 - **Rocoto Turbo Pube Yellow (PI 585268)**
 - **Rocoto Ultra Pube Red (PI 585261)**
+
+
+### Verworfenes
+
+#### C.annuum:
+- ~~Bangalore Whippets Tail~~
+- ~~[Baby Bell](http://hot-pain.de/baby-bell/)~~
+- ~~[De Arbol](https://www.pepperworldhotshop.de/de-arbol-c-annuum-saat/)~~
+- ~~Frontera Sweet~~
+- ~~Monkey Face~~
+
+#### C.baccatum
+- ~~Aji Cristal~~
+- ~~Brazilian Starfish~~
+- ~~Jamy~~
+- ~~Orange Drop F2~~
+- ~~Peri-Peri~~
+- ~~Santorini Episcopi~~
+
+#### C.chinense:
+- ~~Aji Dulce Amarillo~~
+- ~~[Aji Dulce Long](http://hot-pain.de/wp-content/uploads/aji-dulce-long.jpg)~~
+- ~~[*Aji Jobito*](https://chiliforum.hot-pain.de/threads/geschmackliche-bewertung-meiner-chilis-saison-2016.29295/page-5#post-656113)~~
+- ~~Beni Highland~~
+- ~~Bolivian Bumpy~~
+- ~~CGN 21500~~
+- ~~**Cheiro Roxa**~~
+- ~~Fatalii White~~
+- ~~Habanero Cristina~~
+- ~~Habanero Orange Apple~~
+- ~~**Habanero Big Sun**~~
+- ~~Kathumby Yellow~~
+- ~~Limón~~
+- ~~PDN X Douglah 2.3~~
+- ~~Pimenta da Neyde (PdN)~~
+- ~~Scotch Bonnet MOA~~
+- ~~Scotch Bonnet Trinidad Orange~~
+
+#### C.frustescens:
+- ~~Lanterna De Foc~~
+- ~~Istagua~~
+
+#### C.pubescens:
+- **~~Rocoto Rote Riesen~~**
