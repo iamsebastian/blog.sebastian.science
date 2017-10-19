@@ -144,7 +144,7 @@ Fett-geschriebene Sorten sind bereits besorgt (Samen / Überwinterer)
 #### C.pubescens:
   - **~~Rocoto Rote Riesen~~**
 
-  </code>
+  <code>
   [table]
   [tr]
   [th]Gattung[/th]
