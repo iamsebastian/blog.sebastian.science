@@ -3,8 +3,8 @@ layout: post
 title:  "Capsicum Planung 2018"
 date:   2017-10-18 11:11:51 +0100
 categories:
-  - chili
-  - garten
+- chili
+- garten
 image: https://unsplash.it/2000/1200?image=1073
 image-sm: https://unsplash.it/500/300?image=1073
 about: Ruhig schon mal zeitig planen
@@ -13,9 +13,10 @@ about: Ruhig schon mal zeitig planen
 Um zum Ende des 2017er Jahres nicht in Vergessenheit geraten zu lassen, was geschmeckt hat und was man nicht mehr braucht, soll dieser Beitrag eine aktuell-zu-haltende Übersicht bereit stellen.
 
 Fett-geschriebene Sorten sind bereits besorgt (Samen / Überwinterer)
-Kursiv-geschriebene Sorten sind Empfehlungen
+  Kursiv-geschriebene Sorten sind Empfehlungen
 
-### Geplantes
+
+## Geplantes
 
 #### C.annuum:
 - **Fish Pepper** (2)
@@ -100,45 +101,470 @@ Kursiv-geschriebene Sorten sind Empfehlungen
 - **Rocoto Ultra Pube Red (PI 585261)**
 
 
-### Verworfenes
+## Verworfenes
 
 #### C.annuum:
-- ~~Bangalore Whippets Tail~~
-- ~~[Baby Bell](http://hot-pain.de/baby-bell/)~~
-- ~~[De Arbol](https://www.pepperworldhotshop.de/de-arbol-c-annuum-saat/)~~
-- ~~Frontera Sweet~~
-- ~~Monkey Face~~
+  - ~~Bangalore Whippets Tail~~
+  - ~~[Baby Bell](http://hot-pain.de/baby-bell/)~~
+  - ~~[De Arbol](https://www.pepperworldhotshop.de/de-arbol-c-annuum-saat/)~~
+  - ~~Frontera Sweet~~
+  - ~~Monkey Face~~
 
 #### C.baccatum
-- ~~Aji Cristal~~
-- ~~Brazilian Starfish~~
-- ~~Jamy~~
-- ~~Orange Drop F2~~
-- ~~Peri-Peri~~
-- ~~Santorini Episcopi~~
+  - ~~Aji Cristal~~
+  - ~~Brazilian Starfish~~
+  - ~~Jamy~~
+  - ~~Orange Drop F2~~
+  - ~~Peri-Peri~~
+  - ~~Santorini Episcopi~~
 
 #### C.chinense:
-- ~~Aji Dulce Amarillo~~
-- ~~[Aji Dulce Long](http://hot-pain.de/wp-content/uploads/aji-dulce-long.jpg)~~
-- ~~[*Aji Jobito*](https://chiliforum.hot-pain.de/threads/geschmackliche-bewertung-meiner-chilis-saison-2016.29295/page-5#post-656113)~~
-- ~~Beni Highland~~
-- ~~Bolivian Bumpy~~
-- ~~CGN 21500~~
-- ~~**Cheiro Roxa**~~
-- ~~Fatalii White~~
-- ~~Habanero Cristina~~
-- ~~Habanero Orange Apple~~
-- ~~**Habanero Big Sun**~~
-- ~~Kathumby Yellow~~
-- ~~Limón~~
-- ~~PDN X Douglah 2.3~~
-- ~~Pimenta da Neyde (PdN)~~
-- ~~Scotch Bonnet MOA~~
-- ~~Scotch Bonnet Trinidad Orange~~
+  - ~~Aji Dulce Amarillo~~
+  - ~~[Aji Dulce Long](http://hot-pain.de/wp-content/uploads/aji-dulce-long.jpg)~~
+  - ~~[*Aji Jobito*](https://chiliforum.hot-pain.de/threads/geschmackliche-bewertung-meiner-chilis-saison-2016.29295/page-5#post-656113)~~
+  - ~~Beni Highland~~
+  - ~~Bolivian Bumpy~~
+  - ~~CGN 21500~~
+  - ~~**Cheiro Roxa**~~
+  - ~~Fatalii White~~
+  - ~~Habanero Cristina~~
+  - ~~Habanero Orange Apple~~
+  - ~~**Habanero Big Sun**~~
+  - ~~Kathumby Yellow~~
+  - ~~Limón~~
+  - ~~PDN X Douglah 2.3~~
+  - ~~Pimenta da Neyde (PdN)~~
+  - ~~Scotch Bonnet MOA~~
+  - ~~Scotch Bonnet Trinidad Orange~~
 
 #### C.frustescens:
-- ~~Lanterna De Foc~~
-- ~~Istagua~~
+  - ~~Lanterna De Foc~~
+  - ~~Istagua~~
 
 #### C.pubescens:
-- **~~Rocoto Rote Riesen~~**
+  - **~~Rocoto Rote Riesen~~**
+
+  </code>
+  [table]
+  [tr]
+  [th]Gattung[/th]
+  [th]Sortenname[/th]
+  [th](reife) Farbe[/th]
+  [th]Schärfe[/th]
+  [/tr]
+  [tr]
+  [td]C.annuum[/td]
+  [td]Tazmanian Black[/td]
+  [td]Rot[/td]
+  [td]6[/td]
+  [/tr]
+  [tr]
+  [td]C.annuum[/td]
+  [td]Mustafa[/td]
+  [td]Rot[/td]
+  [td]0[/td]
+  [/tr]
+  [tr]
+  [td]C.annuum[/td]
+  [td]Jalapeño Variegated[/td]
+  [td]Bunt[/td]
+  [td]5[/td]
+  [/tr]
+  [tr]
+  [td]C.annuum[/td]
+  [td]Jalapeño Brown[/td]
+  [td]Braun[/td]
+  [td]5[/td]
+  [/tr]
+  [tr]
+  [td]C.annuum[/td]
+  [td]Guntur Teja[/td]
+  [td]Rot[/td]
+  [td]8[/td]
+  [/tr]
+  [tr]
+  [td]C.annuum[/td]
+  [td]Guntur Sannam S4[/td]
+  [td]Rot[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.annuum[/td]
+  [td]Guntur Chili 237[/td]
+  [td]Rot[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.annuum[/td]
+  [td]Fish Pepper[/td]
+  [td]Rot[/td]
+  [td]4[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Aji Blanco Cristal (CAP 333)[/td]
+  [td]Weiß[/td]
+  [td]3[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Aji Jaguar[/td]
+  [td]Weiß-gelb[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Aji Panca[/td]
+  [td]Braun[/td]
+  [td]2[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Aji Pineapple[/td]
+  [td]Orange[/td]
+  [td]7[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Barra do Ribeiro[/td]
+  [td]Rot[/td]
+  [td]4[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Bishops Crown[/td]
+  [td]Rot[/td]
+  [td]5[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Brasileiro Tres Lobos[/td]
+  [td]Gelb[/td]
+  [td]5[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]El Oro de Ecuador[/td]
+  [td]Gelb[/td]
+  [td]7[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Lemon Drop[/td]
+  [td]Gelb[/td]
+  [td]6[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Little Bird Of Guyana[/td]
+  [td]Gelb/orange[/td]
+  [td]6[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Moranguinho (CP-341)[/td]
+  [td]Rot[/td]
+  [td]1[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Nepalese Bell[/td]
+  [td]Rot[/td]
+  [td]5[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Sugar Rush Peach[/td]
+  [td]Orange[/td]
+  [td]4[/td]
+  [/tr]
+  [tr]
+  [td]C.baccatum[/td]
+  [td]Tepin x Lemon Drop F5[/td]
+  [td]Rot[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.cardenasii[/td]
+  [td]Ulupica Extra Large F3[/td]
+  [td]Rot[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.chinense[/td]
+  [td]Aji Umba Yellow[/td]
+  [td]Gelb[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.chinense[/td]
+  [td]Aribibi Rot[/td]
+  [td]Rot[/td]
+  [td]10[/td]
+  [/tr]
+  [tr]
+  [td]C.chinense[/td]
+  [td]Aribibi Gusano[/td]
+  [td]Weiß[/td]
+  [td]10[/td]
+  [/tr]
+  [tr]
+  [td]C.chinense[/td]
+  [td]Fatalii[/td]
+  [td]Gelb[/td]
+  [td]10[/td]
+  [/tr]
+  [tr]
+  [td]C.chinense[/td]
+  [td]Fatalii Green[/td]
+  [td]Grün-gelb[/td]
+  [td]4[/td]
+  [/tr]
+  [tr]
+  [td]C.chinense[/td]
+  [td]Maraba[/td]
+  [td]Gelb[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.chinense[/td]
+  [td]Robertos Cuban Seasoning[/td]
+  [td]Rot[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.chinense[/td]
+  [td]Teapot Orange[/td]
+  [td]Orange[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.frustescens[/td]
+  [td]Birds Eye[/td]
+  [td]Rot[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Aji Largo[/td]
+  [td]Rot[/td]
+  [td]8[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Aji Oro[/td]
+  [td]Rot[/td]
+  [td]8[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Big Apple[/td]
+  [td]Rot[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Brown Mini[/td]
+  [td]Braun[/td]
+  [td]5[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto CAP363[/td]
+  [td]Gelb[/td]
+  [td]8[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto CAP468[/td]
+  [td]Gelb[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Canario[/td]
+  [td]Gelb[/td]
+  [td]8[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Costa Rican orange[/td]
+  [td]Orange[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Cuencano[/td]
+  [td]Rot[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto De La Selvas (Rojo)[/td]
+  [td]Rot[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto De Seda (Chile)[/td]
+  [td]Orange[/td]
+  [td]5[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Ecuadorian Red[/td]
+  [td]Rot[/td]
+  [td]8[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Guatemalan Orange[/td]
+  [td]Orange[/td]
+  [td]8[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto La Palma[/td]
+  [td]gelb[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto La Paz[/td]
+  [td]Rot[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Marlene[/td]
+  [td]Rot[/td]
+  [td]5[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Mini Orange (PI 387838? / eq. Locato?)[/td]
+  [td]Orange[/td]
+  [td]6[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Montufar (PI 585271)[/td]
+  [td]Rot[/td]
+  [td]7[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Peron[/td]
+  [td]Rot[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Peru[/td]
+  [td]Rot[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Peru 8969[/td]
+  [td]Orange[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Peru 8974[/td]
+  [td]Orange[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Peru 8976[/td]
+  [td]rot[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Peru 8977[/td]
+  [td]dunkelrot[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Peru 8979[/td]
+  [td]Orange-rot[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Peru Bitdumi[/td]
+  [td]Rot[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Peru Cuzco Red[/td]
+  [td]Rot[/td]
+  [td]10+[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Peru Cuzco Yellow[/td]
+  [td]Gelb[/td]
+  [td]10+[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Peru Puno Marki[/td]
+  [td]Rot[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Pineapple[/td]
+  [td]Gelb[/td]
+  [td]6[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto RBB[/td]
+  [td]Braun[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Rio Huallaga[/td]
+  [td]Orange[/td]
+  [td]8[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto San Isidro[/td]
+  [td]rot[/td]
+  [td]8[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Santa Natalia[/td]
+  [td]dunkelrot[/td]
+  [td]6[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Sukanya[/td]
+  [td]Rot[/td]
+  [td]?[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Turbo Pube Yellow (PI 585268)[/td]
+  [td]Gelb[/td]
+  [td]9[/td]
+  [/tr]
+  [tr]
+  [td]C.pubescens[/td]
+  [td]Rocoto Ultra Pube Red (PI 585261)[/td]
+  [td]Rot[/td]
+  [td]9[/td]
+  [/tr]
+  [/table]
+  </code>
