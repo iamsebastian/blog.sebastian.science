@@ -1,0 +1,299 @@
+#### C.annuum:
+Fish Pepper:
+  color: rot
+  heat: 4
+  species: Capsicum annuum
+Guntur Chili 237:
+  color: rot
+  heat: …
+  species: Capsicum annuum
+Guntur Sannam S4:
+  color: rot
+  heat: …
+  species: Capsicum annuum
+Guntur Teja:
+  color: rot
+  heat: 8
+  species: Capsicum annuum
+Jalapeño Brown:
+  color: braun
+  heat: 5
+  species: Capsicum annuum
+Jalapeño Variegated:
+  color: gemischt
+  heat: 5
+  species: Capsicum annuum
+Mustafa:
+  color: rot
+  heat: 0
+  species: Capsicum annuum
+Tazmanian Black:
+  color: rot
+  heat: 6
+  species: Capsicum annuum
+
+#### C.baccatum
+Aji Blanco Cristal:
+  color: weiß
+  heat: 3
+  species: Capsicum baccatum
+Aji Jaguar:
+  color: weiß-gelb
+  heat: …
+  species: Capsicum baccatum
+Aji Panca:
+  color: braun
+  heat: 2
+  species: Capsicum baccatum
+Aji Pineapple:
+  color: gelb
+  heat: 7
+  species: Capsicum baccatum
+Barra do Ribeiro:
+  color: rot
+  heat: 4
+  species: Capsicum baccatum
+Bishops Crown:
+  color: rot
+  heat: 5
+  species: Capsicum baccatum
+Brasilieros Tres Lobos:
+  color: gelb
+  heat: 5
+  species: Capsicum baccatum
+El Oro de Ecuador:
+  color: gelb
+  heat: 7
+  species: Capsicum baccatum
+Lemon Drop:
+  color: gelb
+  heat: 6
+  species: Capsicum baccatum
+Little Bird Of Guyana:
+  color: gelb-orange
+  heat: 6
+  species: Capsicum baccatum
+Moranguinho (CP-341):
+  color: rot
+  heat: 1
+  species: Capsicum baccatum
+Nepalese Bell:
+  color: rot
+  heat: 5
+  species: Capsicum baccatum
+Sugar Rush Peach:
+  color: orange
+  heat: 4
+  species: Capsicum baccatum
+Tepin x Lemon Drop F5:
+  color: rot
+  heat: …
+  species: Capsicum baccatum
+
+#### C.cardenasii
+Ulupica Extra Large F3:
+  color: rot
+  heat: …
+  species: Capsicum cardenasii
+
+#### C.chinense:
+Aji Umba Yellow:
+  color: gelb
+  heat: 9
+  species: Capsicum chinense
+Aribibi 8R2Y1W:
+  color: rot/gelb/weiß
+  heat: 10
+  species: Capsicum chinense
+Aribibi Gusano:
+  color: weiß
+  heat: 10
+  species: Capsicum chinense
+Fatalii:
+  color: gelb
+  heat: 10
+  species: Capsicum chinense
+Fatalii Green:
+  color: gelb-grün
+  heat: 4
+  species: Capsicum chinense
+Maraba:
+  color: gelb
+  heat: 9
+  species: Capsicum chinense
+Robertos Cuban Seasoning:
+  color: rot
+  heat: …
+  species: Capsicum chinense
+Teapot Orange:
+  color: orange
+  heat: 9
+  species: Capsicum chinense
+
+#### C.frustescens:
+Birds Eye:
+  color: rot
+  heat: 9
+  species: Capsicum frutescens
+
+#### C.pubescens:
+Rocoto Aji Largo:
+  color: rot
+  heat: 8
+  species: Capsicum pubescens
+Rocoto Aji Oro:
+  color: rot
+  heat: 8
+  species: Capsicum pubescens
+Rocoto Big Apple:
+  color: rot
+  heat: 9
+  species: Capsicum pubescens
+Rocoto Brown Mini:
+  color: braun
+  heat: 5
+  species: Capsicum pubescens
+Rocoto CAP363:
+  color: gelb
+  heat: 8
+  species: Capsicum pubescens
+Rocoto CAP468:
+  color: gelb
+  heat: …
+  species: Capsicum pubescens
+Rocoto Canario:
+  color: gelb
+  heat: 8
+  species: Capsicum pubescens
+Rocoto Costa Rican orange:
+  color: orange
+  heat: 9
+  species: Capsicum pubescens
+Rocoto Cuencano:
+  color: rot
+  heat: 9
+  species: Capsicum pubescens
+Rocoto De La Selvas (Rojo):
+  color: rot
+  heat: …
+  species: Capsicum pubescens
+Rocoto De Seda (Chile):
+  color: orange
+  heat: 5
+  species: Capsicum pubescens
+Rocoto Ecuadorian Red:
+  color: rot
+  heat: 8
+  species: Capsicum pubescens
+Rocoto Giant Mexican Red:
+  color: rot
+  heat: …
+  species: Capsicum pubescens
+Rocoto Guatemalan Orange:
+  color: orange
+  heat: 8
+  species: Capsicum pubescens
+Rocoto La Palma:
+  color: gelb
+  heat: 9
+  species: Capsicum pubescens
+Rocoto La Paz:
+  color: rot
+  heat: …
+  species: Capsicum pubescens
+Rocoto Locato (PI 387838? / eq. Mini Orange?):
+  color: orange
+  heat: 6
+  species: Capsicum pubescens
+Rocoto Marlene:
+  color: rot
+  heat: 5
+  species: Capsicum pubescens
+Rocoto Mini Orange (PI 387838? / eq. Locato?):
+  color: orange
+  heat: 6
+  species: Capsicum pubescens
+Rocoto Montufar (PI 585271):
+  color: rot
+  heat: 7
+  species: Capsicum pubescens
+Rocoto Peron:
+  color: rot
+  heat: 9
+  species: Capsicum pubescens
+Rocoto Peru:
+  color: rot
+  heat: 9
+  species: Capsicum pubescens
+Rocoto Peru 8969:
+  color: orange
+  heat: …
+  species: Capsicum pubescens
+Rocoto Peru 8974:
+  color: orange
+  heat: …
+  species: Capsicum pubescens
+Rocoto Peru 8976:
+  color: rot
+  heat: …
+  species: Capsicum pubescens
+Rocoto Peru 8977:
+  color: dunkelrot
+  heat: …
+  species: Capsicum pubescens
+Rocoto Peru 8979:
+  color: orange-rot
+  heat: …
+  species: Capsicum pubescens
+Rocoto Peru Bitdumi:
+  color: rot
+  heat: 9
+  species: Capsicum pubescens
+Rocoto Peru Cuzco Red:
+  color: rot
+  heat: 10+
+  species: Capsicum pubescens
+Rocoto Peru Cuzco Yellow:
+  color: gelb
+  heat: 10+
+  species: Capsicum pubescens
+Rocoto Peru Puno Marki:
+  color: rot
+  heat: 9
+  species: Capsicum pubescens
+Rocoto Pineapple:
+  color: gelb
+  heat: 6
+  species: Capsicum pubescens
+Rocoto RBB:
+  color: braun
+  heat: …
+  species: Capsicum pubescens
+Rocoto Rio Huallaga:
+  color: orange
+  heat: 8
+  species: Capsicum pubescens
+Rocoto San Isidro:
+  color: rot
+  heat: 8
+  species: Capsicum pubescens
+Rocoto Santa Natalia:
+  color: dunkelrot
+  heat: 6
+  species: Capsicum pubescens
+Rocoto São Sebastião da Madeira:
+  color: rot
+  heat: 4
+  species: Capsicum pubescens
+Rocoto Sukanya:
+  color: rot
+  heat: …
+  species: Capsicum pubescens
+Rocoto Turbo Pube Yellow (PI 585268):
+  color: gelb
+  heat: 9
+  species: Capsicum pubescens
+Rocoto Ultra Pube Red (PI 585261):
+  color: rot
+  heat: 9
+  species: Capsicum pubescens

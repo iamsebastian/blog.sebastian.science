@@ -73,6 +73,7 @@ Fett-geschriebene Sorten sind bereits besorgt (Samen / Überwinterer)
 - **Rocoto De La Selvas (Rojo)**
 - **Rocoto De Seda (Chile)**
 - **Rocoto Ecuadorian Red**
+- **Rocoto Giant Mexican Red**
 - **Rocoto Guatemalan Orange**
 - **Rocoto La Palma**
 - **Rocoto La Paz**

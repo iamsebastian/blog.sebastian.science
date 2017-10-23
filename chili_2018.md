@@ -1,0 +1,35 @@
+---
+layout: post
+title: Chilis 2018
+permalink: /chili_2018/
+date: 2017-10-23 04:45:00
+last-update: 2017-10-23 04:45:00
+categories: chili
+image: https://unsplash.it/2000/1200?image=602
+image-sm: https://unsplash.it/500/300?image=602
+---
+
+> Chili Listing für 2018
+
+<ul class="alpha-list-style">
+{% for chili in site.data.chili_2018 %}
+{% assign name = chili[0] %}
+{% assign props = chili[1] %}
+{% assign c = site.data.chili[name] %}
+  <li>
+    {{ c.species }}: <b>{{ name }}</b>
+    <!--
+       -{% for s in props.seeds %}
+       -  {{ s.sown }}
+       -{% endfor %}
+       -->
+  </li>
+{% endfor %}
+</ul>
+
+<code>
+[table]
+[tr] [th]Gattung[/th] [th]Sortenname[/th] [th](reife) Farbe[/th] [th]Schärfe[/th] [th]gesät am[/th] [th]gekeimt am[/th] [/tr]
+{% for chili in site.data.chili_2018 %} {% assign name = chili[0] %} {% assign props = chili[1] %} {% assign c = site.data.chili[name] %} {% unless props.seeds %} [tr] [td]{{ c.species }}[/td] [td]{{ name }}[/td] [td]{{ c.color }}[/td] [td]{{ c.heat }}[/td] [/tr] {% else %} {% for s in props.seeds %} [tr] [td]{{ c.species }}[/td] [td]{{ name }}[/td] [td]{{ c.color }}[/td] [td]{{ c.heat }}[/td] [td]{{ s.sown }}[/td] [td]{{ s.sprout }}[/td] [/tr] {% endfor %} {% endunless %} {% endfor %}
+[/table]
+</code>
