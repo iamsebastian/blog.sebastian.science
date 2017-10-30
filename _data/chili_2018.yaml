@@ -15,6 +15,8 @@ Tazmanian Black:
 Aji Blanco Cristal:
 Aji Jaguar:
   multi: 3
+  seeds:
+    - sown: 2017-10-27
 Aji Panca:
 Aji Pineapple:
 Barra do Ribeiro:
@@ -34,6 +36,8 @@ Ulupica Extra Large F3:
 
 #### C.chinense:
 Aji Umba Yellow:
+  seeds:
+    - sown: 2017-10-27
 Aribibi 8R2Y1W:
   multi: 8
 Aribibi Gusano:
@@ -42,6 +46,7 @@ Fatalii:
 Fatalii Green:
 Maraba:
 Robertos Cuban Seasoning:
+Tabia Ecuador:
 Teapot Orange:
 
 #### C.frustescens:
@@ -52,10 +57,16 @@ Rocoto Aji Largo:
 Rocoto Aji Oro:
 Rocoto Big Apple:
 Rocoto Brown Mini:
+  seeds:
+    - sown: 2017-10-27
 Rocoto CAP363:
 Rocoto CAP468:
+  seeds:
+    - sown: 2017-10-27
 Rocoto Canario:
 Rocoto Costa Rican orange:
+  seeds:
+    - sown: 2017-10-27
 Rocoto Cuencano:
 Rocoto De La Selvas (Rojo):
 Rocoto De Seda (Chile):
@@ -63,11 +74,18 @@ Rocoto Ecuadorian Red:
 Rocoto Giant Mexican Red:
   seeds:
     - sown: 2017-10-20
+      #sprouted: 2017-11-
     - sown: 2017-10-20
 Rocoto Guatemalan Orange:
+  seeds:
+    - sown: 2017-10-27
 Rocoto La Palma:
 Rocoto La Paz:
+  seeds:
+    - sown: 2017-10-27
 Rocoto Marlene:
+  seeds:
+    - sown: 2017-10-27
 Rocoto Mini Orange (PI 387838? / eq. Locato?):
 Rocoto Montufar (PI 585271):
 Rocoto Peron:
@@ -82,8 +100,14 @@ Rocoto Peru Cuzco Red:
 Rocoto Peru Cuzco Yellow:
 Rocoto Peru Puno Marki:
 Rocoto Pineapple:
+  seeds:
+    - sown: 2017-10-27
 Rocoto RBB:
+  seeds:
+    - sown: 2017-10-27
 Rocoto Rio Huallaga:
+  seeds:
+    - sown: 2017-10-27
 Rocoto San Isidro:
 Rocoto Santa Natalia:
 Rocoto São Sebastião da Madeira:
