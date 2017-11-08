@@ -1,4 +1,5 @@
 #### C.annuum:
+Aji Cachuchua Purple Splotch:
 Fish Pepper:
 Guntur Chili 237:
 Guntur Sannam S4:
@@ -6,6 +7,8 @@ Guntur Teja:
 Jalapeño Brown:
 Jalapeño Variegated:
 Mustafa:
+Nocturne:
+Sweet Chocolate:
 Tazmanian Black:
 
 #### C.baccatum
@@ -14,6 +17,7 @@ Aji Jaguar:
   seeds:
     - sown: 2017-10-27
       sprout: 2017-11-03
+Aji Mochero:
 Aji Panca:
 Aji Pineapple:
 Barra do Ribeiro:
@@ -24,6 +28,7 @@ Lemon Drop:
 Little Bird Of Guyana:
 Moranguinho (CP-341):
 Nepalese Bell:
+PI 585239:
 Sugar Rush Peach:
 Tepin x Lemon Drop F5:
 
@@ -39,6 +44,7 @@ Aribibi 8R2Y1W:
 Aribibi Gusano:
 Fatalii:
 Fatalii Green:
+Habanada:
 Maraba:
 Robertos Cuban Seasoning:
 Tabia Ecuador:
@@ -103,17 +109,22 @@ Rocoto Peru:
   seeds:
     - sown: 2017-11-08
 Rocoto Peru 8969:
+  seeds:
     - sown: 2017-10-27
 Rocoto Peru 8974:
+  seeds:
     - sown: 2017-10-27
       sprout: 2017-11-04
 Rocoto Peru 8976:
+  seeds:
     - sown: 2017-10-27
       sprout: 2017-11-04
 Rocoto Peru 8977:
+  seeds:
     - sown: 2017-10-27
       sprout: 2017-11-04
 Rocoto Peru 8979:
+  seeds:
     - sown: 2017-10-27
       sprout: 2017-11-03
 Rocoto Peru Bitdumi:

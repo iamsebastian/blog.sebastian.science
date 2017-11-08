@@ -1,4 +1,8 @@
 #### C.annuum:
+Aji Cachuchua Purple Splotch:
+  color: rot
+  heat: 0
+  species: Capsicum annuum
 Fish Pepper:
   color: rot
   heat: 4
@@ -27,6 +31,14 @@ Mustafa:
   color: rot
   heat: 0
   species: Capsicum annuum
+Nocturne:
+  color: dunkelrot
+  heat: 0
+  species: Capsicum annuum
+Sweet Chocolate:
+  color: braun
+  heat: 0
+  species: Capsicum annuum
 Tazmanian Black:
   color: rot
   heat: 6
@@ -39,6 +51,10 @@ Aji Blanco Cristal:
   species: Capsicum baccatum
 Aji Jaguar:
   color: weiß-gelb
+  heat:
+  species: Capsicum baccatum
+Aji Mochero:
+  color: gelb
   heat:
   species: Capsicum baccatum
 Aji Panca:
@@ -81,6 +97,10 @@ Nepalese Bell:
   color: rot
   heat: 5
   species: Capsicum baccatum
+PI 585239:
+  color: rot
+  heat:
+  species: Capsicum baccatum
 Sugar Rush Peach:
   color: orange
   heat: 4
@@ -116,6 +136,10 @@ Fatalii:
 Fatalii Green:
   color: gelb-grün
   heat: 4
+  species: Capsicum chinense
+Habanada:
+  color: orange
+  heat: 0
   species: Capsicum chinense
 Maraba:
   color: gelb
@@ -166,6 +190,10 @@ Rocoto CAP468:
   heat:
   species: Capsicum pubescens
 Rocoto Canario:
+  color: gelb
+  heat: 8
+  species: Capsicum pubescens
+Rocoto Costa Rican yellow:
   color: gelb
   heat: 8
   species: Capsicum pubescens
