@@ -1,22 +1,19 @@
 #### C.annuum:
 Fish Pepper:
-  multi: 2
 Guntur Chili 237:
 Guntur Sannam S4:
 Guntur Teja:
 Jalapeño Brown:
-  multi: 2
 Jalapeño Variegated:
-  multi: 2
 Mustafa:
 Tazmanian Black:
 
 #### C.baccatum
 Aji Blanco Cristal:
 Aji Jaguar:
-  multi: 3
   seeds:
     - sown: 2017-10-27
+      sprout: 2017-11-03
 Aji Panca:
 Aji Pineapple:
 Barra do Ribeiro:
@@ -25,7 +22,6 @@ Brasilieros Tres Lobos:
 El Oro de Ecuador:
 Lemon Drop:
 Little Bird Of Guyana:
-  multi: 3
 Moranguinho (CP-341):
 Nepalese Bell:
 Sugar Rush Peach:
@@ -38,10 +34,9 @@ Ulupica Extra Large F3:
 Aji Umba Yellow:
   seeds:
     - sown: 2017-10-27
+      sprout: 2017-11-03
 Aribibi 8R2Y1W:
-  multi: 8
 Aribibi Gusano:
-  multi: 2
 Fatalii:
 Fatalii Green:
 Maraba:
@@ -54,63 +49,104 @@ Birds Eye:
 
 #### C.pubescens:
 Rocoto Aji Largo:
+  seeds:
+    - sown: 2017-11-08
 Rocoto Aji Oro:
 Rocoto Big Apple:
 Rocoto Brown Mini:
   seeds:
     - sown: 2017-10-27
+    - sown: 2017-11-04
 Rocoto CAP363:
 Rocoto CAP468:
   seeds:
     - sown: 2017-10-27
 Rocoto Canario:
-Rocoto Costa Rican orange:
+Rocoto Costa Rican yellow:
   seeds:
     - sown: 2017-10-27
+Rocoto Costa Rican orange:
+  seeds:
+    - sown: 2017-11-08
 Rocoto Cuencano:
+  seeds:
+    - sown: 2017-11-08
 Rocoto De La Selvas (Rojo):
 Rocoto De Seda (Chile):
+  seeds:
+    - sown: 2017-11-08
 Rocoto Ecuadorian Red:
 Rocoto Giant Mexican Red:
   seeds:
     - sown: 2017-10-20
-      #sprout: 2017-11-
     - sown: 2017-10-20
 Rocoto Guatemalan Orange:
   seeds:
     - sown: 2017-10-27
+      sprout: 2017-11-04
 Rocoto La Palma:
 Rocoto La Paz:
   seeds:
     - sown: 2017-10-27
+      sprout: 2017-11-03
 Rocoto Marlene:
   seeds:
     - sown: 2017-10-27
 Rocoto Mini Orange (PI 387838? / eq. Locato?):
+  seeds:
+    - sown: 2017-11-08
 Rocoto Montufar (PI 585271):
 Rocoto Peron:
+  seeds:
+    - sown: 2017-11-08
 Rocoto Peru:
+  seeds:
+    - sown: 2017-11-08
 Rocoto Peru 8969:
+    - sown: 2017-10-27
 Rocoto Peru 8974:
+    - sown: 2017-10-27
+      sprout: 2017-11-04
 Rocoto Peru 8976:
+    - sown: 2017-10-27
+      sprout: 2017-11-04
 Rocoto Peru 8977:
+    - sown: 2017-10-27
+      sprout: 2017-11-04
 Rocoto Peru 8979:
+    - sown: 2017-10-27
+      sprout: 2017-11-03
 Rocoto Peru Bitdumi:
+  seeds:
+    - sown: 2017-11-08
 Rocoto Peru Cuzco Red:
+  seeds:
+    - sown: 2017-11-08
 Rocoto Peru Cuzco Yellow:
 Rocoto Peru Puno Marki:
+  seeds:
+    - sown: 2017-11-08
 Rocoto Pineapple:
   seeds:
     - sown: 2017-10-27
 Rocoto RBB:
   seeds:
     - sown: 2017-10-27
+      sprout: 2017-11-03
 Rocoto Rio Huallaga:
   seeds:
     - sown: 2017-10-27
 Rocoto San Isidro:
+  seeds:
+    - sown: 2017-11-08
 Rocoto Santa Natalia:
 Rocoto São Sebastião da Madeira:
+  seeds:
+    - sown: 2017-11-08
 Rocoto Sukanya:
 Rocoto Turbo Pube Yellow (PI 585268):
+  seeds:
+    - sown: 2017-11-08
 Rocoto Ultra Pube Red (PI 585261):
+  seeds:
+    - sown: 2017-11-08
