@@ -12,6 +12,7 @@ Sweet Chocolate:
 Tazmanian Black:
 
 #### C.baccatum
+Aji Ahuachapan:
 Aji Blanco Cristal:
 Aji Jaguar:
   seeds:
@@ -36,10 +37,13 @@ Tepin x Lemon Drop F5:
 Ulupica Extra Large F3:
 
 #### C.chinense:
-Aji Umba Yellow:
+Aji Charapita Red:
   seeds:
-    - sown: 2017-10-27
-      sprout: 2017-11-03
+    - sown: 2017-11-08
+      sprout: 2017-11-18
+    - sown: 2017-11-08
+      sprout: 2017-11-18
+Aji Umba Yellow:
 Aribibi 8R2Y1W:
 Aribibi Gusano:
 Fatalii:
@@ -92,16 +96,17 @@ Rocoto Guatemalan Orange:
       sprout: 2017-11-04
 Rocoto La Palma:
 Rocoto La Paz:
-  seeds:
-    - sown: 2017-10-27
-      sprout: 2017-11-03
 Rocoto Marlene:
   seeds:
     - sown: 2017-10-27
+      sprout: 2017-11-16
 Rocoto Mini Orange (PI 387838? / eq. Locato?):
   seeds:
     - sown: 2017-11-08
 Rocoto Montufar (PI 585271):
+  seeds:
+    - sown: 2017-11-08
+      sprout: 2017-11-16
 Rocoto Peron:
   seeds:
     - sown: 2017-11-08
@@ -142,8 +147,8 @@ Rocoto Pineapple:
     - sown: 2017-10-27
 Rocoto RBB:
   seeds:
-    - sown: 2017-10-27
-      sprout: 2017-11-03
+    - sown: 2017-11-01
+      sprout: 2017-11-16
 Rocoto Rio Huallaga:
   seeds:
     - sown: 2017-10-27
