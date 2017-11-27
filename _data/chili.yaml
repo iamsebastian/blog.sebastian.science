@@ -45,6 +45,10 @@ Tazmanian Black:
   species: Capsicum annuum
 
 #### C.baccatum
+Aji Ahuachapan:
+  color: orange
+  heat: 5
+  species: Capsicum baccatum
 Aji Blanco Cristal:
   color: weiß
   heat: 3
@@ -117,6 +121,10 @@ Ulupica Extra Large F3:
   species: Capsicum cardenasii
 
 #### C.chinense:
+Aji Charapita Red:
+  color: rot
+  heat: 10
+  species: Capsicum chinense
 Aji Umba Yellow:
   color: gelb
   heat: 9
