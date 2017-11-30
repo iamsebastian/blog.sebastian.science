@@ -176,12 +176,14 @@ Robertos Cuban Seasoning:
 Scotch Bonnet Allen Boatman TF:
   color: orange
   heat: 9
-  info: I got these from my friend John B. in the UK. I don't know Allen but he has an amazing bonnet variety with this one. The shapes were very nice throughout the plant. Pods were very thick walled and meaty and had that classic yellow scotch bonnet tasty. This one along with the Schneider Farms and the WHP bonnets are the three most consistent bonnet shaped plants I have ever grown. One of my favorites for sure.
+  info: |
+    I got these from my friend John B. in the UK. I don't know Allen but he has an amazing bonnet variety with this one. The shapes were very nice throughout the plant. Pods were very thick walled and meaty and had that classic yellow scotch bonnet tasty. This one along with the Schneider Farms and the WHP bonnets are the three most consistent bonnet shaped plants I have ever grown. One of my favorites for sure.
   species: Capsicum chinense
 Scotch Bonnet WHP II:
   color: yellow
   heat: 9
-  info: Description: This is another cross from a red MOA bonnet. From my original acquisition of red moa seeds several years ago I got 3 pheno types all of which I believe were crosses or off phenos from the original cross that created the red moa. One was a very large red bonnet shaped pod. In growing out some of those seeds this year, I got this pheno. Its a very nicely shaped yellow pod. These were quit hot and had that typical yellow bonnet taste. I would expect these to be much less stable than my other WHP bonnets that I have been growing consistently for 3 years now. This one is quite unique and for those who are willing to take the challenge this one might present as far as stability goes I have made these available to them.
+  info: |
+    Description: This is another cross from a red MOA bonnet. From my original acquisition of red moa seeds several years ago I got 3 pheno types all of which I believe were crosses or off phenos from the original cross that created the red moa. One was a very large red bonnet shaped pod. In growing out some of those seeds this year, I got this pheno. Its a very nicely shaped yellow pod. These were quit hot and had that typical yellow bonnet taste. I would expect these to be much less stable than my other WHP bonnets that I have been growing consistently for 3 years now. This one is quite unique and for those who are willing to take the challenge this one might present as far as stability goes I have made these available to them.
 Tabia Ecuador:
   color: beige
   heat: 10
@@ -193,7 +195,8 @@ Teapot Orange:
 WHP 019:
   color: orange
   heat: 9
-  info: A nature cross between a Scotch Brains long and a BBG variant. These are super tasty little yellow pods with a bleeding bbg calyx. Heat is habanero level or less.
+  info: |
+    A nature cross between a Scotch Brains long and a BBG variant. These are super tasty little yellow pods with a bleeding bbg calyx. Heat is habanero level or less.
   species: Capsicum chinense
 
 #### C.frustescens:
