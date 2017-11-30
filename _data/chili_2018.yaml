@@ -14,19 +14,31 @@ Tazmanian Black:
 #### C.baccatum
 Aji Ahuachapan:
 Aji Blanco Cristal:
+  seeds:
+    - sown: 2017-11-29
 Aji Jaguar:
   seeds:
     - sown: 2017-10-27
       sprout: 2017-11-03
 Aji Panca:
+  seeds:
+    - sown: 2017-11-29
 Aji Pineapple:
+  seeds:
+    - sown: 2017-11-29
 Barra do Ribeiro:
+  seeds:
+    - sown: 2017-11-29
 Bishops Crown:
+  seeds:
+    - sown: 2017-11-29
 Brasilieros Tres Lobos:
   seeds:
     - sown: 2017-11-22
       sprout: 2017-11-27
 El Oro de Ecuador:
+  seeds:
+    - sown: 2017-11-29
 Lemon Drop:
 Little Bird Of Guyana:
   seeds:
@@ -35,7 +47,11 @@ Little Bird Of Guyana:
     - sown: 2017-11-22
       sprout: 2017-11-27
 Moranguinho (CP-341):
+  seeds:
+    - sown: 2017-11-29
 Nepalese Bell:
+  seeds:
+    - sown: 2017-11-29
 PI 585239:
   seeds:
     - sown: 2017-11-22
@@ -74,15 +90,22 @@ Fatalii:
   seeds:
     - sown: 2017-11-22
 Fatalii Green:
+  seeds:
+    - sown: 2017-11-29
+    - sown: 2017-11-29
 Habanada:
   seeds:
     - sown: 2017-11-22
 Maraba:
 Robertos Cuban Seasoning:
+  seeds:
+    - sown: 2017-11-29
 Tabia Ecuador:
   seeds:
     - sown: 2017-11-22
 Teapot Orange:
+  seeds:
+    - sown: 2017-11-29
 
 #### C.frustescens:
 Birds Eye:
