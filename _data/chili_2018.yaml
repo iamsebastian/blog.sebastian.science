@@ -1,6 +1,11 @@
 #### C.annuum:
 Aji Cachuchua Purple Splotch:
+  seeds:
+    - sown: 2017-12-06
 Fish Pepper:
+  seeds:
+    - sown: 2017-12-06
+    - sown: 2017-12-06
 Guntur Chili 237:
 Guntur Sannam S4:
 Guntur Teja:
@@ -13,6 +18,8 @@ Tazmanian Black:
 
 #### C.baccatum
 Aji Ahuachapan:
+  seeds:
+    - sown: 2017-12-06
 Aji Blanco Cristal:
   seeds:
     - sown: 2017-11-29
@@ -63,12 +70,19 @@ Sugar Rush Peach:
     - sown: 2017-11-22
       sprout: 2017-11-27
 Tepin x Lemon Drop F5:
+  seeds:
+    - sown: 2017-12-06
 
 #### C.cardenasii
 Ulupica Extra Large F3:
+  seeds:
+    - sown: 2017-12-06
 
 #### C.chinense:
 Aji Cachucha:
+  seeds:
+    - sown: 2017-12-06
+    - sown: 2017-12-06
 Aji Charapita Red:
   seeds:
     - sown: 2017-11-08
@@ -91,6 +105,9 @@ Aribibi 8R2Y1W:
       sprout: 2017-11-28
 Aribibi Gusano:
 Dynamite:
+  seeds:
+    - sown: 2017-12-06
+    - sown: 2017-12-06
 Fatalii:
   seeds:
     - sown: 2017-11-22
@@ -103,10 +120,20 @@ Habanada:
     - sown: 2017-11-22
 Maraba:
 Peito De Moca:
+  seeds:
+    - sown: 2017-12-06
+    - sown: 2017-12-06
 Pimenta Diomar:
+  seeds:
+    - sown: 2017-12-06
+    - sown: 2017-12-06
 Robertos Cuban Seasoning:
   seeds:
     - sown: 2017-11-29
+Rocato:
+  seeds:
+    - sown: 2017-12-06
+    - sown: 2017-12-06
 Scotch Bonnet Allen Boatman TF:
 Scotch Bonnet WHP II:
 Tabia Ecuador:

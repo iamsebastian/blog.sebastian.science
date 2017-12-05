@@ -173,6 +173,10 @@ Robertos Cuban Seasoning:
   color: rot
   heat:
   species: Capsicum chinense
+Rocato:
+  color: rot
+  heat: 6
+  species: Capsicum chinense
 Scotch Bonnet Allen Boatman TF:
   color: orange
   heat: 9
