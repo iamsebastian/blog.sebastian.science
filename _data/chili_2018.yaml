@@ -1,16 +1,15 @@
 #### C.annuum:
 Aji Cachuchua Purple Splotch:
   seeds:
-    - sown: 2017-12-06
 Fish Pepper:
   seeds:
-    - sown: 2017-12-06
-    - sown: 2017-12-06
 Guntur Chili 237:
 Guntur Sannam S4:
 Guntur Teja:
 Jalapeño Brown:
 Jalapeño Variegated:
+  seeds:
+    - sown: 2017-12-12
 Mustafa:
 Nocturne:
 Sweet Chocolate:
@@ -19,7 +18,7 @@ Tazmanian Black:
 #### C.baccatum
 Aji Ahuachapan:
   seeds:
-    - sown: 2017-12-06
+    - sown: 2017-12-12
 Aji Blanco Cristal:
   seeds:
     - sown: 2017-11-29
@@ -71,18 +70,17 @@ Sugar Rush Peach:
       sprout: 2017-11-27
 Tepin x Lemon Drop F5:
   seeds:
-    - sown: 2017-12-06
+    - sown: 2017-12-12
 
 #### C.cardenasii
 Ulupica Extra Large F3:
   seeds:
-    - sown: 2017-12-06
+    - sown: 2017-11-22
 
 #### C.chinense:
 Aji Cachucha:
   seeds:
-    - sown: 2017-12-06
-    - sown: 2017-12-06
+    - sown: 2017-12-12
 Aji Charapita Red:
   seeds:
     - sown: 2017-11-08
@@ -106,8 +104,7 @@ Aribibi 8R2Y1W:
 Aribibi Gusano:
 Dynamite:
   seeds:
-    - sown: 2017-12-06
-    - sown: 2017-12-06
+    - sown: 2017-12-12
 Fatalii:
   seeds:
     - sown: 2017-11-22
@@ -118,24 +115,28 @@ Fatalii Green:
 Habanada:
   seeds:
     - sown: 2017-11-22
+      sprout: 2017-12-12
 Maraba:
 Peito De Moca:
   seeds:
-    - sown: 2017-12-06
-    - sown: 2017-12-06
+    - sown: 2017-12-12
 Pimenta Diomar:
   seeds:
-    - sown: 2017-12-06
-    - sown: 2017-12-06
+    - sown: 2017-12-12
 Robertos Cuban Seasoning:
   seeds:
     - sown: 2017-11-29
 Rocato:
   seeds:
-    - sown: 2017-12-06
-    - sown: 2017-12-06
+    - sown: 2017-12-12
 Scotch Bonnet Allen Boatman TF:
+    - sown: 2017-12-12
+    - sown: 2017-12-12
+    - sown: 2017-12-12
 Scotch Bonnet WHP II:
+    - sown: 2017-12-12
+    - sown: 2017-12-12
+    - sown: 2017-12-12
 Tabia Ecuador:
   seeds:
     - sown: 2017-11-22
@@ -143,6 +144,9 @@ Teapot Orange:
   seeds:
     - sown: 2017-11-29
 WHP 019:
+    - sown: 2017-12-12
+    - sown: 2017-12-12
+    - sown: 2017-12-12
 
 #### C.frustescens:
 Birds Eye:
@@ -200,7 +204,6 @@ Rocoto Marlene:
 Rocoto Mini Orange (PI 387838? / eq. Locato?):
   seeds:
     - sown: 2017-11-08
-      sprout: 2017-11-27
 Rocoto Montufar (PI 585271):
   seeds:
     - sown: 2017-11-08
@@ -240,7 +243,6 @@ Rocoto Peru 8979:
 Rocoto Peru Bitdumi:
   seeds:
     - sown: 2017-11-08
-      sprout: 2017-11-27
 Rocoto Peru Cuzco Red:
   seeds:
     - sown: 2017-11-08
