@@ -35,6 +35,10 @@ Nocturne:
   color: dunkelrot
   heat: 0
   species: Capsicum annuum
+Serrano Purple:
+  color: violett
+  heat: 6
+  species: Capsicum annuum
 Sweet Chocolate:
   color: braun
   heat: 0

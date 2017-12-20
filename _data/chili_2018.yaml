@@ -10,8 +10,13 @@ Jalapeño Brown:
 Jalapeño Variegated:
   seeds:
     - sown: 2017-12-12
+      sprout: 2017-12-20
 Mustafa:
 Nocturne:
+Serrano Purple:
+  seeds:
+    - sown: 2017-12-12
+      sprout: 2017-12-20
 Sweet Chocolate:
 Tazmanian Black:
 
@@ -22,6 +27,7 @@ Aji Ahuachapan:
 Aji Blanco Cristal:
   seeds:
     - sown: 2017-11-29
+      sprout: 2017-12-13
 Aji Jaguar:
   seeds:
     - sown: 2017-10-27
@@ -29,15 +35,18 @@ Aji Jaguar:
 Aji Panca:
   seeds:
     - sown: 2017-11-29
+      sprout: 2017-12-13
 Aji Pineapple:
   seeds:
     - sown: 2017-11-29
+      sprout: 2017-12-13
 Barra do Ribeiro:
   seeds:
     - sown: 2017-11-29
 Bishops Crown:
   seeds:
     - sown: 2017-11-29
+      sprout: 2017-12-13
 Brasilieros Tres Lobos:
   seeds:
     - sown: 2017-11-22
@@ -45,6 +54,7 @@ Brasilieros Tres Lobos:
 El Oro de Ecuador:
   seeds:
     - sown: 2017-11-29
+      sprout: 2017-12-13
 Lemon Drop:
 Little Bird Of Guyana:
   seeds:
@@ -55,6 +65,7 @@ Little Bird Of Guyana:
 Moranguinho (CP-341):
   seeds:
     - sown: 2017-11-29
+      sprout: 2017-12-13
 Nepalese Bell:
   seeds:
     - sown: 2017-11-29
@@ -81,6 +92,7 @@ Ulupica Extra Large F3:
 Aji Cachucha:
   seeds:
     - sown: 2017-12-12
+      sprout: 2017-12-20
 Aji Charapita Red:
   seeds:
     - sown: 2017-11-08
@@ -111,7 +123,9 @@ Fatalii:
 Fatalii Green:
   seeds:
     - sown: 2017-11-29
+      sprout: 2017-12-13
     - sown: 2017-11-29
+      sprout: 2017-12-13
 Habanada:
   seeds:
     - sown: 2017-11-22
@@ -131,11 +145,14 @@ Rocato:
     - sown: 2017-12-12
 Scotch Bonnet Allen Boatman TF:
     - sown: 2017-12-12
+      sprout: 2017-12-20
     - sown: 2017-12-12
     - sown: 2017-12-12
 Scotch Bonnet WHP II:
     - sown: 2017-12-12
+      sprout: 2017-12-20
     - sown: 2017-12-12
+      sprout: 2017-12-20
     - sown: 2017-12-12
 Tabia Ecuador:
   seeds:
