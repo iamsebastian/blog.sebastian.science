@@ -177,6 +177,7 @@ Pimenta Diomar:
   #seeds:
     #- sown: 2017-12-12
 Scotch Bonnet Allen Boatman TF:
+  seeds:
     - sown: 2017-12-12
       sprout: 2017-12-20
     - sown: 2017-12-12
@@ -186,6 +187,7 @@ Scotch Bonnet Allen Boatman TF:
     - sown: 2017-12-12
       sprout: 2017-12-22
 Scotch Bonnet WHP II:
+  seeds:
     - sown: 2017-12-12
       sprout: 2017-12-20
     - sown: 2017-12-12
@@ -199,6 +201,7 @@ Scotch Bonnet WHP II:
   #seeds:
     #- sown: 2017-11-29
 WHP 019:
+  seeds:
     - sown: 2017-12-12
       sprout: 2017-12-22
     - sown: 2017-12-12
