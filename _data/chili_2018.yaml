@@ -24,6 +24,7 @@ Guntur Teja:
     - sown: 2018-01-08
       sprout: 2018-01-12
 Jalapeño Brown:
+  seeds:
     - sown: 2018-01-08
       sprout: 2018-01-12
     - sown: 2018-01-08
@@ -252,5 +253,3 @@ Rocoto Rio Huallaga:
   seeds:
     - sown: 2017-10-27
       sprout: 2017-11-04
-    - sown: 2017-10-27
-      sprout: 2017-12-01
