@@ -1,7 +1,17 @@
+#### unknown species:
+Ziegenpeter:
+  color:
+  heat:
+  species:
+
 #### C.annuum:
 Aji Cachuchua Purple Splotch:
   color: rot
   heat: 0
+  species: Capsicum annuum
+Black Cobra:
+  color: rot
+  heat: 7
   species: Capsicum annuum
 Fish Pepper:
   color: rot
@@ -46,6 +56,10 @@ Sweet Chocolate:
 Tazmanian Black:
   color: rot
   heat: 6
+  species: Capsicum annuum
+Tricolor Variegata:
+  color: rot
+  heat: 5
   species: Capsicum annuum
 Violet Lantern:
   color: rot
@@ -168,6 +182,10 @@ Habanada:
 Maraba:
   color: gelb
   heat: 9
+  species: Capsicum chinense
+PdN x D 1.1:
+  color: rot
+  heat: 10
   species: Capsicum chinense
 Peito De Moca:
   color: rot

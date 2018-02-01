@@ -1,47 +1,70 @@
-#### C.annuum:
-Aji Cachuchua Purple Splotch:
+#### unknown species:
+Ziegenpeter:
   seeds:
+    - sown: 2018-01-31
+
+#### C.annuum:
+Black Cobra:
+  seeds:
+    - sown: 2018-01-31
 Fish Pepper:
   seeds:
     - sown: 2018-01-08
-    - sown: 2018-01-08
+      sprout: 2018-01-12
 Guntur Chili 237:
   seeds:
     - sown: 2018-01-08
+      sprout: 2018-01-12
 Guntur Sannam S4:
   seeds:
     - sown: 2018-01-08
+      sprout: 2018-01-12
 Guntur Teja:
   seeds:
     - sown: 2018-01-08
+      sprout: 2018-01-12
 Jalapeño Brown:
+    - sown: 2018-01-08
+      sprout: 2018-01-12
+    - sown: 2018-01-08
+      sprout: 2018-01-12
+    - sown: 2018-01-08
+      sprout: 2018-01-12
 Jalapeño Variegated:
   seeds:
     - sown: 2017-12-12
       sprout: 2017-12-20
-Mustafa:
-Nocturne:
+Royal Black:
+  seeds:
+    - sown: 2018-01-08
+      sprout: 2018-01-12
+    - sown: 2018-01-08
+      sprout: 2018-01-12
 Serrano Purple:
   seeds:
     - sown: 2017-12-12
       sprout: 2017-12-20
     - sown: 2018-01-08
+      sprout: 2018-01-12
     - sown: 2018-01-08
-Sweet Chocolate:
-#Tazmanian Black:
+      sprout: 2018-01-12
+Tricolor Variegata:
+  seeds:
+    - sown: 2018-01-31
 Violet Lantern:
   seeds:
     - sown: 2018-01-08
+      sprout: 2018-01-12
     - sown: 2018-01-08
+      sprout: 2018-01-12
 
 #### C.baccatum
 Aji Ahuachapan:
   seeds:
     - sown: 2017-12-12
+      sprout: 2017-12-20
 Aji Blanco Cristal:
   seeds:
-    - sown: 2017-11-29
-      sprout: 2017-12-13
     - sown: 2017-11-29
       sprout: 2017-12-13
 Aji Jaguar:
@@ -58,9 +81,6 @@ Aji Pineapple:
       sprout: 2017-12-13
     - sown: 2017-11-29
       sprout: 2017-12-13
-#Barra do Ribeiro:
-  #seeds:
-    #- sown: 2017-11-29
 Bishops Crown:
   seeds:
     - sown: 2017-11-29
@@ -79,16 +99,10 @@ Little Bird Of Guyana:
   seeds:
     - sown: 2017-11-22
       sprout: 2017-11-27
-    - sown: 2017-11-22
-      sprout: 2017-11-27
-      died: 2017-12-20
 Moranguinho (CP-341):
   seeds:
     - sown: 2017-11-29
       sprout: 2017-12-13
-#Nepalese Bell:
-  #seeds:
-    #- sown: 2017-11-29
 PI 585239:
   seeds:
     - sown: 2017-11-22
@@ -106,11 +120,6 @@ Tepin x Lemon Drop F5:
     - sown: 2017-12-12
       sprout: 2017-12-20
 
-#### C.cardenasii
-#Ulupica Extra Large F3:
-  #seeds:
-    #- sown: 2017-11-22
-
 #### C.chinense:
 Aji Cachucha:
   seeds:
@@ -122,14 +131,6 @@ Aji Charapita Red:
   seeds:
     - sown: 2017-11-08
       sprout: 2017-11-14
-    - sown: 2017-11-08
-      sprout: 2017-11-14
-      died: 2018-01-01
-      extra: Beim Sohn vertrocknet
-#Aji Mochero:
-  #seeds:
-    #- sown: 2017-11-22
-#Aji Umba Yellow:
 Aribibi 8R2Y1W:
   seeds:
     - sown: 2017-11-22
@@ -140,7 +141,6 @@ Aribibi 8R2Y1W:
       sprout: 2017-11-28
     - sown: 2017-11-22
       sprout: 2017-11-28
-#Aribibi Gusano:
 Dynamite:
   seeds:
     - sown: 2017-12-12
@@ -159,7 +159,9 @@ Habanada:
   seeds:
     - sown: 2017-11-22
       sprout: 2017-12-12
-#Maraba:
+PdN x D 1.1:
+  seeds:
+    - sown: 2018-01-31
 Peito De Moca:
   seeds:
     - sown: 2017-12-12
@@ -170,12 +172,6 @@ Pimenta Diomar:
       sprout: 2017-12-20
     - sown: 2017-12-12
       sprout: 2017-12-20
-#Robertos Cuban Seasoning:
-  #seeds:
-    #- sown: 2017-11-29
-#Rocato:
-  #seeds:
-    #- sown: 2017-12-12
 Scotch Bonnet Allen Boatman TF:
   seeds:
     - sown: 2017-12-12
@@ -194,12 +190,6 @@ Scotch Bonnet WHP II:
       sprout: 2017-12-20
     - sown: 2017-12-12
       sprout: 2017-12-20
-#Tabia Ecuador:
-  #seeds:
-    #- sown: 2017-11-22
-#Teapot Orange:
-  #seeds:
-    #- sown: 2017-11-29
 WHP 019:
   seeds:
     - sown: 2017-12-12
@@ -209,77 +199,29 @@ WHP 019:
     - sown: 2017-12-12
       sprout: 2017-12-22
 
-#### C.frustescens:
-#Birds Eye:
-
 #### C.pubescens:
 Rocoto Aji Largo:
   seeds:
     - sown: 2017-11-08
       sprout: 2017-11-20
-#Rocoto Aji Oro:
-#Rocoto Big Apple:
-#Rocoto Brown Mini:
-  #seeds:
-    #- sown: 2017-10-27
-    #- sown: 2017-11-04
-#Rocoto CAP363:
-#Rocoto CAP468:
-  #seeds:
-    #- sown: 2017-10-27
-#Rocoto Canario:
-#Rocoto Costa Rican yellow:
-  #seeds:
-    #- sown: 2017-10-27
-#Rocoto Costa Rican orange:
-  #seeds:
-    #- sown: 2017-11-08
-#Rocoto Cuencano:
-  #seeds:
-    #- sown: 2017-11-08
 Rocoto De La Selvas (Rojo):
   seeds:
     - sown: 2017-11-08
       sprout: 2017-11-27
-#Rocoto De Seda (Chile):
-  #seeds:
-    #- sown: 2017-11-08
-#Rocoto Ecuadorian Red:
-#Rocoto Giant Mexican Red:
-  #seeds:
-    #- sown: 2017-10-20
-    #- sown: 2017-10-20
 Rocoto Guatemalan Orange:
   seeds:
-    - sown: 2017-10-27
-      sprout: 2017-11-04
-      died: 2017-11-07
     - sown: 2017-11-08
       sprout: 2017-11-20
-#Rocoto La Palma:
-#Rocoto La Paz:
 Rocoto Marlene:
   seeds:
     - sown: 2017-10-27
       sprout: 2017-11-16
-#Rocoto Mini Orange (PI 387838? / eq. Locato?):
-  #seeds:
-    #- sown: 2017-11-08
 Rocoto Montufar (PI 585271):
   seeds:
     - sown: 2017-11-08
       sprout: 2017-11-16
-#Rocoto Peron:
-  #seeds:
-    #- sown: 2017-11-08
-#Rocoto Peru:
-  #seeds:
-    #- sown: 2017-11-08
 Rocoto Peru 8969:
   seeds:
-    - sown: 2017-10-27
-      sprout: 2017-11-03
-      died: 2017-11-06
     - sown: 2017-11-08
       sprout: 2017-11-20
 Rocoto Peru 8974:
@@ -296,21 +238,8 @@ Rocoto Peru 8977:
       sprout: 2017-11-04
 Rocoto Peru 8979:
   seeds:
-    - sown: 2017-10-27
-      sprout: 2017-11-03
-      died: 2017-11-06
     - sown: 2017-11-08
       sprout: 2017-11-20
-#Rocoto Peru Bitdumi:
-  #seeds:
-    #- sown: 2017-11-08
-#Rocoto Peru Cuzco Red:
-  #seeds:
-    #- sown: 2017-11-08
-#Rocoto Peru Cuzco Yellow:
-#Rocoto Peru Puno Marki:
-  #seeds:
-    #- sown: 2017-11-08
 Rocoto Pineapple:
   seeds:
     - sown: 2017-10-27
@@ -325,20 +254,3 @@ Rocoto Rio Huallaga:
       sprout: 2017-11-04
     - sown: 2017-10-27
       sprout: 2017-12-01
-#Rocoto San Isidro:
-  #seeds:
-    #- sown: 2017-11-08
-#Rocoto Santa Natalia:
-Rocoto São Sebastião da Madeira:
-  seeds:
-    - sown: 2017-11-08
-      sprout: 2017-11-20
-      extra: Kopflos seit 2017-11-23
-      died: 2017-12-20
-#Rocoto Sukanya:
-#Rocoto Turbo Pube Yellow (PI 585268):
-  #seeds:
-    #- sown: 2017-11-08
-#Rocoto Ultra Pube Red (PI 585261):
-  #seeds:
-    #- sown: 2017-11-08
