@@ -45,6 +45,10 @@ Nocturne:
   color: dunkelrot
   heat: 0
   species: Capsicum annuum
+Royal Black:
+  color: rot
+  heat: 6
+  species: Capsicum annuum
 Serrano Purple:
   color: violett
   heat: 6
