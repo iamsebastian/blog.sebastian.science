@@ -103,9 +103,17 @@ Brasilieros Tres Lobos:
   color: gelb
   heat: 5
   species: Capsicum baccatum
+Dedo De Moca Gigante Gelb:
+  color: gelb
+  heat: 6
+  species: Capsicum baccatum
 El Oro de Ecuador:
   color: gelb
   heat: 7
+  species: Capsicum baccatum
+Jamy:
+  color: orange
+  heat: 6
   species: Capsicum baccatum
 Lemon Drop:
   color: gelb
@@ -126,6 +134,10 @@ Nepalese Bell:
 PI 585239:
   color: rot
   heat:
+  species: Capsicum baccatum
+Santorini Episkopi:
+  color: rot
+  heat: 6
   species: Capsicum baccatum
 Sugar Rush Peach:
   color: orange
@@ -182,6 +194,10 @@ Fatalii Green:
 Habanada:
   color: orange
   heat: 0
+  species: Capsicum chinense
+Habanero Big Sun:
+  color: gelb
+  heat: 9
   species: Capsicum chinense
 Maraba:
   color: gelb

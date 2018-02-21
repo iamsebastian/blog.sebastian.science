@@ -2,11 +2,13 @@
 Ziegenpeter:
   seeds:
     - sown: 2018-01-31
+      sprout: 2018-02-07
 
 #### C.annuum:
 Black Cobra:
   seeds:
     - sown: 2018-01-31
+      sprout: 2018-02-07
 Fish Pepper:
   seeds:
     - sown: 2018-01-08
@@ -52,6 +54,7 @@ Serrano Purple:
 Tricolor Variegata:
   seeds:
     - sown: 2018-01-31
+      sprout: 2018-02-07
 Violet Lantern:
   seeds:
     - sown: 2018-01-08
@@ -90,12 +93,20 @@ Brasilieros Tres Lobos:
   seeds:
     - sown: 2017-11-22
       sprout: 2017-11-27
+Dedo De Moca Gigante Gelb:
+  seeds:
+    - sown: 2017-03-01
+      sprout: 2017-03-08
 El Oro de Ecuador:
   seeds:
     - sown: 2017-11-29
       sprout: 2017-12-13
     - sown: 2017-11-29
       sprout: 2017-12-13
+Jamy:
+  seeds:
+    - sown: 2017-02-01
+      sprout: 2017-02-08
 Little Bird Of Guyana:
   seeds:
     - sown: 2017-11-22
@@ -108,6 +119,12 @@ PI 585239:
   seeds:
     - sown: 2017-11-22
       sprout: 2017-11-27
+Santorini Episkopi:
+  seeds:
+    - sown: 2017-03-01
+      sprout: 2017-03-08
+    - sown: 2017-03-01
+      sprout: 2017-03-08
 Sugar Rush Peach:
   seeds:
     - sown: 2017-11-22
@@ -160,9 +177,14 @@ Habanada:
   seeds:
     - sown: 2017-11-22
       sprout: 2017-12-12
+Habanero Big Sun:
+  seeds:
+    - sown: 2017-03-01
+      sprout: 2017-03-08
 PdN x D 1.1:
   seeds:
     - sown: 2018-01-31
+      sprout: 2018-02-07
 Peito De Moca:
   seeds:
     - sown: 2017-12-12
