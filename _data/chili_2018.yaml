@@ -29,28 +29,39 @@ Jalapeño Brown:
   seeds:
     - sown: 2018-01-08
       sprout: 2018-01-12
+      extra: Abgabe D 2018-03-30
     - sown: 2018-01-08
       sprout: 2018-01-12
+      extra: Abgabe S 2018-03-05
     - sown: 2018-01-08
       sprout: 2018-01-12
 Jalapeño Variegated:
   seeds:
     - sown: 2017-12-12
       sprout: 2017-12-20
+Peter Pepper:
+  seeds:
+    - sown: 2018-01-08
+      sprout: 2018-01-12
+      extra: Abgabe S 2018-03-05
 Royal Black:
   seeds:
     - sown: 2018-01-08
       sprout: 2018-01-12
+      extra: Abgabe D 2018-03-30
     - sown: 2018-01-08
       sprout: 2018-01-12
+      extra: Abgabe S 2018-03-05
 Serrano Purple:
   seeds:
     - sown: 2017-12-12
       sprout: 2017-12-20
     - sown: 2018-01-08
       sprout: 2018-01-12
+      extra: Abgabe D 2018-03-30
     - sown: 2018-01-08
       sprout: 2018-01-12
+      extra: Abgabe S 2018-03-05
 Tricolor Variegata:
   seeds:
     - sown: 2018-01-31
@@ -59,8 +70,10 @@ Violet Lantern:
   seeds:
     - sown: 2018-01-08
       sprout: 2018-01-12
+      extra: Abgabe D 2018-03-30
     - sown: 2018-01-08
       sprout: 2018-01-12
+      extra: Abgabe S 2018-03-05
 
 #### C.baccatum
 Aji Ahuachapan:
@@ -71,6 +84,7 @@ Aji Blanco Cristal:
   seeds:
     - sown: 2017-11-29
       sprout: 2017-12-13
+      extra: Abgabe S 2018-03-05
 Aji Jaguar:
   seeds:
     - sown: 2017-10-27
@@ -85,6 +99,7 @@ Aji Pineapple:
       sprout: 2017-12-13
     - sown: 2017-11-29
       sprout: 2017-12-13
+      extra: Abgabe D 2018-03-30
 Bishops Crown:
   seeds:
     - sown: 2017-11-29
@@ -103,6 +118,7 @@ El Oro de Ecuador:
       sprout: 2017-12-13
     - sown: 2017-11-29
       sprout: 2017-12-13
+      extra: Abgabe D 2018-03-30
 Jamy:
   seeds:
     - sown: 2017-02-01
@@ -131,10 +147,12 @@ Sugar Rush Peach:
       sprout: 2017-11-27
     - sown: 2017-11-22
       sprout: 2017-11-27
+      extra: Abgabe S 2018-03-05
 Tepin x Lemon Drop F5:
   seeds:
     - sown: 2017-12-12
       sprout: 2017-12-20
+      extra: Abgabe D 2018-03-30
     - sown: 2017-12-12
       sprout: 2017-12-20
 
@@ -145,6 +163,7 @@ Aji Cachucha:
       sprout: 2017-12-20
     - sown: 2017-12-12
       sprout: 2017-12-20
+      extra: Abgabe S 2018-03-05
 Aji Charapita Red:
   seeds:
     - sown: 2017-11-08
@@ -159,6 +178,7 @@ Aribibi 8R2Y1W:
       sprout: 2017-11-28
     - sown: 2017-11-22
       sprout: 2017-11-28
+      extra: Abgabe S 2018-03-05
 Dynamite:
   seeds:
     - sown: 2017-12-12
@@ -173,6 +193,7 @@ Fatalii Green:
       sprout: 2017-12-13
     - sown: 2017-11-29
       sprout: 2017-12-13
+      extra: Abgabe D 2018-03-30
 Habanada:
   seeds:
     - sown: 2017-11-22
@@ -195,6 +216,7 @@ Pimenta Diomar:
       sprout: 2017-12-20
     - sown: 2017-12-12
       sprout: 2017-12-20
+      extra: Abgabe S 2018-03-05
 Scotch Bonnet Allen Boatman TF:
   seeds:
     - sown: 2017-12-12
@@ -205,6 +227,7 @@ Scotch Bonnet Allen Boatman TF:
       sprout: 2017-12-22
     - sown: 2017-12-12
       sprout: 2017-12-22
+      extra: Abgabe S 2018-03-05
 Scotch Bonnet WHP II:
   seeds:
     - sown: 2017-12-12
@@ -213,6 +236,7 @@ Scotch Bonnet WHP II:
       sprout: 2017-12-20
     - sown: 2017-12-12
       sprout: 2017-12-20
+      extra: Abgabe S 2018-03-05
 WHP 019:
   seeds:
     - sown: 2017-12-12
@@ -221,6 +245,7 @@ WHP 019:
       sprout: 2017-12-22
     - sown: 2017-12-12
       sprout: 2017-12-22
+      extra: Abgabe S 2018-03-05
 
 #### C.pubescens:
 Rocoto Aji Largo:
