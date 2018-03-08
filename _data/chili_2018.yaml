@@ -3,6 +3,9 @@ Ziegenpeter:
   seeds:
     - sown: 2018-01-31
       sprout: 2018-02-07
+    - sown: 2018-01-31
+      sprout: 2018-02-07
+      extra: Abgabe S 2018-03-05
 
 #### C.annuum:
 Black Cobra:
@@ -89,6 +92,7 @@ Aji Jaguar:
   seeds:
     - sown: 2017-10-27
       sprout: 2017-11-03
+      extra: isoliert — Sternrußtau? (2018-03-06)
 Aji Panca:
   seeds:
     - sown: 2017-11-29
@@ -112,6 +116,7 @@ Dedo De Moca Gigante Gelb:
   seeds:
     - sown: 2017-03-01
       sprout: 2017-03-08
+      extra: Office seit 2018-02-22
 El Oro de Ecuador:
   seeds:
     - sown: 2017-11-29
@@ -172,6 +177,7 @@ Aribibi 8R2Y1W:
   seeds:
     - sown: 2017-11-22
       sprout: 2017-11-27
+      extra: Office seit 2018-03-08
     - sown: 2017-11-22
       sprout: 2017-11-28
     - sown: 2017-11-22
@@ -225,6 +231,7 @@ Scotch Bonnet Allen Boatman TF:
       sprout: 2017-12-22
     - sown: 2017-12-12
       sprout: 2017-12-22
+      extra: Office seit 2018-03-08
     - sown: 2017-12-12
       sprout: 2017-12-22
       extra: Abgabe S 2018-03-05
@@ -243,9 +250,9 @@ WHP 019:
       sprout: 2017-12-22
     - sown: 2017-12-12
       sprout: 2017-12-22
+      extra: Office seit 2018-03-08
     - sown: 2017-12-12
       sprout: 2017-12-22
-      extra: Abgabe S 2018-03-05
 
 #### C.pubescens:
 Rocoto Aji Largo:
