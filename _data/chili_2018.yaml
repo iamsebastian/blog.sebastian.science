@@ -12,6 +12,11 @@ Black Cobra:
   seeds:
     - sown: 2018-01-31
       sprout: 2018-02-07
+Filius Blue:
+  seeds:
+    - sown: 2018-03-04
+      sprout: 2018-03-11
+      extra: Hot Pong
 Fish Pepper:
   seeds:
     - sown: 2018-01-08
@@ -104,6 +109,10 @@ Aji Pineapple:
     - sown: 2017-11-29
       sprout: 2017-12-13
       extra: Abgabe D 2018-03-30
+Bea:
+  seeds:
+    - sown: 2018-03-04
+      extra: Hot Pong
 Bishops Crown:
   seeds:
     - sown: 2017-11-29
@@ -185,6 +194,11 @@ Aribibi 8R2Y1W:
     - sown: 2017-11-22
       sprout: 2017-11-28
       extra: Abgabe S 2018-03-05
+Aribibi Gusano:
+  seeds:
+    - sown: 2018-03-04
+      sprout: 2018-03-11
+      extra: Hot Pong
 Dynamite:
   seeds:
     - sown: 2017-12-12
@@ -212,6 +226,11 @@ PdN x D 1.1:
   seeds:
     - sown: 2018-01-31
       sprout: 2018-02-07
+Peach Gum Tiger MAMP:
+  seeds:
+    - sown: 2018-03-04
+      sprout: 2018-03-11
+      extra: Hot Tennis
 Peito De Moca:
   seeds:
     - sown: 2017-12-12

@@ -2,7 +2,7 @@
 Ziegenpeter:
   color:
   heat:
-  species:
+  species: Capsicum chinense
 
 #### C.annuum:
 Aji Cachuchua Purple Splotch:
@@ -16,6 +16,10 @@ Black Cobra:
 Fish Pepper:
   color: rot
   heat: 4
+  species: Capsicum annuum
+Filius Blue:
+  color: rot
+  heat: 8
   species: Capsicum annuum
 Guntur Chili 237:
   color: rot
@@ -98,6 +102,10 @@ Aji Pineapple:
 Barra do Ribeiro:
   color: rot
   heat: 4
+  species: Capsicum baccatum
+Bea:
+  color: rot
+  heat: 7
   species: Capsicum baccatum
 Bishops Crown:
   color: rot
@@ -209,6 +217,10 @@ Maraba:
   species: Capsicum chinense
 PdN x D 1.1:
   color: rot
+  heat: 10
+  species: Capsicum chinense
+Peach Gum Tiger MAMP:
+  color: violett
   heat: 10
   species: Capsicum chinense
 Peito De Moca:
