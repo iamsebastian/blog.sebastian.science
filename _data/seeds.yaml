@@ -222,6 +222,8 @@ Tamarillo: 2
 Tat Soi: 15
 Tomate, Busch, Kecskemeti 3-08:
   count: 5
+  links:
+    - http://www.tomaten-forum.com/Thread-Tomaten-Sortenbeschreibungen?pid=80894#pid80894
   share: false
 Tomate, Cocktail, Besser: 30
 Tomate, Cocktail, Blaue (Indigo Blue Berries): 0
@@ -237,13 +239,15 @@ Tomate, Cocktail, Yellow Pearshaped: 0
 Tomate, Dwarf, Adelaide Festival:
   count: 5
   links:
+    - https://www.vertiloom.com/en/adelaide-festival.html
     - https://www.dwarftomatoproject.net/product/adelaide-festival/
     - http://www.tomaten-atlas.de/sorten/a/5546-adelaide-festival
     - http://tatianastomatobase.com/wiki/Adelaide_Festival
   share: false
-Tomate, Dwarf, Artic Rose:
+Tomate, Dwarf, Arctic Rose:
   count: 5
   links:
+    - https://www.vertiloom.com/en/dwarf-arctic-rose.html
     - http://www.tomaten-atlas.de/sorten/d/4029-dwarf-arctic-rose
     - http://tatianastomatobase.com/wiki/Dwarf_Arctic_Rose
   share: false
@@ -257,6 +261,7 @@ Tomate, Dwarf, Chello:
 Tomate, Dwarf, Crimson Sockeye:
   count: 5
   links:
+    - https://www.vertiloom.com/en/dwarf-crimson-sockeye.html
     - https://www.dwarftomatoproject.net/product/dwarf-crimson-sockeye/
     - http://tatianastomatobase.com/wiki/Dwarf_Crimson_Sockeye
     - http://www.tomaten-atlas.de/sorten/d/6481-dwarf-crimson-sockeye
@@ -272,6 +277,7 @@ Tomate, Dwarf, Perth Pride:
   links:
     - https://www.dwarftomatoproject.net/product/perth-pride/
     - http://t.tatianastomatobase.com/wiki/Perth_Pride
+    - https://www.vertiloom.com/en/perth-pride.html
   share: false
 Tomate, Dwarf, Rumplestiltskin:
   count: 5
@@ -281,12 +287,14 @@ Tomate, Dwarf, Rumplestiltskin:
 Tomate, Dwarf, Sarandipity:
   count: 5
   links:
+    - http://www.tomaten-atlas.de/sorten/s/6094-sarandipity
     - https://www.dwarftomatoproject.net/product/sarandipity/
     - http://tatianastomatobase.com/wiki/Sarandipity
   share: false
 Tomate, Dwarf, Sweet Sue:
   count: 5
   links:
+    - https://www.vertiloom.com/en/dwarf-sweet-sue.html
     - https://www.dwarftomatoproject.net/product/dwarf-sweet-sue/
     - http://tatianastomatobase.com/wiki/Dwarf_Sweet_Sue
     - https://www.victoryseeds.com/tomato_dwarf-sweet-sue.html
@@ -294,12 +302,14 @@ Tomate, Dwarf, Sweet Sue:
 Tomate, Dwarf, Tasmanian Chocolate:
   count: 5
   links:
+    - https://www.vertiloom.com/en/tasmanian-chocolate.html
     - https://www.dwarftomatoproject.net/product/tasmanian-chocolate/
     - http://tatianastomatobase.com/wiki/Tasmanian_Chocolate
   share: false
 Tomate, Dwarf, Uluro Ochre:
   count: 5
   links:
+    - https://www.vertiloom.com/en/uluru-ochre.html
     - https://www.dwarftomatoproject.net/product/uluru-ochre/
     - http://tatianastomatobase.com/wiki/Uluru_Ochre
     - https://www.victoryseeds.com/tomato_uluru-ochre.html
