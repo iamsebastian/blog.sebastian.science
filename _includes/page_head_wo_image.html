@@ -5,7 +5,7 @@
   </a>
   <div class="mast__container">
     {% if page.date %}
-      <span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></span>
+      <span><time datetime="{{ page.update | default: page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></span>
     {% endif %}
     <h1 itemprop="name headline">{{ page.title }}</h1>
     {% if page.categories.size > 0 %}

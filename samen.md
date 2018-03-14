@@ -3,7 +3,7 @@ layout: post
 title: Sämereien
 permalink: /samen/
 date: 2017-02-08 12:39:10 +0100
-last-update: 2017-06-30 12:39:10 +0100
+update: 2018-03-14 12:39:10 +0100
 categories: samen
 image: https://unsplash.it/2000/1200?image=102
 image-sm: https://unsplash.it/500/300?image=102
@@ -33,6 +33,13 @@ Die Zahl hinter dem Doppelpunkt stellt meinen aktuellen Bestand dar.
     {% else %}
       {{ seed[0] }}: {{ props_or_count }}
     {% endif %}
+  {% endif %}
+  {% if props_or_count.links %}
+    <br><i>
+    {% for l in props_or_count.links %}
+      <a href="{{l}}">[{{forloop.index}}]</a> 
+    {% endfor %}
+    </i>
   {% endif %}
   </li>
 {% endfor %}

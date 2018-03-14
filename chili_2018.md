@@ -3,7 +3,7 @@ layout: post
 title: Chilis 2018
 permalink: /chili_2018/
 date: 2017-10-23 04:45:00
-last-update: 2017-10-23 04:45:00
+update: 2017-10-23 04:45:00
 categories: chili
 image: https://unsplash.it/2000/1200?image=602
 image-sm: https://unsplash.it/500/300?image=602

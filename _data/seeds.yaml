@@ -221,51 +221,93 @@ Schnittsalat: 100
 Tamarillo: 2
 Tat Soi: 15
 Tomate, Busch, Kecskemeti 3-08:
-  count: 0
+  count: 5
   share: false
 Tomate, Cocktail, Besser: 30
 Tomate, Cocktail, Blaue (Indigo Blue Berries): 0
 Tomate, Cocktail, Crovarese: 20
 Tomate, Cocktail, Geranium Kiss:
-  count: 0
+  count: 5
+  links:
+    - https://www.totallytomato.com/P/00282/Geranium+Kiss+Tomato
+    - http://tatianastomatobase.com/wiki/Geranium_Kiss
   share: false
 Tomate, Cocktail, Tiny Tim: 0
 Tomate, Cocktail, Yellow Pearshaped: 0
 Tomate, Dwarf, Adelaide Festival:
-  count: 0
+  count: 5
+  links:
+    - https://www.dwarftomatoproject.net/product/adelaide-festival/
+    - http://www.tomaten-atlas.de/sorten/a/5546-adelaide-festival
+    - http://tatianastomatobase.com/wiki/Adelaide_Festival
   share: false
 Tomate, Dwarf, Artic Rose:
-  count: 0
+  count: 5
+  links:
+    - http://www.tomaten-atlas.de/sorten/d/4029-dwarf-arctic-rose
+    - http://tatianastomatobase.com/wiki/Dwarf_Arctic_Rose
   share: false
 Tomate, Dwarf, Chello:
-  count: 0
+  count: 5
+  links:
+    - http://www.tomaten-atlas.de/sorten/c/1848-chello
+    - https://njaes.rutgers.edu/tomato-varieties/variety.php?Chello
+    - http://loripomodori.de/Tomatenliste.pdf
   share: false
 Tomate, Dwarf, Crimson Sockeye:
-  count: 0
+  count: 5
+  links:
+    - https://www.dwarftomatoproject.net/product/dwarf-crimson-sockeye/
+    - http://tatianastomatobase.com/wiki/Dwarf_Crimson_Sockeye
+    - http://www.tomaten-atlas.de/sorten/d/6481-dwarf-crimson-sockeye
   share: false
 Tomate, Dwarf, Emerald Green:
-  count: 0
+  count: 5
+  links:
+    - http://tomaten.bplaced.net/Tomatenfotos/anbau-2010.htm
+    - http://www.tomatofifou.fr/recherche-variete-2/recherche-multicriteres/dwarf-emerald-giant-detail
   share: false
 Tomate, Dwarf, Perth Pride:
-  count: 0
+  count: 5
+  links:
+    - https://www.dwarftomatoproject.net/product/perth-pride/
+    - http://t.tatianastomatobase.com/wiki/Perth_Pride
   share: false
 Tomate, Dwarf, Rumplestiltskin:
-  count: 0
+  count: 5
+  links:
+    - https://www.mariannasheirloomseeds.com/seed-catalog/dwarf-tomatoes/blane-s-rumpelstiltskin-new-2016-detail.html
   share: false
 Tomate, Dwarf, Sarandipity:
-  count: 0
+  count: 5
+  links:
+    - https://www.dwarftomatoproject.net/product/sarandipity/
+    - http://tatianastomatobase.com/wiki/Sarandipity
   share: false
 Tomate, Dwarf, Sweet Sue:
-  count: 0
+  count: 5
+  links:
+    - https://www.dwarftomatoproject.net/product/dwarf-sweet-sue/
+    - http://tatianastomatobase.com/wiki/Dwarf_Sweet_Sue
+    - https://www.victoryseeds.com/tomato_dwarf-sweet-sue.html
   share: false
 Tomate, Dwarf, Tasmanian Chocolate:
-  count: 0
+  count: 5
+  links:
+    - https://www.dwarftomatoproject.net/product/tasmanian-chocolate/
+    - http://tatianastomatobase.com/wiki/Tasmanian_Chocolate
   share: false
 Tomate, Dwarf, Uluro Ochre:
-  count: 0
+  count: 5
+  links:
+    - https://www.dwarftomatoproject.net/product/uluru-ochre/
+    - http://tatianastomatobase.com/wiki/Uluru_Ochre
+    - https://www.victoryseeds.com/tomato_uluru-ochre.html
   share: false
 Tomate, Dwarf, Yellow Wax:
-  count: 0
+  count: 5
+  links:
+    - http://loripomodori.de/Tomatenliste.pdf
   share: false
 Tomate, Stab, Black Prince: 0
 Tomate, Stab, Furry Yellow Hog: 10
