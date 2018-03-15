@@ -266,12 +266,20 @@ Tomate, Dwarf, Crimson Sockeye:
     - http://tatianastomatobase.com/wiki/Dwarf_Crimson_Sockeye
     - http://www.tomaten-atlas.de/sorten/d/6481-dwarf-crimson-sockeye
   share: false
+Tomate, Dwarf, Dark Galaxy:
+  count: 15
+  links:
+    - https://www.vertiloom.com/en/dark-galaxy.html
 Tomate, Dwarf, Emerald Green:
   count: 5
   links:
     - http://tomaten.bplaced.net/Tomatenfotos/anbau-2010.htm
     - http://www.tomatofifou.fr/recherche-variete-2/recherche-multicriteres/dwarf-emerald-giant-detail
   share: false
+Tomate, Dwarf, Hahms Gelbe Topftomate:
+  count: 15
+  links:
+    - https://www.vertiloom.com/en/hahms-gelbe-topftomate.html
 Tomate, Dwarf, Perth Pride:
   count: 5
   links:
@@ -314,6 +322,10 @@ Tomate, Dwarf, Uluro Ochre:
     - http://tatianastomatobase.com/wiki/Uluru_Ochre
     - https://www.victoryseeds.com/tomato_uluru-ochre.html
   share: false
+Tomate, Dwarf, Vnuchenka:
+  count: 15
+  links:
+    - https://www.vertiloom.com/en/vnuchenka.html
 Tomate, Dwarf, Yellow Wax:
   count: 5
   links:
