@@ -41,7 +41,7 @@ Fett-geschriebene Sorten sind bereits besorgt (Samen / Überwinterer)
 - **Little Bird Of Guyana** (3)
 - **Moranguinho (CP-341)**
 - **Nepalese Bell**
-- **Sugar Rush Peach**
+- **Sugar Rush Rund**
 - Tepin x Lemon Drop F5
 
 #### C.cardenasii
