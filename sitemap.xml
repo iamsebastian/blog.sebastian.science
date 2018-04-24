@@ -224,9 +224,6 @@
 <loc>http://sebastian.science/category/herbst/</loc>
 </url>
 <url>
-<loc>http://sebastian.science/</loc>
-</url>
-<url>
 <loc>http://sebastian.science/category/indianerbeet/</loc>
 </url>
 <url>
@@ -417,5 +414,14 @@
 </url>
 <url>
 <loc>http://sebastian.science/category/garten/</loc>
+</url>
+<url>
+<loc>http://sebastian.science/</loc>
+</url>
+<url>
+<loc>http://sebastian.science/blog/page-2/</loc>
+</url>
+<url>
+<loc>http://sebastian.science/blog/page-3/</loc>
 </url>
 </urlset>
