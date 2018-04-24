@@ -72,7 +72,7 @@ flickr:
   generate_frontmatter:
     layout: flickr_photo
     author: wolkenphysiker
-  use_cache: true
+  use_cache: false
   cache_dir: _flickr
 
   size_full: Original
