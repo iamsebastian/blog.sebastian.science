@@ -5,7 +5,7 @@ group :jekyll do
 end
 
 group :jekyll_plugins do
-  gem "jekyll-paginate"
+  gem "jekyll-paginate-v2"
   gem "jekyll-sitemap"
   gem "octopress-autoprefixer"
   gem "flickraw"
