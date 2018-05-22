@@ -2,7 +2,7 @@
 Ziegenpeter:
   color: x
   heat:
-  species: Capsicum chinense
+  species: Capsicum baccatum
 
 #### C.annuum:
 Aji Cachuchua Purple Splotch:
@@ -91,9 +91,21 @@ Aji Blanco Cristal:
   color: weiß
   heat: 3
   species: Capsicum baccatum
+Aji Dulcen:
+  color: rot
+  heat: 8
+  species: Capsicum baccatum
+Aji Equatoria:
+  color: orange
+  heat: 5
+  species: Capsicum baccatum
 Aji Jaguar:
   color: weiß-gelb
   heat:
+  species: Capsicum baccatum
+Aji Monru:
+  color: rot
+  heat: 7
   species: Capsicum baccatum
 Aji Panca:
   color: braun
@@ -171,6 +183,10 @@ Ulupica Extra Large F3:
   species: Capsicum cardenasii
 
 #### C.chinense:
+7Pot Burgundy:
+  color: burgunder-rot
+  heat: 10+
+  species: Capsicum chinense
 Aji Cachucha:
   color: rot
   heat: 4
@@ -219,6 +235,10 @@ Maraba:
   color: gelb
   heat: 9
   species: Capsicum chinense
+Patamon CS:
+  color: braun
+  heat: 10+
+  species: Capsicum chinense
 PdN x D 1.1:
   color: rot
   heat: 10
@@ -234,6 +254,10 @@ Peito De Moca:
 Pimenta Diomar:
   color: rot
   heat: 5
+  species: Capsicum chinense
+Rea Silvina CS:
+  color: braun
+  heat: 10++
   species: Capsicum chinense
 Robertos Cuban Seasoning:
   color: rot
