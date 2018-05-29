@@ -119,7 +119,7 @@ Fett-geschriebene Sorten sind bereits besorgt (Samen / Überwinterer)
   - ~~Jamy~~
   - ~~Orange Drop F2~~
   - ~~Peri-Peri~~
-  - ~~Santorini Episcopi~~
+  - ~~Santorini Episkopi Gonia~~
 
 #### C.chinense:
   - ~~Aji Dulce Amarillo~~
