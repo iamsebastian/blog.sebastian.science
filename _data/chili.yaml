@@ -1,9 +1,3 @@
-#### unknown species:
-Ziegenpeter:
-  color: x
-  heat:
-  species: Capsicum baccatum
-
 #### C.annuum:
 Aji Cachuchua Purple Splotch:
   color: rot
@@ -52,6 +46,22 @@ Mustafa:
 Nocturne:
   color: dunkelrot
   heat: 0
+  species: Capsicum annuum
+NuMex Lemon Spice:
+  color: gelb
+  heat: 6
+  species: Capsicum annuum
+NuMex Orange Spice:
+  color: orange
+  heat: 6
+  species: Capsicum annuum
+NuMex Pinata:
+  color: rot
+  heat: 6
+  species: Capsicum annuum
+NuMex Pumpkin Spice:
+  color: kürbis-farbend
+  heat: 8
   species: Capsicum annuum
 Peter Pepper:
   color: rot
@@ -159,9 +169,13 @@ Nepalese Bell:
   color: rot
   heat: 5
   species: Capsicum baccatum
-PI 585239:
+PI 159232:
   color: rot
   heat:
+  species: Capsicum baccatum
+PI 585239:
+  color: rot
+  heat: 6
   species: Capsicum baccatum
 Santorini Episkopi:
   color: rot
@@ -174,6 +188,10 @@ Sugar Rush Rund:
 Tepin x Lemon Drop F5:
   color: rot
   heat:
+  species: Capsicum baccatum
+Ziegenpeter:
+  color: rot
+  heat: 3
   species: Capsicum baccatum
 
 #### C.cardenasii

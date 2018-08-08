@@ -1,13 +1,3 @@
-#### unknown species:
-Ziegenpeter:
-  seeds:
-    - sown: 2018-01-31
-      sprout: 2018-02-07
-      extra: Beet
-    #- sown: 2018-01-31
-      #sprout: 2018-02-07
-      #extra: Abgabe S 2018-04-11
-
 #### C.annuum:
 Black Cobra:
   seeds:
@@ -203,7 +193,11 @@ Tepin x Lemon Drop F5:
     #- sown: 2017-12-12
       #sprout: 2017-12-20
       #extra: Abgabe S 2018-04-11
-
+Ziegenpeter (Nepalese Bell, Roulette):
+  seeds:
+    - sown: 2018-01-31
+      sprout: 2018-02-07
+      extra: Beet
 #### C.chinense:
 Aji Cachucha:
   seeds:
