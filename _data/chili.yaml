@@ -319,7 +319,10 @@ Birds Eye:
   species: Capsicum frutescens
 
 #### C.praetermissum
-C.praetermissum CAP 1141: 5
+C.praetermissum CAP 1141:
+  color: rot
+  heat: 6
+  species: Capsicum praetermissum
 
 #### C.pubescens:
 Rocoto Aji Largo:
