@@ -209,8 +209,8 @@ Aji Cachucha:
   color: rot
   heat: 4
   species: Capsicum chinense
-Aji Charapita Red:
-  color: rot
+Aji Charapita:
+  color: gelb
   heat: 10
   species: Capsicum chinense
 Aji Mochero:
@@ -317,6 +317,9 @@ Birds Eye:
   color: rot
   heat: 9
   species: Capsicum frutescens
+
+#### C.praetermissum
+C.praetermissum CAP 1141: 5
 
 #### C.pubescens:
 Rocoto Aji Largo:
