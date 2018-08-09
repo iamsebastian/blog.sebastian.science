@@ -361,6 +361,10 @@ Rocoto Costa Rican orange:
   color: orange
   heat: 9
   species: Capsicum pubescens
+Rocoto Cristobal Colombo:
+  color: dunkelgelb
+  heat: 5
+  species: Capsicum pubescens
 Rocoto Cuencano:
   color: rot
   heat: 9
