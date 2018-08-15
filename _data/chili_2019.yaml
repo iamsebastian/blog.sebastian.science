@@ -76,6 +76,10 @@ Aji Charapita:
     - sown: 2017-11-08
       sprout: 2017-11-14
       extra: Indoor, Überwinterer von 2018
+Aji Mochero:
+    - sown: 2018-08-15
+      sprout:
+      extra: Office Passiv-Hydro 2l
 Patamon CS:
   seeds:
     - sown: 2018-10-01
@@ -94,16 +98,21 @@ C.praetermissum CAP 1141:
       extra:
 
 ##### C.pubescens:
-Rocoto Aji Largo:
-  seeds:
-    - sown: 2017-11-08
-      sprout: 2017-11-20
-      extra: Überwinterer von 2018
+#Rocoto Aji Largo:
+  #seeds:
+    #- sown: 2017-11-08
+      #sprout: 2017-11-20
+      #extra: Überwinterer von 2018
 Rocoto Cristobal Colombo:
   seeds:
     - sown: 2018-10-01
       sprout:
       extra: 90l Kübel
+Rocoto Marlene:
+  seeds:
+    - sown: 2017-11-08
+      sprout: 2017-11-20
+      extra: Überwinterer von 2018
 Rocoto São Sebastião da Madeira:
   seeds:
     - sown: 2018-10-01
