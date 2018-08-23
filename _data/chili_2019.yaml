@@ -108,18 +108,26 @@ Rocoto Cristobal Colombo:
     - sown: 2018-10-01
       sprout:
       extra: 90l Kübel
-Rocoto Marlene:
+#Rocoto Marlene:
+  #seeds:
+    #- sown: 2017-11-08
+      #sprout: 2017-11-20
+      #extra: Überwinterer von 2018
+Rocoto Montufar (PI 585271):
   seeds:
     - sown: 2017-11-08
-      sprout: 2017-11-20
-      extra: Überwinterer von 2018
+      sprout: 2017-11-16
+      extra: Überwinterer von 2018, 90l Kübel
+    - sown: 2018-10-01
+      sprout:
+      extra: 30l
 Rocoto São Sebastião da Madeira:
   seeds:
     - sown: 2018-10-01
       sprout:
       extra: 90l Kübel
-Rocoto Rio Huallaga:
-  seeds:
-    - sown: 2017-10-27
-      sprout: 2017-11-04
-      extra: Überwinterer von 2018
+#Rocoto Rio Huallaga:
+  #seeds:
+    #- sown: 2017-10-27
+      #sprout: 2017-11-04
+      #extra: Überwinterer von 2018
