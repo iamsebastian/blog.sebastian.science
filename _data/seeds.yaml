@@ -60,7 +60,7 @@ C.baccatum Aji Cachuao? (CAP 900): 5
 C.baccatum Aji Dulcen: 10
 C.baccatum Aji Equatoria: 10
 C.baccatum Aji Jaguar F3 nv: 20
-C.baccatum Aji Jaguar F4: 0
+C.baccatum Aji Jaguar F4: 5
 C.baccatum Aji Mochero: 8
 C.baccatum Aji Monru: 10
 C.baccatum Aji Panca: 3
@@ -80,7 +80,8 @@ C.baccatum Nepalese Bell: 3
 C.baccatum Orange Drop F1: 10
 C.baccatum Orange Drop F2 (nv): 15
 C.baccatum Pea: 10
-C.baccatum PI 585239: 8
+C.baccatum PI 585239 2017: 8
+C.baccatum PI 585239 2018: 40
 C.baccatum Pimenta Barra Do Ribeiro (CP-113): 10
 C.baccatum Santorini Episkopi: 0
 C.baccatum Sugar Rush: 5
@@ -114,7 +115,8 @@ C.chinense Maraba: 4
 C.chinense Patamon CS: 10
 C.chinense PdN x Douglah 1.1: 0
 C.chinense Peach Gum Tiger MAMP: 0
-C.chinense Peito De Moca: 4
+C.chinense Peito De Moca 2017: 4
+C.chinense Peito De Moca 2018: 20
 C.chinense Pimenta Diomar: 5
 C.chinense Rea Silvina CS: 10
 C.chinense Robertos Cuban Seasoning: 7
@@ -132,12 +134,13 @@ C.pubescens Rocoto Aji Largo: 7
 C.pubescens Rocoto Aji Oro: 7
 C.pubescens Rocoto Big Apple: 8
 C.pubescens Rocoto Brown Mini: 16
+C.pubescens Rocoto Cabe Gondol: 10
 C.pubescens Rocoto CAP363: 0
 C.pubescens Rocoto CAP468: 4
 C.pubescens Rocoto Canario: 10
 C.pubescens Rocoto Costa Rican yellow: 3
 C.pubescens Rocoto Costa Rican orange: 20
-C.pubescens Rocoto Cristobal Colombo: 0
+C.pubescens Rocoto Cristobal Colombo: 20
 C.pubescens Rocoto Cuencano: 10
 C.pubescens Rocoto De La Selvas (Arequipa): 0
 C.pubescens Rocoto De La Selvas (Rojo): 13
