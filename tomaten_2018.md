@@ -1,4 +1,5 @@
 ---
+categories: tomaten
 date: 2017-07-31 06:20:00 +0100
 layout: post
 title: Tomatenplanung mit Günter
