@@ -1,64 +1,43 @@
 ##### C.annuum:
+Doux long des Landes:
+  seeds:
+    - sown: 2019-01-07
+      sprout:
+      extra:
+Jalapeño Fundador F1:
+    - sown: 2018-08-15
+      sprout: 2018-08-22
+      extra:
+Jalapeño Vietnam:
+    - sown: 2018-08-15
+      sprout: 2018-08-22
+      extra:
+Lanterna de Foc
+  seeds:
+    - sown: 2019-01-13
+      sprout:
+      extra:
 Nocturne:
   seeds:
-    - sown: 2018-10-01
+    - sown: 2019-01-07
       sprout:
       extra:
-NuMex Lemon Spice:
+NuMex Piñata:
+    - sown: 2018-08-15
+      sprout: 2018-08-22
+      extra:
+Sweet Chocolate:
   seeds:
-    - sown: 2018-08-15
-      sprout:
-      extra: Office LECHUZA-Puro 20
-    - sown: 2018-08-15
-      sprout:
-      extra:
-NuMex Orange Spice:
-    - sown: 2018-08-15
-      sprout:
-      extra: Office LECHUZA-Puro 20
-NuMex Pinata:
-    - sown: 2018-08-15
-      sprout:
-      extra: Office LECHUZA-Puro 20
-    - sown: 2018-08-15
-      sprout:
-      extra:
-NuMex Pumpkin Spice:
-    - sown: 2018-08-15
-      sprout:
-      extra: Office LECHUZA-Puro 20
-Tazmanian Black:
-  seeds:
-    - sown: 2018-10-01
+    - sown: 2019-01-07
       sprout:
       extra:
 
 ##### C.baccatum
-Aji Dulcen:
-  seeds:
-    - sown: 2018-10-01
-      sprout:
-      extra:
-Aji Equatoria:
-  seeds:
-    - sown: 2018-10-01
-      sprout:
-      extra:
-Aji Monru:
-  seeds:
-    - sown: 2018-10-01
-      sprout:
-      extra:
 Little Bird Of Guyana:
   seeds:
     - sown: 2017-11-22
       sprout: 2017-11-27
       extra: Überwinterer von 2018
-PI 159232:
-  seeds:
-    - sown: 2018-10-01
-      sprout:
-      extra:
 PI 585239:
   seeds:
     - sown: 2017-11-22
@@ -66,9 +45,19 @@ PI 585239:
       extra: Überwinterer von 2018
 
 ##### C.chinense:
+7Pot BBG White:
+  seeds:
+    - sown: 2019-01-13
+      sprout:
+      extra:
 7Pot Burgundy:
   seeds:
-    - sown: 2018-10-01
+    - sown: 2019-01-07
+      sprout:
+      extra:
+7Pot Brainstrain Yellow:
+  seeds:
+    - sown: 2019-01-07
       sprout:
       extra:
 Aji Charapita:
@@ -77,57 +66,55 @@ Aji Charapita:
       sprout: 2017-11-14
       extra: Indoor, Überwinterer von 2018
 Aji Mochero:
-    - sown: 2018-08-15
+    - sown: 2017-11-08
       sprout:
-      extra: Office Passiv-Hydro 2l
+      extra: Indoor, Überwinterer von 2018
 Patamon CS:
   seeds:
-    - sown: 2018-10-01
+    - sown: 2019-01-07
       sprout:
       extra:
 Rea Silvina CS:
   seeds:
-    - sown: 2018-10-01
+    - sown: 2019-01-07
+      sprout:
+      extra:
+Trinidad Scorpion Moruga Peach:
+  seeds:
+    - sown: 2019-01-13
       sprout:
       extra:
 
+##### C.pubescens:
+Rocoto Aji Largo:
+  seeds:
+    - sown: 2017-11-08
+      sprout: 2017-11-20
+      extra: Überwinterer von 2018, Office, Lechuza
+Rocoto Cristobal Colombo:
+  seeds:
+    - sown: 2018-10-01
+      sprout:
+      extra:
+Rocoto Marlene:
+  seeds:
+    - sown: 2017-11-08
+      sprout: 2017-11-20
+      extra: Überwinterer von 2018
+Rocoto Montufar (PI 585271):
+  seeds:
+    - sown: 2017-11-08
+      sprout: 2017-11-16
+      extra: Überwinterer von 2018
+Rocoto Rio Huallaga:
+  seeds:
+    - sown: 2017-10-27
+      sprout: 2017-11-04
+      extra: Überwinterer von 2018
+
+##### C.praetermissum:
 C.praetermissum CAP 1141:
   seeds:
     - sown: 2018-10-01
       sprout:
       extra:
-
-##### C.pubescens:
-#Rocoto Aji Largo:
-  #seeds:
-    #- sown: 2017-11-08
-      #sprout: 2017-11-20
-      #extra: Überwinterer von 2018
-Rocoto Cristobal Colombo:
-  seeds:
-    - sown: 2018-10-01
-      sprout:
-      extra: 90l Kübel
-#Rocoto Marlene:
-  #seeds:
-    #- sown: 2017-11-08
-      #sprout: 2017-11-20
-      #extra: Überwinterer von 2018
-Rocoto Montufar (PI 585271):
-  seeds:
-    - sown: 2017-11-08
-      sprout: 2017-11-16
-      extra: Überwinterer von 2018, 90l Kübel
-    - sown: 2018-10-01
-      sprout:
-      extra: 30l
-Rocoto São Sebastião da Madeira:
-  seeds:
-    - sown: 2018-10-01
-      sprout:
-      extra: 90l Kübel
-#Rocoto Rio Huallaga:
-  #seeds:
-    #- sown: 2017-10-27
-      #sprout: 2017-11-04
-      #extra: Überwinterer von 2018
