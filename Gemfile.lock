@@ -10,7 +10,7 @@ GEM
     ffi (1.9.24)
     flickraw (0.9.9)
     forwardable-extended (2.6.0)
-    jekyll (3.6.3)
+    jekyll (3.5.1)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
