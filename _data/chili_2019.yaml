@@ -4,6 +4,16 @@ Doux long des Landes:
     - sown: 2019-01-07
       sprout:
       extra:
+Haes XX:
+  seeds:
+    - sown: 2018-01-31
+      sprout: 2018-02-07
+      extra: ÜbWint'18
+Jalapeño Brown:
+  seeds:
+    - sown: 2018-01-08
+      sprout: 2018-01-12
+      extra: ÜbWint'18
 Jalapeño Fundador F1:
     - sown: 2018-08-15
       sprout: 2018-08-22
@@ -33,16 +43,61 @@ Sweet Chocolate:
       extra:
 
 ##### C.baccatum
+Aji Ahuachapan:
+  seeds:
+    - sown: 2017-12-12
+      sprout: 2017-12-20
+      extra: ÜbWint'18
+Aji Blanco Cristal:
+  seeds:
+    - sown: 2017-11-29
+      sprout: 2017-12-13
+      extra: ÜbWint'18
+Aji Jaguar:
+  seeds:
+    - sown: 2017-10-27
+      sprout: 2017-11-03
+      extra: ÜbWint'18
+Aji Panca:
+  seeds:
+    - sown: 2017-11-29
+      sprout: 2017-12-13
+      extra: ÜbWint'18
+Brasilieros Tres Lobos:
+  seeds:
+    - sown: 2017-11-22
+      sprout: 2017-11-27
+      extra: ÜbWint'18
+El Oro de Ecuador:
+  seeds:
+    - sown: 2017-11-29
+      sprout: 2017-12-13
+      extra: ÜbWint'18
 Little Bird Of Guyana:
   seeds:
     - sown: 2017-11-22
       sprout: 2017-11-27
-      extra: Überwinterer von 2018
+      extra: ÜbWint'18
+Moranguinho (CP-341):
+  seeds:
+    - sown: 2017-11-29
+      sprout: 2017-12-13
+      extra: ÜbWint'18
 PI 585239:
   seeds:
     - sown: 2017-11-22
       sprout: 2017-11-27
-      extra: Überwinterer von 2018
+      extra: ÜbWint'18
+Sugar Rush Rund:
+  seeds:
+    - sown: 2017-11-22
+      sprout: 2017-11-27
+      extra: ÜbWint'18
+Tepin x Lemon Drop F5:
+  seeds:
+    - sown: 2017-12-12
+      sprout: 2017-12-20
+      extra: ÜbWint'18
 
 ##### C.chinense:
 7Pot BBG White:
@@ -69,16 +124,54 @@ Aji Mochero:
     - sown: 2017-11-08
       sprout:
       extra: Indoor, Überwinterer von 2018
+Aribibi 8R2Y1W:
+  seeds:
+    - sown: 2017-11-22
+      sprout: 2017-11-27
+      extra: ÜbWint'18
+    - sown: 2017-11-22
+      sprout: 2017-11-28
+      extra: ÜbWint'18
+Dynamite:
+  seeds:
+    - sown: 2017-12-12
+      sprout: 2017-12-20
+      extra: ÜbWint'18
+Fatalii:
+  seeds:
+    - sown: 2017-11-22
+      sprout: 2017-12-03
+      extra: ÜbWint'18
+Habanada:
+  seeds:
+    - sown: 2017-11-22
+      sprout: 2017-12-12
+      extra: ÜbWint'18
 Patamon CS:
   seeds:
     - sown: 2019-01-07
       sprout:
       extra:
+Peito De Moca:
+  seeds:
+    - sown: 2017-12-12
+      sprout: 2017-12-20
+      extra: ÜbWint'18
+Pimenta Diomar:
+  seeds:
+    - sown: 2017-12-12
+      sprout: 2017-12-20
+      extra: ÜbWint'18
 Rea Silvina CS:
   seeds:
     - sown: 2019-01-07
       sprout:
       extra:
+Scotch Bonnet Allen Boatman TF:
+  seeds:
+    - sown: 2017-12-12
+      sprout: 2017-12-20
+      extra: Lechuza, Wohnzimmer
 Trinidad Scorpion Moruga Peach:
   seeds:
     - sown: 2019-01-13
@@ -106,6 +199,11 @@ Rocoto Montufar (PI 585271):
     - sown: 2017-11-08
       sprout: 2017-11-16
       extra: Überwinterer von 2018
+Rocoto Pineapple:
+  seeds:
+    - sown: 2017-10-27
+      sprout: 2017-11-20
+      extra: ÜbWint'18
 Rocoto Rio Huallaga:
   seeds:
     - sown: 2017-10-27
