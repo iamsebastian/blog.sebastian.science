@@ -7,6 +7,10 @@ Black Cobra:
   color: rot
   heat: 7
   species: Capsicum annuum
+Doux long des Landes:
+  color: rot
+  heat: 0
+  species: Capsicum annuum
 Fish Pepper:
   color: rot
   heat: 4
@@ -35,8 +39,16 @@ Jalapeño Brown:
   color: braun
   heat: 5
   species: Capsicum annuum
+Jalapeño Fundador F1:
+  color: rot
+  heat: 5
+  species: Capsicum annuum
 Jalapeño Variegated:
   color: gemischt
+  heat: 5
+  species: Capsicum annuum
+Lanterna de Foc:
+  color: lachs
   heat: 5
   species: Capsicum annuum
 Mustafa:
@@ -47,6 +59,10 @@ Nocturne:
   color: dunkelrot
   heat: 0
   species: Capsicum annuum
+NuMex Big Jim:
+  color: rot
+  heat: 2
+  species: Capsicum annuum
 NuMex Lemon Spice:
   color: gelb
   heat: 6
@@ -55,7 +71,7 @@ NuMex Orange Spice:
   color: orange
   heat: 6
   species: Capsicum annuum
-NuMex Pinata:
+NuMex Piñata:
   color: rot
   heat: 6
   species: Capsicum annuum
@@ -201,8 +217,16 @@ Ulupica Extra Large F3:
   species: Capsicum cardenasii
 
 #### C.chinense:
+7Pot BBG White:
+  color: weiß
+  heat: 10+
+  species: Capsicum chinense
 7Pot Burgundy:
   color: burgunder-rot
+  heat: 10+
+  species: Capsicum chinense
+7Pot Brainstrain Yellow:
+  color: gelb
   heat: 10+
   species: Capsicum chinense
 Aji Cachucha:
@@ -304,6 +328,10 @@ Tabia Ecuador:
 Teapot Orange:
   color: orange
   heat: 9
+  species: Capsicum chinense
+Trinidad Scorpion Moruga Peach:
+  color: pfirsich
+  heat: 10++
   species: Capsicum chinense
 WHP 019:
   color: orange
