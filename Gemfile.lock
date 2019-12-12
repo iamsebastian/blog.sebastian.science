@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.7.0)
-      public_suffix (>= 2.0.2, < 5.0)
+      public_suffix (>= 2.0.2, < 4.0)
     autoprefixer-rails (7.1.2.3)
       execjs
     colorator (1.1.0)
