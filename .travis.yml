@@ -4,6 +4,7 @@ rvm:
 before_install:
 - rm Gemfile.lock
 - bundle install
+- cat Gemfile.lock
 script:
 - mkdir _site
 - git clone -b gh-pages `git config remote.origin.url` _site
