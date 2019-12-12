@@ -1,9 +1,10 @@
 language: ruby
 rvm:
 - 2.2
-script:
+before_install:
 - rm Gemfile.lock
 - bundle install
+script:
 - mkdir _site
 - git clone -b gh-pages `git config remote.origin.url` _site
 - bundle exec jekyll b
